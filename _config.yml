@@ -13,16 +13,18 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Bootstrap 4 Github Pages
+title: ProvenanceWeek 2020
 email: ""
 description: >- # this means to ignore newlines until "baseurl:"
-  A Bootstrap 4 start up project for Jekyll and Github Pages
+  Following successful past ProvenanceWeek events, ProvenanceWeek 2020 will again co-locate the IPAW and TaPP workshops as well as several satellite events that focus on novel directions for provenance.
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
-repository: "nicolas-van/bootstrap-4-github-pages"
+repository: "IITDBGroup/ProvenanceWeek2020"
+
+show_excerpts: true
 
 # Build settings
 plugins:
@@ -31,6 +33,18 @@ plugins:
 
 # A list of the pages to display in the navigation bar
 header_pages:
+  - tapp.md
+  - ipaw.md
+  - important_dates.md
+  - cfp.md
+  - location.md
+  - news.html
+#  - workshops
+#  - registration
+#  - schedule
+
+long_dates: "July 20th - July 24th 2020"
+short_dates: "07/20-07/24"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

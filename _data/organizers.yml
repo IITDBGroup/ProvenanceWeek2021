@@ -1,0 +1,17 @@
+chairs:
+  - name: Boris Glavic
+    role: Senior PC chair
+    affiliation: IIT, USA
+    email: "bglavic@iit.edu"
+  - name: Thomas Pasquier
+    role: TaPP PC chair
+    affiliation: University of Bristol, UK
+    email: "thomas.pasquier@bristol.ac.uk"
+  - name: Vanessa Braganholo
+    role: IPAW PC chair
+    affiliation: Universidade Federal Fluminense, Brazil
+    email: "vanessa.braganholo@gmail.com"
+  - name: Thomas Moyer
+    role: General Chair
+    affiliation: UNC Charlotte, USA
+    email: "Tom.Moyer@uncc.edu"

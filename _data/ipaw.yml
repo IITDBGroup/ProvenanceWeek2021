@@ -1,0 +1,7 @@
+pc:
+  - name: Peter
+    affiliation: University of X
+    email:
+accepted_papers:
+  - title: The Provenance of X
+    authors: "Peter Bob and Jim"

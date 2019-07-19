@@ -1,0 +1,36 @@
+---
+layout: page
+title: News
+---
+{%- if site.posts.size > 0 -%}
+
+{%- for post in site.posts -%}
+
+{%- assign date_format = "%b %-d, %Y" -%}
+
+
+<div class="card border-secondary mb-3">
+  <div class="card-header">{{ post.date | date: date_format }} - <a href="{{ post.url | relative_url }}">
+      {{ post.title | escape }}
+  </a></div>
+    {% if post.image %}
+  <a href="{{ post.url | relative_url }}">
+    <img src="{{ post.image | relative_url }}" style="height: 200px; width: 100%; display: block;">
+  </a>
+</div>
+{% endif %}
+  <div class="card-body">
+    <p class="card-text">{%- if site.show_excerpts -%}{{ post.excerpt }}{%- endif -%}
+    </p>
+  </div>
+</div>
+
+{%- endfor -%}
+
+<div class="article">
+  <p>
+    <a href="{{ "/feed.xml" | relative_url }}">Subscribe via RSS</a>
+  </p>
+</div>
+
+{%- endif -%}

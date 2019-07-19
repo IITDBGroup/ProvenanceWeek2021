@@ -1,0 +1,62 @@
+---
+layout: page
+title: ProvenanceWeek 2020
+---
+
+<div class="jumbotron">
+  <div class="container">
+    <img alt="Charlotte" src="assets/charlotte.jpg" />
+  </div>
+</div>
+
+<p>
+  The 4th ProvenanceWeek will take place in Charlotte, North Carolina, USA on {{ site.long_dates }}. Following successful previous ProvenanceWeek events, this year’s installment will again co-locate the IPAW and TaPP workshops as well as several satellite events that focus on novel directions for provenance. IPAW and TaPP build on a successful history of provenance workshops that bring together researchers from a wide range of computer science fields including workflows, semantic web, databases, high performance computing,  distributed systems, operating systems, programming languages, and software engineering, as well as researchers from other fields, such as biology and physics that have urgent provenance needs.
+</p>
+
+<p>
+  Provenance is increasingly important in data science, cloud computing, workflow systems, and many other areas. By providing a record of the data creation process and of dependencies between data, provenance information is essential for tracing errors in transformed data back to erroneous inputs, access control, auditing, repeatability and reproducibility, evaluating data quality, and establishing ownership of data.
+</p>
+
+<h3>Organizers</h3>
+
+<ul>
+  {% for p in site.data.organizers.chairs %}
+  <li><b>{{ p.name }}</b> (<it>{{ p.affiliation }}</it>) - {{ p.role }}</li>
+  {% endfor %}
+</ul>
+
+{%- if site.posts.size > 0 -%}
+
+<h3>News</h3>
+
+
+{%- for post in site.posts -%}
+
+{%- assign date_format = "%b %-d, %Y" -%}
+
+
+<div class="card border-secondary mb-3">
+  <div class="card-header">{{ post.date | date: date_format }} - <a href="{{ post.url | relative_url }}">
+      {{ post.title | escape }}
+  </a></div>
+    {% if post.image %}
+  <a href="{{ post.url | relative_url }}">
+    <img src="{{ post.image | relative_url }}" style="height: 200px; width: 100%; display: block;">
+  </a>
+</div>
+{% endif %}
+  <div class="card-body">
+    <p class="card-text">{%- if site.show_excerpts -%}{{ post.excerpt }}{%- endif -%}
+    </p>
+  </div>
+</div>
+
+{%- endfor -%}
+
+<div class="article">
+  <p>
+    <a href="{{ "/feed.xml" | relative_url }}">Subscribe via RSS</a>
+  </p>
+</div>
+
+{%- endif -%}
