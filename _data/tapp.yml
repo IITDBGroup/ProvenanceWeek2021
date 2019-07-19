@@ -1,9 +1,9 @@
-pc:
-  - name: Peter
-    affiliation: University of X
-    email:
-accepted_papers:
-  - title: The Provenance of X
-    authors:
-      - name: Peter
-      - name: Bob
+# pc:
+#   - name: Peter
+#     affiliation: University of X
+#     email:
+# accepted_papers:
+  # - title: The Provenance of X
+  #   authors:
+  #     - name: Peter
+  #     - name: Bob
