@@ -5,16 +5,12 @@ title: Important Dates
 
 See here for the [call for submissions]({{ site.baseurl }}/cfp.html).
 
-### Papers
-
-- **Abstract Submission**:
-- **Paper Submission**:
-- **Notification**:
-
-### Workshop and Co-located Event Proposals
-
-- **Proposal Submission**:
-- **Notification**:
+{% for event_type in site.data.dates.paper_types %}
+### {{ event_type.name }}
+    {% for d in event_type.dates %}
+- **{{ d.event }}**: {{ d.date }}
+    {% endfor %}
+{% endfor %}
 
 ### Conference
 

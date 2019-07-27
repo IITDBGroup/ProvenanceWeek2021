@@ -1,0 +1,25 @@
+paper_types:
+  - name: "Papers"
+    dates:
+      - event: "Abstract Submission"
+        date: "March 1st, 2020"
+      - event: "Paper Submission"
+        date: "March 8th, 2020"
+      - event: "Author Notification"
+        date: "May 1st, 2020"
+#      - event: "Camera Ready"
+#        date: "June 4th, 2020"
+  - name: "Demos and Posters"
+    dates:
+      - event: "Paper Submission"
+        date: "April 5th, 2020"
+      - event: "Author Notification"
+        date: "May 1st, 2020"
+#      - event: "Camera Ready"
+#        date: "2020-05-23"
+  - name: "Workshop and Co-located Event Proposals"
+    dates:
+      - event: "Proposal Submission"
+        date: "Febuary 1st, 2020"
+      - event: "Notification of Acceptance"
+        date: "Feburary 15th, 2020"

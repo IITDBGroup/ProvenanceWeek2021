@@ -43,8 +43,8 @@ header_pages:
 #  - registration
 #  - schedule
 
-long_dates: "July 20th - July 24th 2020"
-short_dates: "07/20-07/24"
+long_dates: "June 22th - June 25th 2020"
+short_dates: "06/22-06/25"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

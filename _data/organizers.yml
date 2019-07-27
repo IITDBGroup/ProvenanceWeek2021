@@ -15,3 +15,7 @@ chairs:
     role: General Chair
     affiliation: UNC Charlotte, USA
     email: "Tom.Moyer@uncc.edu"
+  - name: David Koop
+    role: Demo/Poster Chair
+    affiliation: Northern Illinois University, USA
+    email: "dkoop@umassd.edu"
