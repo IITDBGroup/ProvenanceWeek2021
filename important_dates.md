@@ -3,7 +3,7 @@ layout: page
 title: Important Dates
 ---
 
-See here for the [call for submissions]({{ site.baseurl }}/cfp.html).
+See here for the [call for submissions and co-located event proposals]({{ site.baseurl }}/cfp.html).
 
 {% for event_type in site.data.dates.paper_types %}
 ### {{ event_type.name }}

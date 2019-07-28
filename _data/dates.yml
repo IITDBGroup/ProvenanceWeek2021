@@ -1,5 +1,5 @@
 paper_types:
-  - name: "Papers"
+  - name: "Papers (IPAW and TaPP tracks)"
     dates:
       - event: "Abstract Submission"
         date: "March 1st, 2020"
