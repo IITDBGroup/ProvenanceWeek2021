@@ -1,9 +1,9 @@
 ---
 layout: page
-title: IPAW
+title: 8th International Provenance and Annotation Workshop
 ---
 
-IPAW is
+The International Provenance and Annotation Workshop (IPAW) is a biannual workshop that is concerned with issues of data provenance, data derivation, and data annotation. It brings together computer scientists from different areas and provenance users to discuss open problems related to the provenance of computation and non-computational artifacts.
 
 
 ### Organizers
