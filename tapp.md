@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 12th International Workshop on Theory and Practice of Provenance (in cooperation with USENIX)
+title: TaPP
 ---
 
 The Theory and Practice of Provenance (TaPP) workshop series was started in San Francisco in 2009 (see previous [proceedings](https://www.usenix.org/conferences/byname/186)).
