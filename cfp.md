@@ -38,7 +38,7 @@ We invite innovative and creative contributions, including papers outlining new 
 Papers must be:
 - not published or under review elsewhere
 - no longer than 10 pages + references and appendix
-- Submitting shorter papers is not discouraged. Specifically, papers presenting visionary or preliminary ideas often tend to be shorter than the page limit.
+- Submitting shorter papers is not discouraged. Specifically, papers presenting visionary or preliminary ideas often tend to be shorter than the page limit. Please clearly prefix your paper title with "vision" when appropriate.
 - formatted according to the LIPIcs guidelines:
   - [LIPIcs author guidelines](https://www.dagstuhl.de/en/publications/lipics/instructions-for-authors/)
 - submitted as PDF files to the TaPP track at:
