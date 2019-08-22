@@ -33,7 +33,7 @@ Important Dates:
 
 The TaPP track continues the tradition of TaPP to provide a genuine workshop environment for discussing and developing new ideas and exploring connections between disciplines and between academic research on provenance and practical applications.
 
-We invite innovative and creative contributions, including papers outlining new challenges for provenance research, promising formal approaches to provenance, innovative use of provenance, experience-based insights, resourceful experiments, and visionary (and possibly risky) ideas. The provenance community is very diverse, we therefore strongly encourage authors to contextualise their work.
+We invite innovative and creative contributions, including papers outlining new challenges for provenance research, promising formal approaches to provenance, innovative use of provenance, experience-based insights, resourceful experiments, and visionary (and possibly risky) ideas. The provenance community is very diverse, we therefore strongly encourage authors to contextualize their work.
 
 Papers must be:
 - not published or under review elsewhere
