@@ -1,6 +1,52 @@
 pc:
   - name: Andreas Schreiber
     affiliation: German Aerospace Center (DLR), Germany
+  - name: Barbara Lerner
+    affiliation: Mount Holyoke College, USA
+  - name: Beth Plale
+    affiliation: Indiana University, USA
+  - name: Daniel de Oliveira
+    affiliation: Fluminense Federal University, Brazil
+  - name: Daniel Garijo  
+    affiliation: University of Southern California, USA
+  - name: David Corsar  
+    affiliation: Robert Gordon University, UK
+  - name: Dong Huynh  
+    affiliation: King's College of London, UK
+  - name: Fernando Chirigati  
+    affiliation: New York University, USA
+  - name: Grigoris Karvounarakis  
+    affiliation: LogicBlox, USA
+  - name: Hala Skaf-Molli  
+    affiliation: Nantes University, France
+  - name: Ilkay Altintas  
+    affiliation: San Diego Supercomputer Center, USA
+  - name: Jacek Cala  
+    affiliation: Newcastle University, UK
+  - name: James Cheney  
+    affiliation: University of Edinburgh, UK
+  - name: James Frew  
+    affiliation: University of California, Santa Barbara, USA
+  - name: James Myers  
+    affiliation: University of Michigan, USA
+  - name: Luc Moreau  
+    affiliation: King’s College London, UK
+  - name: Luiz M. R. Gadelha Jr.  
+    affiliation: LNCC, Brazil
+  - name: Paolo Missier  
+    affiliation: Newcastle University, UK
+  - name: Paul Groth  
+    affiliation: University of Amsterdam, Netherlands
+  - name: Pinar Alper  
+    affiliation: Luxembourg Centre for Systems Biomedicine, Luxembourg
+  - name: Shawn Bowers  
+    affiliation: Gonzaga University, USA
+  - name: Simon Miles  
+    affiliation: King's College London, UK
+  - name: Tanu Malik  
+    affiliation: DePaul University, USA
+  - name: Timothy Clark  
+    affiliation: University of Virginia, USA
 # accepted_papers:
 #   - title: The Provenance of X
   #   authors:
