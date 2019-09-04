@@ -1,7 +1,6 @@
-# pc:
-#   - name: Peter
-#     affiliation: University of X
-#     email:
+pc:
+  - name: Andreas Schreiber
+    affiliation: German Aerospace Center (DLR), Germany
 # accepted_papers:
 #   - title: The Provenance of X
   #   authors:
