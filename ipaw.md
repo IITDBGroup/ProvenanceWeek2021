@@ -11,13 +11,13 @@ The International Provenance and Annotation Workshop (IPAW) is a biannual worksh
 {% assign pcchair = site.data.organizers.chairs | where: "role", "IPAW PC chair" | first %}
 * **{{ pcchair.name }}** (*{{ pcchair.affiliation }}*) - PC Chair 
 
-{%- if site.data.ipaw.pc > 0 -%}
+if site.data.ipaw.pc > 0
 ### Program Committee
 
-{% for pc in site.data.ipaw.pc %}
+for pc in site.data.ipaw.pc
 * **{{ pc.name }}** ({{ pc.affiliation }})
-{% endfor %}
-{% endif %}
+endfor
+endif
 
 {% if site.data.ipaw.accepted_papers.izer > 0 %}
 ### Accepted Papers
