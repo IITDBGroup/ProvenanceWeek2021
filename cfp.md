@@ -5,7 +5,7 @@ title: Submissions
 
 ## Tracks
 
-Papers can be submitted to one of three tracks ([IPAW](#ipaw), [TaPP](#tapp), [demonstration and poster](#demonstrations-and-posters)). <!-- Boris: check first. All papers will be published as [LIPIcs proceedings](https://www.dagstuhl.de/en/publications/lipics/). -->
+Papers can be submitted to one of three tracks ([IPAW](#ipaw), [TaPP](#tapp), [demonstration and poster](#demonstrations-and-posters)) at [https://pw2020.thomasmoyer.org/pw2020/](https://pw2020.thomasmoyer.org/pw2020/). <!-- Boris: check first. All papers will be published as [LIPIcs proceedings](https://www.dagstuhl.de/en/publications/lipics/). -->
 Furthermore, we are soliciting proposals for [co-located events and workshops](#proposals-for-workshops-and-co-located-events).
 
 ### IPAW
@@ -19,7 +19,7 @@ Papers must be:
 - formatted according to the LIPIcs guidelines:
   - [LIPIcs author guidelines](https://www.dagstuhl.de/en/publications/lipics/instructions-for-authors/)
 - submitted as PDF files to the IPAW track at:
-  - [IPAW track submission site](https://www.)
+  - [submission site](https://pw2020.thomasmoyer.org/pw2020/)
 
 Important Dates:
 {% assign deadlines = site.data.dates.paper_types | where:"name","Papers (IPAW and TaPP tracks)" | first %}
@@ -41,7 +41,7 @@ Papers must be:
 - formatted according to the LIPIcs guidelines:
   - [LIPIcs author guidelines](https://www.dagstuhl.de/en/publications/lipics/instructions-for-authors/)
 - submitted as PDF files to the TaPP track at:
-  - [TaPP track submission site](https://www.)
+  - [submission site](https://pw2020.thomasmoyer.org/pw2020/)
 
 Important Dates:
 {% assign deadlines = site.data.dates.paper_types | where:"name","Papers (IPAW and TaPP tracks)" | first %}
@@ -66,7 +66,7 @@ Demo and poster proposal must be:
 - formatted according to the LIPIcs guidelines:
   - [LIPIcs author guidelines](https://www.dagstuhl.de/en/publications/lipics/instructions-for-authors/)
 - submitted as PDF files to the demo/poster track at:
-  - [demo/poster track submission site](https://www.)
+  - [submission site](https://pw2020.thomasmoyer.org/pw2020/)
 - poster authors must also submit a preliminary version of the poster as a supplementary file
 
 Important Dates:
