@@ -12,13 +12,11 @@ Industry and academic participants interested in provenance in any setting are w
 {% assign pcchair = site.data.organizers.chairs | where: "role", "TaPP PC chair" | first %}
 * **{{ pcchair.name }}** (*{{ pcchair.affiliation }}*)
 
-{%- if site.data.tapp.pc > 0 -%}
 ### Program Committee
 
-{% for pc in site.data.tapp.pc %}
+{% for pc in site.data.ipaw.pc %}
 * **{{ pc.name }}** ({{ pc.affiliation }})
 {% endfor %}
-{% endif %}
 
 {%- if site.data.tapp.accepted_papers > 0 -%}
 ### Accepted Papers
