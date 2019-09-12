@@ -14,7 +14,7 @@ Industry and academic participants interested in provenance in any setting are w
 
 ### Program Committee
 
-{% for pc in site.data.ipaw.pc %}
+{% for pc in site.data.tapp.pc %}
 * **{{ pc.name }}** ({{ pc.affiliation }})
 {% endfor %}
 
