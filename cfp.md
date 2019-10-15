@@ -16,8 +16,7 @@ Papers must be:
 - not published or under review elsewhere
 - no longer than 10 pages + references
   - that is, references  do not count on the page limit - feel free to include as many references as required
-- formatted according to the LIPIcs guidelines:
-  - [LIPIcs author guidelines](https://www.dagstuhl.de/en/publications/lipics/instructions-for-authors/)
+- formatting TBC.
 - submitted as PDF files to the IPAW track at:
   - [submission site](https://pw2020.thomasmoyer.org/pw2020/)
 
@@ -39,7 +38,7 @@ Papers must be:
 - not published or under review elsewhere
 - no longer than 10 pages + references and appendix
 - Submitting shorter papers is not discouraged. Specifically, papers presenting visionary or preliminary ideas often tend to be shorter than the page limit. Please clearly prefix your paper title with "vision" when appropriate.
-- formatting TBC.
+- formatting TBC
 - submitted as PDF files to the TaPP track at:
   - [submission site](https://pw2020.thomasmoyer.org/pw2020/)
 
@@ -63,8 +62,7 @@ workshop.
 
 Demo and poster proposal must be:
 - no longer than 2 pages
-- formatted according to the LIPIcs guidelines:
-  - [LIPIcs author guidelines](https://www.dagstuhl.de/en/publications/lipics/instructions-for-authors/)
+- formatting TBC
 - submitted as PDF files to the demo/poster track at:
   - [submission site](https://pw2020.thomasmoyer.org/pw2020/)
 - poster authors must also submit a preliminary version of the poster as a supplementary file
