@@ -35,12 +35,14 @@ The TaPP track continues the tradition of TaPP to provide a genuine workshop env
 We invite innovative and creative contributions, including papers outlining new challenges for provenance research, promising formal approaches to provenance, innovative use of provenance, experience-based insights, resourceful experiments, and visionary (and possibly risky) ideas. The provenance community is very diverse, we therefore strongly encourage authors to contextualize their work.
 
 Papers must be:
-- not published or under review elsewhere
-- no longer than 10 pages + references and appendix
-- Submitting shorter papers is not discouraged. Specifically, papers presenting visionary or preliminary ideas often tend to be shorter than the page limit. Please clearly prefix your paper title with "vision" when appropriate.
-- formatting TBC
-- submitted as PDF files to the TaPP track at:
++ not published or under review elsewhere
++ no longer than 5 pages (excluding references and appendix) following [USENIX format](https://www.usenix.org/conferences/author-resources/paper-templates).
+  - Submitting shorter papers is not discouraged. Specifically, papers presenting visionary or preliminary ideas often tend to be shorter than the page limit. Please clearly prefix your paper title with "vision" when appropriate.
+  - Further, TaPP is a workshop primarily focused on the presentation of early-stage research papers. If the page limit would preclude a future full-length publication (e.g. to VLDB), please, feel free to submit a shorter paper. You may want to add the following mention at the end of your abstract \textbf{We limited the paper to 4 pages as to allow a future full-length publication.}. This will be taken into account by the reviewers. This mention should be removed in the camera-ready version.
+  - Please, note that the appendix may contain additional material as appropriate (e.g. extended proof, full evaluation break down), but it should not be essential to the comprehension of the paper.
++ submitted as PDF files to the TaPP track at:
   - [submission site](https://pw2020.thomasmoyer.org/pw2020/)
++ The proceedings will be published by USENIX.
 
 Important Dates:
 {% assign deadlines = site.data.dates.paper_types | where:"name","Papers (IPAW and TaPP tracks)" | first %}
