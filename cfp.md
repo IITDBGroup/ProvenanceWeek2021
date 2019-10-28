@@ -10,12 +10,11 @@ Furthermore, we are soliciting proposals for [co-located events and workshops](#
 
 ### IPAW
 
-Authors are invited to submit original research work the IPAW track. This track solicits full research papers that describe mature, high-quality research on the topics of interest of the Provenance Week. Papers submitted to IPAW are expected to have some form of initial validation, such as a case study or preliminary experiments showing the feasibility of the proposed approach.
+Authors are invited to submit original research work for the IPAW track. This track solicits full research papers that describe mature, high-quality research on the topics of interest of the Provenance Week. Papers submitted to IPAW are expected to have some form of initial validation, such as a case study or preliminary experiments showing the feasibility of the proposed approach.
 
 Papers must be:
 - not published or under review elsewhere
-- no longer than 10 pages + references
-  - that is, references  do not count on the page limit - feel free to include as many references as required
+- no longer than 16 pages + references
 - formatting TBC.
 - submitted as PDF files to the IPAW track at:
   - [submission site](https://pw2020.thomasmoyer.org/pw2020/)
