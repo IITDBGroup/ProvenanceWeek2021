@@ -42,7 +42,7 @@ Papers must be:
   - Please, note that the appendix may contain additional material as appropriate (e.g. extended proof, full evaluation break down), but it should not be essential to the comprehension of the paper.
 + submitted as PDF files to the TaPP track at:
   - [submission site](https://pw2020.thomasmoyer.org/pw2020/)
-+ The proceedings will be published by USENIX.
++ The proceedings will be published by USENIX (open access).
 
 Important Dates:
 {% assign deadlines = site.data.dates.paper_types | where:"name","Papers (IPAW and TaPP tracks)" | first %}
