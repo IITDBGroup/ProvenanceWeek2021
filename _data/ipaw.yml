@@ -7,45 +7,45 @@ pc:
     affiliation: Indiana University, USA
   - name: Daniel de Oliveira
     affiliation: Fluminense Federal University, Brazil
-  - name: Daniel Garijo  
+  - name: Daniel Garijo
     affiliation: University of Southern California, USA
-  - name: David Corsar  
+  - name: David Corsar
     affiliation: Robert Gordon University, UK
-  - name: Dong Huynh  
+  - name: Dong Huynh
     affiliation: King's College of London, UK
-  - name: Fernando Chirigati  
+  - name: Fernando Chirigati
     affiliation: New York University, USA
-  - name: Grigoris Karvounarakis  
+  - name: Grigoris Karvounarakis
     affiliation: LogicBlox, USA
-  - name: Hala Skaf-Molli  
+  - name: Hala Skaf-Molli
     affiliation: Nantes University, France
-  - name: Ilkay Altintas  
+  - name: Ilkay Altintas
     affiliation: San Diego Supercomputer Center, USA
-  - name: Jacek Cala  
+  - name: Jacek Cala
     affiliation: Newcastle University, UK
-  - name: James Cheney  
+  - name: James Cheney
     affiliation: University of Edinburgh, UK
-  - name: James Frew  
+  - name: James Frew
     affiliation: University of California, Santa Barbara, USA
-  - name: James Myers  
+  - name: James Myers
     affiliation: University of Michigan, USA
-  - name: Luc Moreau  
+  - name: Luc Moreau
     affiliation: King’s College London, UK
-  - name: Luiz M. R. Gadelha Jr.  
+  - name: Luiz M. R. Gadelha Jr.
     affiliation: LNCC, Brazil
-  - name: Paolo Missier  
+  - name: Paolo Missier
     affiliation: Newcastle University, UK
-  - name: Paul Groth  
+  - name: Paul Groth
     affiliation: University of Amsterdam, Netherlands
-  - name: Pinar Alper  
+  - name: Pinar Alper
     affiliation: Luxembourg Centre for Systems Biomedicine, Luxembourg
-  - name: Shawn Bowers  
+  - name: Shawn Bowers
     affiliation: Gonzaga University, USA
-  - name: Simon Miles  
+  - name: Simon Miles
     affiliation: King's College London, UK
-  - name: Tanu Malik  
+  - name: Tanu Malik
     affiliation: DePaul University, USA
-  - name: Timothy Clark  
+  - name: Timothy Clark
     affiliation: University of Virginia, USA
 # accepted_papers:
 #   - title: The Provenance of X
