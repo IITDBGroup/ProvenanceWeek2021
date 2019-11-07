@@ -10,14 +10,12 @@ Furthermore, we are soliciting proposals for [co-located events and workshops](#
 
 ### IPAW
 
-Authors are invited to submit original research work the IPAW track. This track solicits full research papers that describe mature, high-quality research on the topics of interest of the Provenance Week. Papers submitted to IPAW are expected to have some form of initial validation, such as a case study or preliminary experiments showing the feasibility of the proposed approach.
+Authors are invited to submit original research work for the IPAW track. This track solicits full research papers that describe mature, high-quality research on the topics of interest of the Provenance Week. Papers submitted to IPAW are expected to have some form of initial validation, such as a case study or preliminary experiments showing the feasibility of the proposed approach.
 
 Papers must be:
 - not published or under review elsewhere
-- no longer than 10 pages + references
-  - that is, references  do not count on the page limit - feel free to include as many references as required
-- formatted according to the LIPIcs guidelines:
-  - [LIPIcs author guidelines](https://www.dagstuhl.de/en/publications/lipics/instructions-for-authors/)
+- no longer than 16 pages + references
+- formatting TBC.
 - submitted as PDF files to the IPAW track at:
   - [submission site]({{ site.data.conference.submission_site }})
 
@@ -36,13 +34,14 @@ The TaPP track continues the tradition of TaPP to provide a genuine workshop env
 We invite innovative and creative contributions, including papers outlining new challenges for provenance research, promising formal approaches to provenance, innovative use of provenance, experience-based insights, resourceful experiments, and visionary (and possibly risky) ideas. The provenance community is very diverse, we therefore strongly encourage authors to contextualize their work.
 
 Papers must be:
-- not published or under review elsewhere
-- no longer than 10 pages + references and appendix
-- Submitting shorter papers is not discouraged. Specifically, papers presenting visionary or preliminary ideas often tend to be shorter than the page limit. Please clearly prefix your paper title with "vision" when appropriate.
-- formatted according to the LIPIcs guidelines:
-  - [LIPIcs author guidelines](https://www.dagstuhl.de/en/publications/lipics/instructions-for-authors/)
-- submitted as PDF files to the TaPP track at:
-  - [submission site]({{ site.data.conference.submission_site }})
++ not published or under review elsewhere
++ no longer than 5 pages (excluding references and appendix) following [USENIX format](https://www.usenix.org/conferences/author-resources/paper-templates).
+  - Submitting shorter papers is not discouraged. Specifically, papers presenting visionary or preliminary ideas often tend to be shorter than the page limit. Please clearly prefix your paper title with "vision" when appropriate.
+  - Further, TaPP is a workshop primarily focused on the presentation of early-stage research papers. If the page limit would preclude a future full-length publication (e.g. to VLDB), please, feel free to submit a shorter paper. You may want to add the following mention at the end of your abstract \textbf{We limited the paper to 4 pages as to allow a future full-length publication.}. This will be taken into account by the reviewers. This mention should be removed in the camera-ready version.
+  - Please, note that the appendix may contain additional material as appropriate (e.g. extended proof, full evaluation break down), but it should not be essential to the comprehension of the paper.
++ submitted as PDF files to the TaPP track at:
+  - [submission site](https://pw2020.thomasmoyer.org/pw2020/)
++ The proceedings will be published by USENIX (open access).
 
 Important Dates:
 {% assign deadlines = site.data.dates.paper_types | where:"name","Papers (IPAW and TaPP tracks)" | first %}
@@ -64,8 +63,7 @@ workshop.
 
 Demo and poster proposal must be:
 - no longer than 2 pages
-- formatted according to the LIPIcs guidelines:
-  - [LIPIcs author guidelines](https://www.dagstuhl.de/en/publications/lipics/instructions-for-authors/)
+- formatting TBC
 - submitted as PDF files to the demo/poster track at:
   - [submission site]({{ site.data.conference.submission_site }})
 - poster authors must also submit a preliminary version of the poster as a supplementary file

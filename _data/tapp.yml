@@ -1,9 +1,37 @@
-# pc:
-#   - name: Peter
-#     affiliation: University of X
-#     email:
-# accepted_papers:
-  # - title: The Provenance of X
-  #   authors:
-  #     - name: Peter
-  #     - name: Bob
+pc:
+  - name: Adriane Chapman
+    affiliation: University of Southampton, UK
+  - name: Ana Trisovic
+    affiliation: Harvard University, USA
+  - name: Ashish Gehani
+    affiliation: SRI, USA
+  - name: Berrada Ghita
+    affiliation: King's College London, UK
+  - name: Elisa Bertino
+    affiliation: Purdue University, USA
+  - name: David Eyers
+    affiliation: University of Otago, New Zealand
+  - name: Irini Fundulaki
+    affiliation: ICS-FORTH, Greece
+  - name: Khalid Belhajjame
+    affiliation: Paris-Dauphine University, France
+  - name: Lukas Rupprech
+    affiliation: IBM, USA
+  - name: Matteo Interlandi
+    affiliation: Microsoft, USA
+  - name: Marta Mattoso
+    affiliation: COPPE- Federal Univ Rio de Janeiro, Brazil
+  - name: Mercè Crosas
+    affiliation: Harvard University, USA
+  - name: Melanie Herschel
+    affiliation: University of Stuttgart, Germany
+  - name: Nicole Bidoit-Tollu
+    affiliation: University Paris Sud, France
+  - name: Sebastian Schelter
+    affiliation: New York University, USA
+  - name: Xiao Yu
+    affiliation: NEC Laboratories America, USA
+  - name: Xueyuan (Michael) Han
+    affiliation: Harvard University, USA
+  - name: Yulai Xie
+    affiliation: Huazhong University of Science and Technology, China
