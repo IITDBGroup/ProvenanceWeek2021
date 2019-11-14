@@ -23,6 +23,12 @@ Papers must be:
 - submitted as PDF files to the IPAW track at:
   - [submission site]({{ site.data.conference.submission_site }})
 
+Authors should consult Springer’s [authors’ guidelines](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) and use their proceedings templates, either for [LaTeX](ftp://ftp.springernature.com/cs-proceeding/svproc/templates/ProcSci_TeX.zip) or for [Word](ftp://ftp.springernature.com/cs-proceeding/llncs/word/splnproc1703.zip), for the preparation of their papers. They also have a [template available on Overleaf](https://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj#.WsdHOy5uZpg). Springer encourages authors to include their [ORCID](https://goo.gl/hbsa4D)s in their papers. In addition, the corresponding author of each paper, acting on behalf of all of the authors of that paper, must complete and sign a [Consent-to-Publish form](https://github.com/IITDBGroup/ProvenanceWeek2020/blob/master/_data/ipaw-copyright.pdf). The corresponding author signing the copyright form should match the corresponding author marked on the paper. Once the files have been sent to Springer, changes relating to the authorship of the papers cannot be made.
+
+A proceedings volume will be published in the Springer
+Lecture Notes in Computer Science (LNCS) series. Springer offers "Open
+choice" for authors who wish to provide open access to their papers. 
+
 Important Dates:
 {% assign deadlines = site.data.dates.paper_types | where:"name","Papers (IPAW and TaPP tracks)" | first %}
 {% for d in deadlines.dates %}
