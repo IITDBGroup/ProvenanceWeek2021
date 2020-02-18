@@ -41,7 +41,7 @@ header_pages:
   - news.html
 #  - workshops
 #  - registration
-#  - schedule
+  - schedule.md
 
 long_dates: "June 22th - June 25th 2020"
 short_dates: "06/22-06/25"
