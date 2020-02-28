@@ -63,28 +63,22 @@ Important Dates:
 
 ### Demonstrations and Posters
 
-ProvenanceWeek encourages the presentation of posters and
-demonstrations. Proposals for posters and demonstrations should be limited to a
-short description. For posters please describe the poster content and research
-problem. For demonstrations clearly indicate what is going to be demonstrated,
-the significance of the research contribution, and/or applications. Accepted
-posters and demonstrations will be presented during a separate session at the
-workshop.
+ProvenanceWeek encourages the presentation of posters and demonstrations. Proposals for posters and demonstrations should be limited to a short description. For posters please describe the poster content and research problem. For demonstrations clearly indicate what is going to be demonstrated, the significance of the research contribution, and/or applications. Accepted posters and demonstrations will be presented during a separate session at the workshop.
 
-Demo and poster proposal must be:
-- no longer than 2 pages
-- formatting TBC
+Demo and poster proposals must be:
+
++ no longer than 2 pages
++ formatted according to the USENIX instructions: https://www.usenix.org/conferences/author-resources/paper-templates
 - submitted as PDF files to the demo/poster track at:
   - [submission site]({{ site.data.conference.submission_site }})
-- poster authors must also submit a preliminary version of the poster as a supplementary file
+
+Poster authors are strongly encouraged to include an optional draft of their poster layout and content. This addition gives a clear idea to reviewers of what to expect and provides the opportunity for authors to receive feedback. All submissions should be in PDF format. Those who intend to show demos are also highly encouraged to submit a short accompanying video or other supplementary materials.
 
 Important Dates:
 {% assign deadlines = site.data.dates.paper_types | where:"name","Demos and Posters" | first %}
 {% for d in deadlines.dates %}
 - **{{ d.event }}**: {{ d.date }}
 {% endfor %}
-
-
 
 ## Submission Site
 
