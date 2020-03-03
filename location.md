@@ -3,7 +3,7 @@ layout: page
 title: Location
 ---
 
-# About Charlotte - The Queen City
+## About Charlotte - The Queen City
 Charlotte is the 16th largest city in the U.S. and the largest city in North Carolina. Nicknamed the Queen City, Charlotte and its resident county are named in honor of Charlotte of Mecklenburg-Strelitz, the queen consort of British King George III during the time of the city’s founding.
 
 To travel to Charlotte, use the Charlotte Douglas International Airport (CTL).
@@ -30,9 +30,9 @@ Check out some of the best reasons to be in the Queen City. Did you know? Charlo
 - Has been named “Tree City” for 33 consecutive years by the National Arbor Day foundation
 - Is home of ImaginOn, the top ranked children’s museum in the country (Livability.com)
 
-https://charlottenc.gov/AboutCharlotte/Pages/AboutTheQueenCity.aspx
+[https://charlottenc.gov/AboutCharlotte/Pages/AboutTheQueenCity.aspx](https://charlottenc.gov/AboutCharlotte/Pages/AboutTheQueenCity.aspx)
 
-# Venue: UNC Charlotte College of Computing and Informatics
+## Venue: UNC Charlotte College of Computing and Informatics
 
 UNC Charlotte is North Carolina’s urban research university. It leverages its location in the state’s largest city to offer internationally competitive programs of research and creative activity, exemplary undergraduate, graduate and professional programs, and a focused set of community engagement initiatives. UNC Charlotte maintains a particular commitment to addressing the cultural, economic, educational, environmental, health, and social needs of the greater Charlotte region.
 
@@ -46,7 +46,7 @@ Research initiatives are at the very heart of CCI’s mission. UNC Charlotte’s
 
 [Campus Maps](https://facilities.uncc.edu/our-services/maps/printable-campus-maps)
 
-# Lodging
+## Lodging
 
 The following hotels provide a discounted rate if you mention that you are visiting UNC Charlotte.
 
