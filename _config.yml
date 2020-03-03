@@ -35,6 +35,7 @@ plugins:
 header_pages:
   - tapp.md
   - ipaw.md
+  - provviz.md
   - important_dates.md
   - cfp.md
   - location.md
