@@ -19,7 +19,7 @@ paper_types:
 #        date: "2020-05-23"
   - name: "ProvViz Workshop"
     dates:
-      - event: "Paper Submission"
+      - event: "Abstract Submission"
         date: "May 8th, 2020"
       - event: "Author Notification"
         date: "May 15th, 2020"
