@@ -16,7 +16,7 @@ All Provenance Week 2020 participants are welcome to join the Workshop on Proven
 {% if site.data.ipaw.accepted_papers.izer > 0 %}
 ### Accepted Papers
 
-{% for p in site.data.ipaw.accepted_papers %}
+{% for p in site.data.provvis.accepted_papers %}
 {% assign authors = p.authors | map: 'name' %}
 * **{{ p.title }}** (*{{ authors | join: ', ' }}*)
 {% endfor %}
