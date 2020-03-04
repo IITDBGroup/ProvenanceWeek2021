@@ -19,3 +19,19 @@ chairs:
     role: TaPP PC chair
     affiliation: University of Bristol, UK
     email: "thomas.pasquier@bristol.ac.uk"
+  - name: Eli T. Brown
+    role: ProvViz chair
+    affiliation: DePaul University
+    email: "ebrown80@cdm.depaul.edu"
+  - name: Marc Streit
+    role: ProvViz chair
+    affiliation: Johannes Kepler University Linz
+    email: "Marc.Streit@jku.at"
+  - name: John Wenskovitch
+    role: ProvViz chair
+    affiliation: Virginia Tech
+    email: "jw87@vt.edu"
+  - name: Kai Xu
+    role: ProvViz chair
+    affiliation: Middlesex University
+    email: "K.Xu@mdx.ac.uk"    
