@@ -9,8 +9,8 @@ All Provenance Week 2020 participants are welcome to join the Workshop on Proven
 
 ### Organizers
 
-{% for pcchair in site.data.organizers.chairs | where: "role", "ProvViz chair" %}
-* **{{ pcchair.name }}** ({{ pcchair.affiliation }})
+{% for chair in site.data.provviz.chairs %}
+* **{{ chair.name }}** ({{ chair.affiliation }})
 
 
 {% if site.data.ipaw.accepted_papers.izer > 0 %}
