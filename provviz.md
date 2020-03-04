@@ -11,7 +11,7 @@ All Provenance Week 2020 participants are welcome to join the Workshop on Proven
 
 {% for chair in site.data.provviz.chairs %}
 * **{{ chair.name }}** ({{ chair.affiliation }})
-
+{% endfor %}
 
 {% if site.data.ipaw.accepted_papers.izer > 0 %}
 ### Accepted Papers
