@@ -6,7 +6,8 @@ title: Submissions
 ## Tracks
 
 Papers can be submitted to one of three tracks ([IPAW](#ipaw), [TaPP](#tapp), [demonstration and poster](#demonstrations-and-posters)) at [https://pw2020.thomasmoyer.org/pw2020/](https://pw2020.thomasmoyer.org/pw2020/). <!-- Boris: check first. All papers will be published as [LIPIcs proceedings](https://www.dagstuhl.de/en/publications/lipics/). -->
-Furthermore, we are soliciting proposals for [co-located events and workshops](#proposals-for-workshops-and-co-located-events).
+Furthermore, the [Workshop on Provenance and Visualization ](#provviz) solicits one-page abstracts that propose a topic or research question to be discussed at the workshop.
+<!-- we are soliciting proposals for [co-located events and workshops](#proposals-for-workshops-and-co-located-events). -->
 
 ### IPAW
 
@@ -27,7 +28,7 @@ Authors should consult Springer’s [authors’ guidelines](https://www.springer
 
 A proceedings volume will be published in the Springer
 Lecture Notes in Computer Science (LNCS) series. Springer offers "Open
-choice" for authors who wish to provide open access to their papers. 
+choice" for authors who wish to provide open access to their papers.
 
 Important Dates:
 {% assign deadlines = site.data.dates.paper_types | where:"name","Papers (IPAW and TaPP tracks)" | first %}
@@ -85,7 +86,7 @@ Important Dates:
 
 The aim of the workshop is to encourage exchange between the provenance and visualization communities. During the workshop, we will introduce the latest developments in provenance analysis from the visualization community, and try to address research challenges that are relevant for both communities.
 
-All Provenance Week 2020 participants are welcome to join. There is an option to submit a one-page abstract before the workshop if you would like to propose a topic or research question to be discussed at the workshop.  
+All Provenance Week 2020 participants are welcome to join. There is an option to submit a one-page abstract before the workshop if you would like to propose a topic or research question to be discussed at the workshop.
 
 The workshop lasts half a day, and will start with a keynote by an invited speaker (to be confirmed). After that, participants will form groups to discuss a particular area or research question based on their shared interest. Finally, each group will report back their discussion results and collaboration plan after the workshop.
 
