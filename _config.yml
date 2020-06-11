@@ -33,6 +33,7 @@ plugins:
 
 # A list of the pages to display in the navigation bar
 header_pages:
+  - virtual.md
   - tapp.md
   - ipaw.md
   - provviz.md
@@ -44,7 +45,8 @@ header_pages:
 #  - registration
   - schedule.md
 
-long_dates: "June 22th - June 25th 2020"
+virtual_event: "June 22nd 10:00am - 3:30pm (eastern)"
+long_dates: "June 2021"
 short_dates: "06/22-06/25"
 
 # Exclude from processing.

@@ -35,3 +35,10 @@ pc:
     affiliation: Harvard University, USA
   - name: Yulai Xie
     affiliation: Huazhong University of Science and Technology, China
+accepted_papers:
+  - title: "Test TaPP"
+    authors:
+      - name: Test author 1
+      - name: Test author 2
+      - name: Test author 3
+    paper: https://arxiv.org/abs

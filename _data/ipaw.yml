@@ -49,8 +49,26 @@ pc:
     affiliation: DePaul University, USA
   - name: Timothy Clark
     affiliation: University of Virginia, USA
-# accepted_papers:
-#   - title: The Provenance of X
-  #   authors:
-  #     - name: Peter
-  #     - name: Bob
+accepted_papers:
+  - title: "Efficient Computation of Provenance for Query Result Exploration"
+    authors:
+      - name: M. Mani
+      - name: N. Singaraj
+      - name: Z. Liu
+    preprint: https://arxiv.org/abs/1905.09251
+  - title: "Non-repudiable provenance for clinical decision support systems"
+    authors:
+      - name: E. Fairweather
+      - name: R. Wittner
+      - name: M. Chapman
+      - name: P. Holub
+      - name: V. Curcin
+  - title: "The PROV-JSONLD Serialization. A JSON-LD Representation for the PROV Data Model"
+    authors:
+      - name: L. Moreau
+      - name: T. Huynh
+  - title: "Incremental Inference of Provenance Types"
+    authors:
+      - name: D. Marzagão
+      - name: T. Huynh
+      - name: L. Moreau

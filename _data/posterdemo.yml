@@ -1,0 +1,9 @@
+accepted_papers:
+  - title: "Test poster"
+    category: poster
+    authors:
+      - name: M. Mani
+      - name: N. Singaraj
+      - name: Z. Liu
+    link: www.google.com
+    breakout: meet.google.com/adsasdasdasdas
