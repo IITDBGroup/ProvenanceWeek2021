@@ -47,7 +47,7 @@ Authors will present live with a backup option of playing a prerecorded video in
     - {{ p.title }} (*{{ authors | join: ', ' }}*) {% if p.preprint %}preprint: [{{ p.preprint }}]({{ p.preprint }}){% endif %}
 {% endfor %}
 -  **1:45pm - 2:30pm - Poster/Demo break out rooms**
-{% for p in site.data.tapp.accepted_papers %}
+{% for p in site.data.posterdemo.accepted_papers %}
 {% assign authors = p.authors | map: 'name' %}
     - {{ p.title }} (*{{ authors | join: ', ' }}*) {% if p.breakout %}breakout room: [{{ p.breakout }}]({{ p.breakout }}){% endif %}
 {% endfor %}

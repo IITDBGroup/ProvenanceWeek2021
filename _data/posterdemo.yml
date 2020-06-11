@@ -1,9 +1,53 @@
 accepted_papers:
-  - title: "Test poster"
+  - title: "ReproduceMeGit: A Visualization Tool for Analyzing Reproducibility of Jupyter Notebooks"
     category: poster
     authors:
-      - name: M. Mani
-      - name: N. Singaraj
-      - name: Z. Liu
+      - name: S. Samuel
+      - name: B. König-Ries
     link: www.google.com
-    breakout: meet.google.com/adsasdasdasdas
+    breakout: https://meet.google.com/xfj-fsdk-pju
+  - title: "Machine Learning Pipelines: Provenance, Reproducibility and FAIR Data Principles"
+    category: poster
+    authors:
+      - name: S. Samuel
+      - name: F. Löffler
+      - name: B. König-Ries
+    link: www.google.com
+    breakout: https://meet.google.com/thd-wzaw-rhv
+  - title: "Privacy Aspects of Provenance Queries"
+    category: poster
+    authors:
+      - name: T. Auge
+      - name: N. Scharlau
+      - name: A. Heuer
+    link: www.google.com
+    breakout: https://meet.google.com/uky-frcb-qgi
+  - title: "ISO 23494: Biotechnology – Provenance Information Model for Biological Specimen and Data"
+    category: poster
+    authors:
+      - name: R. Wittner
+      - name: P. Holub
+      - name: H. Müller
+      - name: J. Geiger
+      - name: C. Goble
+      - name: S. Soiland-Reyes
+      - name: L. Pirredu
+      - name: F. Frexia
+      - name: H. Nakae
+      - name: C. Strambio
+      - name: D. Grunwald
+      - name: J. Swedlow
+      - name: J. Moore
+    link: www.google.com
+    breakout: https://meet.google.com/ycn-oouk-ojw
+  - title: "Explaining and Replaying Containers Using Provenance"
+    category: poster
+    authors:
+      - name: R. Ahmad
+      - name: M. Deeds
+      - name: Y. Nakamura
+      - name: T. Hai
+      - name: T. Malik
+    link: www.google.com
+    breakout: https://meet.google.com/wua-brdf-zyc
+    
