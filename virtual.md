@@ -3,17 +3,27 @@ layout: page
 title: Virtual Event
 ---
 
-The **free** virtual 2020 provenance week event will be held on June 22nd. Authors of accepted TaPP, IPAW, demo, and poster papers will each give a short presentation to of their work (full presentations are proposed to the 2021 event). Furthermore, this event will give the community to connect and network. Finally, we will also present our plan for the ProvenanceWeek 2021 and the collocated ProvViz workshop.
+The **free** virtual 2020 provenance week event will be held on **{{ site.virtual_event }}**. Authors of accepted TaPP, IPAW, demo, and poster papers will each give a short presentation to of their work (full presentations are proposed to the 2021 event). Furthermore, this event will give the community to connect and network. Finally, we will also present our plan for the ProvenanceWeek 2021 and the collocated ProvViz workshop.
+
+### Join the event
+
+We are using google meet. You can join the event through a browser.
+
+- **Google Meet Meeting for the Event**
+    - join using this link [meet.google.com/ohg-bnjd-moe](meet.google.com/ohg-bnjd-moe)
+    - join by phone (‪US‬): +1 401-375-2149‬
+    - PIN: ‪657 499 998#‬
+    - Live stream: [stream.meet.google.com/stream/c167b9fb-b28a-447a-9791-f83df275aa71](stream.meet.google.com/stream/c167b9fb-b28a-447a-9791-f83df275aa71)
 
 ### Organization
 
-The event will be use a google meet. Authors will present live with a backup option of playing a prerecorded video in case of poor connectivity. During the afternoon there will be breakout sessions for posters and demos where attendees can join a session specific to a poster/demo to discuss with the author.
+Authors will present live with a backup option of playing a prerecorded video in case of poor connectivity. During the afternoon there will be breakout sessions for posters and demos where attendees can join a session specific to a poster/demo to discuss with the author.
 
 ### Schedule
 
 #### 9:00am - 12:00pm - Morning session
 
-- **9:00am - 9:30am  - Introduction by the chairs and presentation of the  2021 organization**
+- **9:00am - 9:30am  - Introduction by the chairs / ProvenanceWeek 2021 announcements**
 - **9:30am - 10:45am - TaPP teaser talks**
 {% for p in site.data.tapp.accepted_papers %}
 {% assign authors = p.authors | map: 'name' %}
@@ -29,7 +39,7 @@ The event will be use a google meet. Authors will present live with a backup opt
 
 #### 12:00pm - 1:00pm - Lunch break
 
-#### 1:00pm - 4:00pm - Afternoon session
+#### 1:00pm - 3:30pm - Afternoon session
 
 -  **1:00pm - 1:45pm - IPAW teaser session**
 {% for p in site.data.ipaw.accepted_papers %}
