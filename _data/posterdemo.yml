@@ -27,17 +27,20 @@ accepted_papers:
     authors:
       - name: R. Wittner
       - name: P. Holub
-      - name: H. Müller
       - name: J. Geiger
       - name: C. Goble
+      - name: H. Müller
       - name: S. Soiland-Reyes
+      - name: E. Fairweather
       - name: L. Pirredu
       - name: F. Frexia
+      - name: C. Mascia
+      - name: G. Zanetti
       - name: H. Nakae
       - name: C. Strambio
+      - name: J. Moore
       - name: D. Grunwald
       - name: J. Swedlow
-      - name: J. Moore
     link: www.google.com
     breakout: https://meet.google.com/ycn-oouk-ojw
   - title: "Explaining and Replaying Containers Using Provenance"
@@ -50,4 +53,18 @@ accepted_papers:
       - name: T. Malik
     link: www.google.com
     breakout: https://meet.google.com/wua-brdf-zyc
-    
+  - title: "Mapping a Trusted Path for the Use of VGI"
+    category: poster
+    authors:
+      - name: B. Roper
+      - name: A. Chapman
+      - name: D. Martin
+      - name: S. Cavazzi
+    link: www.google.com
+    breakout: meet.google.com/qxc-iajm-aah
+  - title: "On Discovering Data Preparation Modules Using Examples"
+    category: poster
+    authors:
+      - name: K. Belhajjame
+    link: www.google.com
+    breakout: https://meet.google.com/pjg-xsdk-xxe
