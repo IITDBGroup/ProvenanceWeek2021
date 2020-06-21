@@ -10,10 +10,10 @@ The **free** virtual 2020 provenance week event will be held on **{{ site.virtua
 We are using google meet. You can join the event through a browser.
 
 - **Google Meet Meeting for the Event**
-    <!-- - join using this link [meet.google.com/ohg-bnjd-moe](meet.google.com/ohg-bnjd-moe) -->
-    <!-- - join by phone (‪US‬): +1 401-375-2149‬ -->
-   <!-- - PIN: ‪657 499 998#‬ -->
-    - Live stream: [stream.meet.google.com/stream/c167b9fb-b28a-447a-9791-f83df275aa71](stream.meet.google.com/stream/c167b9fb-b28a-447a-9791-f83df275aa71)
+  - join using this link [meet.google.com/ohg-bnjd-moe](meet.google.com/ohg-bnjd-moe)
+  - join by phone (‪US‬): +1 401-375-2149‬
+    - PIN: ‪657 499 998#‬
+  - Live stream: [stream.meet.google.com/stream/c167b9fb-b28a-447a-9791-f83df275aa71](stream.meet.google.com/stream/c167b9fb-b28a-447a-9791-f83df275aa71)
 
 ### Organization
 
@@ -38,13 +38,14 @@ Authors will present live with a backup option of playing a prerecorded video in
 
 
 #### 12:00pm - 1:00pm - Lunch break
+- [https://gather.town/z9CZIkuky8LIQDoX/PW2020](https://gather.town/z9CZIkuky8LIQDoX/PW2020)
 
 #### 1:00pm - 3:30pm - Afternoon session
 
 -  **1:00pm - 1:45pm - IPAW teaser session**
 {% for p in site.data.ipaw.accepted_papers %}
 {% assign authors = p.authors | map: 'name' %}
-    - {{ p.title }} (*{{ authors | join: ', ' }}*) {% if p.preprint %}preprint: [{{ p.preprint }}]({{ p.preprint }}){% endif %}
+    - {{ p.title }} (*{{ authors | join: ', ' }}*) {% if p.preprint %}preprint: [{{ p.preprint }}]({{ p.preprint }}){% endif %} {% if p.video %}video: [{{ p.video }}]({{ p.video }}){% endif %}
 {% endfor %}
 -  **1:45pm - 2:30pm - Poster/Demo break out rooms**
 {% for p in site.data.posterdemo.accepted_papers %}

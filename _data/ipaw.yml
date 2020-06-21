@@ -32,7 +32,7 @@ pc:
   - name: Jan Van Den Bussche
     affiliation: Universiteit Hasselt, Belgium
   - name: João Felipe Nicolaci Pimentel
-    affiliation: Fluminense Federal University, Brazil 
+    affiliation: Fluminense Federal University, Brazil
   - name: Luc Moreau
     affiliation: King’s College London, UK
   - name: Luiz M. R. Gadelha Jr.
@@ -71,6 +71,8 @@ accepted_papers:
     authors:
       - name: L. Moreau
       - name: T. Huynh
+    preprint: https://kclpure.kcl.ac.uk/portal/files/130664583/prov_jsonld.pdf
+    video: https://youtu.be/7oERpRFW9u4
   - title: "Incremental Inference of Provenance Types"
     authors:
       - name: D. Marzagão
