@@ -60,6 +60,7 @@ accepted_papers:
       - name: N. Singaraj
       - name: Z. Liu
     preprint: https://arxiv.org/abs/1905.09251
+    video: https://drive.google.com/file/d/1ZK3eq4kfr9RDLTcAOV4EO5wZzRiTF6vI/view?usp=sharing
   - title: "Non-repudiable provenance for clinical decision support systems"
     authors:
       - name: E. Fairweather
@@ -67,6 +68,8 @@ accepted_papers:
       - name: M. Chapman
       - name: P. Holub
       - name: V. Curcin
+    preprint: https://arxiv.org/abs/2006.11233
+    video: https://drive.google.com/file/d/1P1DxK5-xq_fVl-DfkNNHw6L1HN67mb7G/view?usp=sharing
   - title: "The PROV-JSONLD Serialization. A JSON-LD Representation for the PROV Data Model"
     authors:
       - name: L. Moreau
@@ -79,3 +82,4 @@ accepted_papers:
       - name: T. Huynh
       - name: L. Moreau
     preprint: https://kclpure.kcl.ac.uk/portal/files/130720933/Incremental_Inference_of_Provenance_Types.pdf
+    video: https://drive.google.com/file/d/1AujI0XWvoi80UlA1o3CqIn8VV97pSe2u/view
