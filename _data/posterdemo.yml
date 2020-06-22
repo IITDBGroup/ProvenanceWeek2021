@@ -6,6 +6,9 @@ accepted_papers:
       - name: B. König-Ries
     link: www.google.com
     breakout: https://meet.google.com/xfj-fsdk-pju
+    video:  https://youtu.be/rOza4dIFWaI
+    preprint: https://fusion.cs.uni-jena.de/fusion/wp-content/uploads/2020/06/ReproduceMeGit_Samuel.pdf
+    slides: https://doi.org/10.6084/m9.figshare.12529604.v1
   - title: "Machine Learning Pipelines: Provenance, Reproducibility and FAIR Data Principles"
     category: poster
     authors:
@@ -14,6 +17,9 @@ accepted_papers:
       - name: B. König-Ries
     link: www.google.com
     breakout: https://meet.google.com/xfj-fsdk-pju
+    preprint: https://fusion.cs.uni-jena.de/fusion/wp-content/uploads/2020/06/FAIRMLpipelines.pdf
+    slides: https://doi.org/10.6084/m9.figshare.12529634.v1
+    video: https://youtu.be/QVPqg5MGAew
   - title: "Privacy Aspects of Provenance Queries"
     category: poster
     authors:
