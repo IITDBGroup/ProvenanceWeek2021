@@ -10,10 +10,10 @@ The **free** virtual 2020 provenance week event will be held on **{{ site.virtua
 We are using google meet. You can join the event through a browser.
 
 - **Google Meet Meeting for the Event**
-  - join using this link [meet.google.com/ohg-bnjd-moe](meet.google.com/ohg-bnjd-moe)
+  - join using this link [https://meet.google.com/ohg-bnjd-moe](https://meet.google.com/ohg-bnjd-moe)
   - join by phone (‪US‬): +1 401-375-2149‬
     - PIN: ‪657 499 998#‬
-  - Live stream: [stream.meet.google.com/stream/c167b9fb-b28a-447a-9791-f83df275aa71](stream.meet.google.com/stream/c167b9fb-b28a-447a-9791-f83df275aa71)
+  - Live stream: [https://stream.meet.google.com/stream/c167b9fb-b28a-447a-9791-f83df275aa71](https://stream.meet.google.com/stream/c167b9fb-b28a-447a-9791-f83df275aa71)
 
 ### Organization
 
