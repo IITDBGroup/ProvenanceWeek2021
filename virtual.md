@@ -33,7 +33,7 @@ Authors will present live with a backup option of playing a prerecorded video in
 - **11:15am - 12:00pm - Poster and Demo teaser talks**
 {% for p in site.data.posterdemo.accepted_papers %}
 {% assign authors = p.authors | map: 'name' %}
-    - {{ p.title }} (*{{ authors | join: ', ' }}*) {% if p.paper %}paper: [{{ p.paper }}]({{ p.paper }}){% endif %}
+    - {{ p.title }} (*{{ authors | join: ', ' }}*) {% if p.link %} [Materials]({{ p.link }}){% endif %}
 {% endfor %}
 
 
@@ -50,7 +50,7 @@ Authors will present live with a backup option of playing a prerecorded video in
 -  **1:45pm - 2:30pm - Poster/Demo break out rooms**
 {% for p in site.data.posterdemo.accepted_papers %}
 {% assign authors = p.authors | map: 'name' %}
-    - {{ p.title }} (*{{ authors | join: ', ' }}*) {% if p.breakout %}breakout room: [{{ p.breakout }}]({{ p.breakout }}){% endif %}
+    - {{ p.title }} (*{{ authors | join: ', ' }}*) {% if p.link %} [Materials]({{ p.link }}){% endif %} {% if p.breakout %} -- [Breakout Room]({{ p.breakout }}){% endif %}
 {% endfor %}
 -  **2:30pm - 3:00pm - ProvViz session**
 -  **3:00pm - 3:30pm - Closing remarks and town hall**

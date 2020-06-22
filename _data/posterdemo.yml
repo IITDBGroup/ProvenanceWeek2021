@@ -4,7 +4,7 @@ accepted_papers:
     authors:
       - name: S. Samuel
       - name: B. König-Ries
-    link: www.google.com
+    link: https://doi.org/10.6084/m9.figshare.12529604.v1
     breakout: https://meet.google.com/xfj-fsdk-pju
     video:  https://youtu.be/rOza4dIFWaI
     preprint: https://fusion.cs.uni-jena.de/fusion/wp-content/uploads/2020/06/ReproduceMeGit_Samuel.pdf
@@ -15,7 +15,7 @@ accepted_papers:
       - name: S. Samuel
       - name: F. Löffler
       - name: B. König-Ries
-    link: www.google.com
+    link: https://doi.org/10.6084/m9.figshare.12529634.v1
     breakout: https://meet.google.com/xfj-fsdk-pju
     preprint: https://fusion.cs.uni-jena.de/fusion/wp-content/uploads/2020/06/FAIRMLpipelines.pdf
     slides: https://doi.org/10.6084/m9.figshare.12529634.v1
@@ -26,7 +26,7 @@ accepted_papers:
       - name: T. Auge
       - name: N. Scharlau
       - name: A. Heuer
-    link: www.google.com
+    link: assets/poster35.pdf
     breakout: https://meet.google.com/uky-frcb-qgi
   - title: "ISO 23494: Biotechnology – Provenance Information Model for Biological Specimen and Data"
     category: poster
@@ -47,7 +47,7 @@ accepted_papers:
       - name: J. Moore
       - name: D. Grunwald
       - name: J. Swedlow
-    link: www.google.com
+    link: https://zenodo.org/record/3901011#.XvCuSC2z1Bz
     breakout: https://meet.google.com/ycn-oouk-ojw
   - title: "Explaining and Replaying Containers Using Provenance"
     category: poster
@@ -57,7 +57,7 @@ accepted_papers:
       - name: Y. Nakamura
       - name: T. Hai
       - name: T. Malik
-    link: www.google.com
+    link: https://bitbucket.org/depauldbgroup/pw20-sciunitdemo/
     breakout: https://meet.google.com/wua-brdf-zyc
   - title: "Mapping a Trusted Path for the Use of VGI"
     category: poster
@@ -66,11 +66,11 @@ accepted_papers:
       - name: A. Chapman
       - name: D. Martin
       - name: S. Cavazzi
-    link: www.google.com
+    link: assets/poster05.pptx
     breakout: meet.google.com/qxc-iajm-aah
   - title: "On Discovering Data Preparation Modules Using Examples"
     category: poster
     authors:
       - name: K. Belhajjame
-    link: www.google.com
+    link: assets/poster16.pdf
     breakout: https://meet.google.com/pjg-xsdk-xxe
