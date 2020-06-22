@@ -67,7 +67,7 @@ accepted_papers:
       - name: D. Martin
       - name: S. Cavazzi
     link: assets/poster05.pptx
-    breakout: meet.google.com/qxc-iajm-aah
+    breakout: https://meet.google.com/qxc-iajm-aah
   - title: "On Discovering Data Preparation Modules Using Examples"
     category: poster
     authors:
