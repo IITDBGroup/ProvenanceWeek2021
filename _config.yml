@@ -13,16 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: ProvenanceWeek 2020
+title: ProvenanceWeek 2021
 email: ""
 description: >- # this means to ignore newlines until "baseurl:"
-  Following successful past ProvenanceWeek events, ProvenanceWeek 2020 will again co-locate the IPAW and TaPP workshops as well as several satellite events that focus on novel directions for provenance.
+  Following successful past ProvenanceWeek events, ProvenanceWeek 2021 will again co-locate the IPAW and TaPP workshops as well as several satellite events that focus on novel directions for provenance.
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
-repository: "IITDBGroup/ProvenanceWeek2020"
+repository: "IITDBGroup/ProvenanceWeek2021"
 
 show_excerpts: true
 
@@ -45,9 +45,9 @@ header_pages:
 #  - registration
 #  - schedule.md
 
-virtual_event: "June 22nd 9:00am - 3:30pm (eastern)"
-long_dates: "June 2021"
-short_dates: "06/22-06/25"
+# virtual_event: "June 22nd 9:00am - 3:30pm (eastern)"
+long_dates: "July 19-22 2021"
+short_dates: "07/19-07/22"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
