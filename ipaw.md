@@ -14,7 +14,7 @@ The International Provenance and Annotation Workshop (IPAW) is a biannual worksh
 {% if site.data.ipaw.accepted_papers.size > 0 %}
 ### Accepted Papers
 
-2020 IPAW papers will be published together with 2021 papers in the 2021 Springer proceedings. For now preprints of accepted papers, if provided by the authors, are linked below.
+2021 IPAW papers will be published together with 2020 papers in the 2021 Springer proceedings. For now preprints of accepted papers, if provided by the authors, are linked below.
 
 {% for p in site.data.ipaw.accepted_papers %}
 {% assign authors = p.authors | map: 'name' %}
