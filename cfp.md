@@ -51,7 +51,7 @@ Papers must be:
   - Further, TaPP is a workshop primarily focused on the presentation of early-stage research papers. If the page limit would preclude a future full-length publication (e.g. to VLDB), please, feel free to submit a shorter paper. You may want to add the following mention at the end of your abstract "**We limited the paper to 4 pages as to allow a future full-length publication**". This will be taken into account by the reviewers. This mention should be removed in the camera-ready version.
   - Please, note that the appendix may contain additional material as appropriate (e.g. extended proof, full evaluation break down), but it should not be essential to the comprehension of the paper.
 + submitted as PDF files to the TaPP track at:
-  - [submission site](https://pw2020.thomasmoyer.org/pw2020/)
+  - [submission site]({{ site.data.conference.submission_site }})
 + The proceedings will be published by USENIX (open access).
 
 Important Dates:
