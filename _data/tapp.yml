@@ -1,96 +1,48 @@
 pc:
-  - name: Adriane Chapman
-    affiliation: University of Southampton, UK
-  - name: Ana Trisovic
-    affiliation: Harvard University, USA
-  - name: Ashish Gehani
-    affiliation: SRI, USA
-  - name: Berrada Ghita
-    affiliation: King's College London, UK
-  - name: Elisa Bertino
-    affiliation: Purdue University, USA
-  - name: David Eyers
-    affiliation: University of Otago, New Zealand
-  - name: Irini Fundulaki
-    affiliation: ICS-FORTH, Greece
-  - name: Khalid Belhajjame
-    affiliation: Paris-Dauphine University, France
-  - name: Lukas Rupprech
-    affiliation: IBM, USA
-  - name: Matteo Interlandi
-    affiliation: Microsoft, USA
-  - name: Matthew K. Lau
-    affiliation: Institute of Applied Ecology, Chinese Academy of Sciences
-  - name: Marta Mattoso
-    affiliation: COPPE- Federal Univ Rio de Janeiro, Brazil
-  - name: Mercè Crosas
-    affiliation: Harvard University, USA
-  - name: Melanie Herschel
-    affiliation: University of Stuttgart, Germany
-  - name: Nicole Bidoit-Tollu
-    affiliation: University Paris Sud, France
-  - name: Sebastian Schelter
-    affiliation: New York University, USA
-  - name: Xiao Yu
-    affiliation: NEC Laboratories America, USA
-  - name: Xueyuan (Michael) Han
-    affiliation: Harvard University, USA
-  - name: Yulai Xie
-    affiliation: Huazhong University of Science and Technology, China
+#  - name: Adriane Chapman
+#    affiliation: University of Southampton, UK
+#  - name: Ana Trisovic
+#    affiliation: Harvard University, USA
+#  - name: Ashish Gehani
+#    affiliation: SRI, USA
+#  - name: Berrada Ghita
+#    affiliation: King's College London, UK
+#  - name: Elisa Bertino
+#    affiliation: Purdue University, USA
+#  - name: David Eyers
+#    affiliation: University of Otago, New Zealand
+#  - name: Irini Fundulaki
+#    affiliation: ICS-FORTH, Greece
+#  - name: Khalid Belhajjame
+#    affiliation: Paris-Dauphine University, France
+#  - name: Lukas Rupprech
+#    affiliation: IBM, USA
+#  - name: Matteo Interlandi
+#    affiliation: Microsoft, USA
+#  - name: Matthew K. Lau
+#    affiliation: Institute of Applied Ecology, Chinese Academy of Sciences
+#  - name: Marta Mattoso
+#    affiliation: COPPE- Federal Univ Rio de Janeiro, Brazil
+#  - name: Mercè Crosas
+#    affiliation: Harvard University, USA
+#  - name: Melanie Herschel
+#    affiliation: University of Stuttgart, Germany
+#  - name: Nicole Bidoit-Tollu
+#    affiliation: University Paris Sud, France
+#  - name: Sebastian Schelter
+#    affiliation: New York University, USA
+#  - name: Xiao Yu
+#    affiliation: NEC Laboratories America, USA
+#  - name: Xueyuan (Michael) Han
+#    affiliation: Harvard University, USA
+#  - name: Yulai Xie
+#    affiliation: Huazhong University of Science and Technology, China
 accepted_papers:
-  - title: "An Event-based Data Model for Granular Information Flow Tracking"
-    authors:
-      - name: Joud Khoury (Raytheon BBN Technologies)
-      - name: Timothy Upthegrove (Raytheon BBN Technologies)
-      - name: Armando Caro (Raytheon BBN Technologies)
-      - name: Brett Benyo (Raytheon BBN Technologies)
-      - name: Derrick Kong (Raytheon BBN Technologies)
-    paper: TBD
-  - title: "Integrity checking and abnormality detection of provenance records"
-    authors:
-      - name: Sheung Chi Chan (University of Edinburgh)
-      - name: James Cheney (University of Edinburgh)
-      - name: Ashish Gehani (SRI International)
-      - name: Hassaan Irshad (SRI International)
-    paper: TBD
-  - title: "A first-principles algebraic approach to data transformations in data cleaning: understanding provenance from the ground up"
-    authors:
-      - name: Santiago Núñez-Corrales (iSchool and NCSA, UIUC)
-      - name: Lan Li (iSchool, UIUC)
-      - name: Bertram Ludäscher (iSchool and NCSA, UIUC)
-    paper: TBD
-  - title: "Data Provenance for Attributes: Attribute Lineage"
-    authors:
-      - name: Dennis Dosso (University of Padua)
-      - name: Susan B. Davidson (University of Pennsylvania)
-      - name: Gianmaria Silvello (University of Padua)
-    paper: TBD
-  - title: "Discrepancy Detection in Whole Network Provenance"
-    authors:
-      - name: Raza Ahmad (SRI International)
-      - name: Eunjin Jung (University of San Francisco)
-      - name: Carolina de Senne Garcia (Ecole Polytechnique)
-      - name: Hassaan Irshad (SRI International)
-      - name: Ashish Gehani (SRI International)
-    paper: TBD
-  - title: "Efficient Provenance Alignment in Reproduced Executions"
-    authors:
-      - name: Tanu Malik (DePaul University)
-      - name: Yuta Nakamura (DePaul University)
-      - name: Ashish Gehani (SRI International)
-    paper: TBD
-  - title: "A Generic Explainability Framework for Function Circuits"
-    authors:
-      - name: Sylvain Hallé (Université du Québec à Chicoutimi)
-      - name: Hugo Tremblay (Université du Québec à Chicoutimi)
-    paper: TBD
-  - title: "Provenance-Based Interpretation of Multi-Agent Information Analysis"
-    authors:
-      - name: Scott Friedman (SIFT)
-      - name: Jeff Rye (SIFT)
-      - name: David LaVergne (SIFT)
-      - name: Dan Thomsen (SIFT)
-      - name: Matthew Allen (Raytheon BBN Technologies)
-      - name: Kyle Tunis (Raytheon BBN Technologies)
-    paper: TBD
-    
+#  - title: "An Event-based Data Model for Granular Information Flow Tracking"
+#    authors:
+#      - name: Joud Khoury (Raytheon BBN Technologies)
+#      - name: Timothy Upthegrove (Raytheon BBN Technologies)
+#      - name: Armando Caro (Raytheon BBN Technologies)
+#      - name: Brett Benyo (Raytheon BBN Technologies)
+#      - name: Derrick Kong (Raytheon BBN Technologies)
+#    paper: TBD
