@@ -5,7 +5,7 @@ title: Submissions
 
 ## Tracks
 
-Papers can be submitted to one of three tracks ([IPAW](#ipaw), [TaPP](#tapp), [demonstration and poster](#demonstrations-and-posters)) at [https://pw2020.thomasmoyer.org/pw2020/](https://pw2020.thomasmoyer.org/pw2020/). <!-- Boris: check first. All papers will be published as [LIPIcs proceedings](https://www.dagstuhl.de/en/publications/lipics/). -->
+Papers can be submitted to one of three tracks ([IPAW](#ipaw), [TaPP](#tapp), [demonstration and poster](#demonstrations-and-posters)) at [https://easychair.org/conferences/?conf=pw2021](https://easychair.org/conferences/?conf=pw2021). <!-- Boris: check first. All papers will be published as [LIPIcs proceedings](https://www.dagstuhl.de/en/publications/lipics/). -->
 Furthermore, the [Workshop on Provenance and Visualization ](#provviz) solicits one-page abstracts that propose a topic or research question to be discussed at the workshop.
 <!-- we are soliciting proposals for [co-located events and workshops](#proposals-for-workshops-and-co-located-events). -->
 
@@ -15,7 +15,7 @@ Authors are invited to submit original research work the IPAW track. This track
 solicits full research papers that describe mature, high-quality research on the
 topics of interest of the Provenance Week. Papers submitted to IPAW are expected
 to have some form of initial validation, such as a case study or preliminary
-experiments showing the feasibility of the proposed approach.
+experiments showing the feasibility of the proposed approach. 
 
 Papers must be:
 - not published or under review elsewhere
@@ -24,7 +24,7 @@ Papers must be:
 - submitted as PDF files to the IPAW track at:
   - [submission site]({{ site.data.conference.submission_site }})
 
-Authors should consult Springer’s [authors’ guidelines](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) and use their proceedings templates, either for [LaTeX](ftp://ftp.springernature.com/cs-proceeding/svproc/templates/ProcSci_TeX.zip) or for [Word](ftp://ftp.springernature.com/cs-proceeding/llncs/word/splnproc1703.zip), for the preparation of their papers. They also have a [template available on Overleaf](https://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj#.WsdHOy5uZpg). Springer encourages authors to include their [ORCID](https://goo.gl/hbsa4D)s in their papers. In addition, the corresponding author of each paper, acting on behalf of all of the authors of that paper, must complete and sign a [Consent-to-Publish form](https://github.com/IITDBGroup/ProvenanceWeek2020/raw/master/_data/ipaw-copyright.pdf). The corresponding author signing the copyright form should match the corresponding author marked on the paper. Once the files have been sent to Springer, changes relating to the authorship of the papers cannot be made.
+Authors should consult Springer’s [authors’ guidelines](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines) and use their proceedings templates, either for [LaTeX](ftp://ftp.springernature.com/cs-proceeding/svproc/templates/ProcSci_TeX.zip) or for [Word](ftp://ftp.springernature.com/cs-proceeding/llncs/word/splnproc1703.zip), for the preparation of their papers. They also have a [template available on Overleaf](https://www.overleaf.com/latex/templates/springer-lecture-notes-in-computer-science/kzwwpvhwnvfj#.WsdHOy5uZpg). Springer encourages authors to include their [ORCID](https://goo.gl/hbsa4D)s in their papers. In addition, the corresponding author of each paper, acting on behalf of all of the authors of that paper, must complete and sign a [Consent-to-Publish form](https://github.com/IITDBGroup/ProvenanceWeek2021/raw/master/_data/ipaw-copyright.pdf). The corresponding author signing the copyright form should match the corresponding author marked on the paper. Once the files have been sent to Springer, changes relating to the authorship of the papers cannot be made.
 
 A proceedings volume will be published in the Springer
 Lecture Notes in Computer Science (LNCS) series. Springer offers "Open
@@ -86,7 +86,7 @@ Important Dates:
 
 The aim of the workshop is to encourage exchange between the provenance and visualization communities. During the workshop, we will introduce the latest developments in provenance analysis from the visualization community, and try to address research challenges that are relevant for both communities.
 
-All Provenance Week 2020 participants are welcome to join. There is an option to submit a one-page abstract before the workshop if you would like to propose a topic or research question to be discussed at the workshop.
+All Provenance Week 2021 participants are welcome to join. There is an option to submit a one-page abstract before the workshop if you would like to propose a topic or research question to be discussed at the workshop.
 
 The workshop lasts half a day, and will start with a keynote by an invited speaker (to be confirmed). After that, participants will form groups to discuss a particular area or research question based on their shared interest. Finally, each group will report back their discussion results and collaboration plan after the workshop.
 
@@ -100,7 +100,7 @@ Important Dates:
 
 ## Submission Site
 
-Papers are submitted using the HotCRP system.
+Papers are submitted using EasyChair.
 
 - **Submission site**: [{{ site.data.conference.submission_site }}]({{ site.data.conference.submission_site }})
 
@@ -120,9 +120,10 @@ Papers are submitted using the HotCRP system.
 - Applications of provenance in real-life settings
 - Theoretical foundations of provenance
 - Connections between provenance and established topics in other research fields
-- (programming languages, security, software engineering, fairness, etc.)
+  (programming languages, security, software engineering, fairness, etc.)
 - Provenance-based audit and forensics
 - Design, performance and scalability of provenance systems
+
 
 ## Proposals for Workshops and Co-located Events
 
