@@ -44,14 +44,17 @@ The TaPP track continues the tradition of TaPP to provide a genuine workshop env
 
 We invite innovative and creative contributions, including papers outlining new challenges for provenance research, promising formal approaches to provenance, innovative use of provenance, experience-based insights, resourceful experiments, and visionary (and possibly risky) ideas. The provenance community is very diverse, we therefore strongly encourage authors to contextualize their work.
 
+We are introducing this year for the first time the “application track”. Application track papers need not to focus on novelty but should instead focus on deployment of provenance-based solutions and/or open-source software. Authors are invited to share with the community insights, experience and lessons learned when deploying provenance systems. We also encourage submissions to this track describing datasets or tools that could benefit the community.
+
 Papers must be:
 + not published or under review elsewhere
-+ no longer than 5 pages (excluding references and appendix) following [USENIX format](https://www.usenix.org/conferences/author-resources/paper-templates).
++ we invite long papers (8 pages excluding references and appendix) and short papers (5 pages excluding references and appendix) following [USENIX format](https://www.usenix.org/conferences/author-resources/paper-templates).
   - Submitting shorter papers is not discouraged. Specifically, papers presenting visionary or preliminary ideas often tend to be shorter than the page limit. Please clearly prefix your paper title with "vision" when appropriate.
+  - At submission clearly indicate in the paper's title if it should be reviewed as **"research"** or **"application"**.
   - Further, TaPP is a workshop primarily focused on the presentation of early-stage research papers. If the page limit would preclude a future full-length publication (e.g. to VLDB), please, feel free to submit a shorter paper. You may want to add the following mention at the end of your abstract "**We limited the paper to 4 pages as to allow a future full-length publication**". This will be taken into account by the reviewers. This mention should be removed in the camera-ready version.
   - Please, note that the appendix may contain additional material as appropriate (e.g. extended proof, full evaluation break down), but it should not be essential to the comprehension of the paper.
 + submitted as PDF files to the TaPP track at:
-  - [submission site]({{ site.data.conference.submission_site }})
+  - [submission site](https://pw2020.thomasmoyer.org/pw2020/)
 + The proceedings will be published by USENIX (open access).
 
 Important Dates:
