@@ -9,7 +9,7 @@ Industry and academic participants interested in provenance in any setting are w
 
 ### Organizers
 
-{% assign pcchair = site.data.organizers.chairs | where: "role", "TaPP PC chair" | first %}
+{% assign pcchair = site.data.organizers.chairs | where: "role", "TaPP PC co-chair" | first %}
 * **{{ pcchair.name }}** (*{{ pcchair.affiliation }}*)
 
 ### Accepted Papers
