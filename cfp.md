@@ -70,10 +70,9 @@ Papers must be:
 + not published or under review elsewhere
 + no longer than 8 pages (excluding references and appendix) following USENIX format. 
   - Submitting shorter papers is not discouraged. Specifically, papers presenting visionary or preliminary ideas often tend to be shorter than the page limit. 
-  - At submission clearly indicate in the paper's title if it should be reviewed as **"research"** or **"application"**. This should be removed in the camera-ready version.
   - Further, TaPP is a workshop primarily focused on the presentation of early-stage research papers. If the page limit would preclude a future full-length publication (e.g. to VLDB), please, feel free to submit a shorter paper. You may want to add the following mention at the end of your abstract "**We limited the paper to 4 pages as to allow a future full-length publication**". This will be taken into account by the reviewers. This mention should be removed in the camera-ready version.
   - Please, note that the appendix may contain additional material as appropriate (e.g. extended proof, full evaluation break down), but it should not be essential to the comprehension of the paper.
-
++ Clearly indicate as subtitle which track the paper is submitted to (i.e. Application Track or Research Track)
 + submitted as PDF files to the TaPP track at:
   - [submission site](https://pw2020.thomasmoyer.org/pw2020/)
 + The proceedings will be published by USENIX (open access).
