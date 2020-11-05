@@ -9,6 +9,26 @@ Papers can be submitted to one of three tracks ([IPAW](#ipaw), [TaPP](#tapp), [d
 Furthermore, the [Workshop on Provenance and Visualization ](#provviz) solicits one-page abstracts that propose a topic or research question to be discussed at the workshop.
 <!-- we are soliciting proposals for [co-located events and workshops](#proposals-for-workshops-and-co-located-events). -->
 
+## Topics
+
+- Provenance visualization, and human interaction with provenance
+- Provenance for big data and extreme computing
+- Provenance for attribution and trust
+- Provenance for transparency and accountability
+- Security and privacy implications of provenance
+- Provenance, social media, and the semantic web
+- Provenance analytics, discovery, and reasoning about provenance and its quality
+- Data sharing and data citation
+- Provenance of workflows and annotations
+- Standardization of provenance models, services, and representations
+- Provenance management system prototypes and commercial solutions
+- Applications of provenance in real-life settings
+- Theoretical foundations of provenance
+- Connections between provenance and established topics in other research fields
+  (programming languages, security, software engineering, fairness, etc.)
+- Provenance-based audit and forensics
+- Design, performance and scalability of provenance systems
+
 ### IPAW
 
 Authors are invited to submit original research work the IPAW track. This track
@@ -107,25 +127,7 @@ Papers are submitted using EasyChair.
 
 - **Submission site**: [{{ site.data.conference.submission_site }}]({{ site.data.conference.submission_site }})
 
-## Topics
 
-- Provenance visualization, and human interaction with provenance
-- Provenance for big data and extreme computing
-- Provenance for attribution and trust
-- Provenance for transparency and accountability
-- Security and privacy implications of provenance
-- Provenance, social media, and the semantic web
-- Provenance analytics, discovery, and reasoning about provenance and its quality
-- Data sharing and data citation
-- Provenance of workflows and annotations
-- Standardization of provenance models, services, and representations
-- Provenance management system prototypes and commercial solutions
-- Applications of provenance in real-life settings
-- Theoretical foundations of provenance
-- Connections between provenance and established topics in other research fields
-  (programming languages, security, software engineering, fairness, etc.)
-- Provenance-based audit and forensics
-- Design, performance and scalability of provenance systems
 
 
 ## Proposals for Workshops and Co-located Events
