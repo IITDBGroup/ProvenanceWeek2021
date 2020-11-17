@@ -60,11 +60,11 @@ Important Dates:
 
 The Theory and Practice of Provenance (TaPP) is an annual workshop for developing and discussing new ideas and formulations in the rich area of provenance, and exploring the use provenance in applications. In its 13th year of running, TaPP is the workshop for emerging ideas and practical applications of provenance.  In 2021, TaPP  is divided into Research and Application tracks. The provenance community is very diverse and we hope the two tracks will encourage submissions on core provenance research as well as submissions that describe the use of provenance to enable novel applications. We therefore strongly encourage authors to contextualize their work with respect to these two tracks:
 
-1. Research Track
+* **Research Track**
 
 We invite innovative and creative contributions, including papers outlining new challenges for provenance research, promising formal approaches to provenance, experiments, and visionary (and possibly risky) ideas.
 
-2. Applications Track
+* **Applications Track**
 
 We are introducing this year for the first time the “application track”. Application track papers need not to focus on novelty but should instead focus on innovative use of provenance and/or deployment of provenance-based solutions and/or open-source software. We invite authors to share insights, experience, and lessons learned when deploying provenance systems. We also encourage submissions describing datasets or tools that could benefit the community.
 
