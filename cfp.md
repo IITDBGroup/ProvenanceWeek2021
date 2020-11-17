@@ -58,7 +58,7 @@ Important Dates:
 
 ### TaPP
 
-The Theory and Practice of Provenance (TaPP) is an annual workshop for developing and discussing new ideas and formulations in the rich area of provenance, and exploring the use provenance in applications. In its 13th year of running, TaPP is the workshop for emerging ideas and practical applications of provenance.  In 2021, TaPP  is divided into Research and Application tracks. The provenance community is very diverse and we hope the two tracks will encourage submissions on core provenance research as well as submissions that describe the use of provenance to enable novel applications. We therefore strongly encourage authors to contextualize their work with respect to these two tracks:
+The Theory and Practice of Provenance (TaPP) is an annual workshop for developing and discussing new ideas and formulations in the rich area of provenance, and exploring the use provenance in applications. In its [13th year of running](https://www.usenix.org/conferences/byname/186), TaPP is the workshop for emerging ideas and practical applications of provenance.  In 2021, TaPP  is divided into Research and Application tracks. The provenance community is very diverse and we hope the two tracks will encourage submissions on core provenance research as well as submissions that describe the use of provenance to enable novel applications. We therefore strongly encourage authors to contextualize their work with respect to these two tracks:
 
 * **Research Track**
 
@@ -71,7 +71,7 @@ We are introducing this year for the first time the “application track”. App
 Papers must be:
 
 * not published or under review elsewhere
-* no longer than 8 pages (excluding references and appendix) following USENIX format.
+* no longer than 8 pages (excluding references and appendix) following [USENIX format](https://www.usenix.org/conferences/author-resources/paper-templates).
     - Submitting shorter papers is not discouraged. Specifically, papers presenting visionary or preliminary ideas often tend to be shorter than the page limit.
     - Further, TaPP is a workshop primarily focused on the presentation of early-stage research papers. If the page limit would preclude a future full-length publication (e.g. to VLDB), please, feel free to submit a shorter paper. You may want to add the following mention at the end of your abstract: We limited the paper to 4 pages to allow a future full-length publication. This will be taken into account by the reviewers. This mention should be removed in the camera-ready version.
     - Please, note that the appendix may contain additional material as appropriate (e.g. extended proof, full evaluation break down), but it should not be essential to the comprehension of the paper.
