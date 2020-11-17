@@ -56,26 +56,28 @@ Important Dates:
 - **{{ d.event }}**: {{ d.date }}
 {% endfor %}
 
-
-
 ### TaPP
 
-The TaPP track continues the tradition of TaPP to provide a genuine workshop environment for discussing and developing new ideas and exploring connections between disciplines and between academic research on provenance and practical applications.
+The Theory and Practice of Provenance (TaPP) is an annual workshop for developing and discussing new ideas and formulations in the rich area of provenance, and exploring the use provenance in applications. In its 13th year of running, TaPP is the workshop for emerging ideas and practical applications of provenance.  In 2021, TaPP  is divided into Research and Application tracks. The provenance community is very diverse and we hope the two tracks will encourage submissions on core provenance research as well as submissions that describe the use of provenance to enable novel applications. We therefore strongly encourage authors to contextualize their work with respect to these two tracks:
 
-We invite innovative and creative contributions, including papers outlining new challenges for provenance research, promising formal approaches to provenance, innovative use of provenance, experience-based insights, resourceful experiments, and visionary (and possibly risky) ideas. The provenance community is very diverse, we therefore strongly encourage authors to contextualize their work.
+1. Research Track
 
-We are introducing this year for the first time the “application track”. Application track papers need not to focus on novelty but should instead focus on deployment of provenance-based solutions and/or open-source software. Authors are invited to share with the community insights, experience and lessons learned when deploying provenance systems. We also encourage submissions to this track describing datasets or tools that could benefit the community.
+We invite innovative and creative contributions, including papers outlining new challenges for provenance research, promising formal approaches to provenance, experiments, and visionary (and possibly risky) ideas.
+
+2. Applications Track
+
+We are introducing this year for the first time the “application track”. Application track papers need not to focus on novelty but should instead focus on innovative use of provenance and/or deployment of provenance-based solutions and/or open-source software. We invite authors to share insights, experience, and lessons learned when deploying provenance systems. We also encourage submissions describing datasets or tools that could benefit the community.
 
 Papers must be:
-+ not published or under review elsewhere
-+ no longer than 8 pages (excluding references and appendix) following USENIX format.
-  - Submitting shorter papers is not discouraged. Specifically, papers presenting visionary or preliminary ideas often tend to be shorter than the page limit.
-  - Further, TaPP is a workshop primarily focused on the presentation of early-stage research papers. If the page limit would preclude a future full-length publication (e.g. to VLDB), please, feel free to submit a shorter paper. You may want to add the following mention at the end of your abstract "**We limited the paper to 4 pages as to allow a future full-length publication**". This will be taken into account by the reviewers. This mention should be removed in the camera-ready version.
-  - Please, note that the appendix may contain additional material as appropriate (e.g. extended proof, full evaluation break down), but it should not be essential to the comprehension of the paper.
-+ Clearly indicate as subtitle which track the paper is submitted to (i.e. **Application Track** or **Research Track**)
-+ submitted as PDF files to the TaPP track at:
-  - [submission site](https://easychair.org/conferences/?conf=pw2021)
-+ The proceedings will be published by USENIX (open access).
+
+* not published or under review elsewhere
+* no longer than 8 pages (excluding references and appendix) following USENIX format.
+    - Submitting shorter papers is not discouraged. Specifically, papers presenting visionary or preliminary ideas often tend to be shorter than the page limit.
+    - Further, TaPP is a workshop primarily focused on the presentation of early-stage research papers. If the page limit would preclude a future full-length publication (e.g. to VLDB), please, feel free to submit a shorter paper. You may want to add the following mention at the end of your abstract: We limited the paper to 4 pages to allow a future full-length publication. This will be taken into account by the reviewers. This mention should be removed in the camera-ready version.
+    - Please, note that the appendix may contain additional material as appropriate (e.g. extended proof, full evaluation break down), but it should not be essential to the comprehension of the paper.
+* clearly indicate as subtitle which track the paper is submitted to (i.e. Application Track or Research Track)
+* submitted as PDF files to the TaPP track on [easychair](https://easychair.org/conferences/?conf=pw2021).
+* The proceedings will be published by USENIX (open access).
 
 Important Dates:
 {% assign deadlines = site.data.dates.paper_types | where:"name","Papers (IPAW and TaPP tracks)" | first %}
