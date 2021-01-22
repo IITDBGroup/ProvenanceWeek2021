@@ -1,0 +1,20 @@
+## 
+## # Targets for building, testing, and install custom code in this REPRO.
+## 
+
+clean-site:             ## Delete artifacts from previous builds.
+	$(RUN_IN_REPRO) 'bundle exec jekyll clean'
+	
+build-site:             ## Build the site.
+	$(RUN_IN_REPRO) 'bundle exec jekyll build'
+
+serve-site:             ## Build and serve the site locally.
+ifdef IN_RUNNING_REPRO
+	@echo "\n--------------------------------------------------------------------------"
+	@echo "The local Jekyll server will now start. Connect to it by navigating in your"
+	@echo "web browser to http://localhost:4000"
+	@echo "--------------------------------------------------------------------------\n"
+	bundle exec jekyll serve -P 4000 -H 0.0.0.0
+else
+	@$(RUN_IN_REPRO) 'make serve; bash -il'
+endif
