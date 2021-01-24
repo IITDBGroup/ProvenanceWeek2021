@@ -16,6 +16,10 @@ chairs:
     affiliation: UNC Charlotte, USA
     email: "Tom.Moyer@uncc.edu"
   - name: Tanu Malik
-    role: TaPP PC chair
+    role: TaPP PC co-chair
     affiliation: DePaul University, USA
     email: "tanu@cdm.depaul.edu"
+  - name: Thomas Pasquier
+    role: TaPP PC co-chair
+    affiliation: University of Bristol, UK
+    email: "thomas.pasquier@bristol.ac.uk"
