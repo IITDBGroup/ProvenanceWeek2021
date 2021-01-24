@@ -23,6 +23,12 @@ paper_types:
         date: "to be defined"
       - event: "Author Notification"
         date: "to be defined"
+  - name: "T7 Workshop"
+    dates:
+      - event: "Abstract Submission"
+        date: "to be defined"
+      - event: "Author Notification"
+        date: "to be defined"
 #      - event: "Camera Ready"
 #        date: "2020-05-23"
   - name: "Workshop and Co-located Event Proposals"
