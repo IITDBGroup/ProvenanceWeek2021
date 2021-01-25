@@ -1,5 +1,5 @@
 ## 
-## # Targets for building, testing, and install custom code in this REPRO.
+## # Targets for building and serving the Jekyll site in this REPRO.
 ## 
 
 clean-site:             ## Delete artifacts from previous builds.

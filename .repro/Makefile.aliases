@@ -1,0 +1,18 @@
+## 
+## # Aliases for targets in this Makefile.
+## 
+
+# Define target aliases available both inside and outside a running REPRO
+clean: clean-site       ## Delete artifacts from previous builds
+build: build-site       ## Build the site.
+serve: serve-site       ## Build and serve the site locally.
+
+## 
+
+# Define target aliases available only outside a running REPRO
+ifndef IN_RUNNING_REPRO
+start: start-image      ## Start a container using this REPRO's Docker image.
+image: build-image      ## Build the Docker image used to run this REPRO.
+endif
+
+## 
