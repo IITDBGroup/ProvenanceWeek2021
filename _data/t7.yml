@@ -1,0 +1,20 @@
+chairs:
+  - name: Timothy McPhillips
+    role: T7 chair
+    affiliation: UIUC
+    email: "tmcphill@illinois.edu"
+
+  - name: Bertram Ludaescher
+    role: T7 chair
+    affiliation: UIUC
+    email: "tmcphill@illinois.edu"
+
+  - name: Carole Goble
+    role: T7 chair
+    affiliation: University of Manchester
+    email: "carole.goble@manchester.ac.uk"
+
+  - name: Shawn Bowers
+    role: T7 chair
+    affiliation: Gonzaga University
+    email: "bowers@gonzaga.edu" 
