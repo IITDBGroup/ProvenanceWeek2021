@@ -1,10 +1,7 @@
-TARGETS=.repro/Makefile.targets
+include .repro/repro.config
 
-include ${TARGETS}/Makefile.init
-include repro.config
-include ${TARGETS}/Makefile.setup
-include ${TARGETS}/Makefile.jekyll
-include ${TARGETS}/Makefile.image
-include ${TARGETS}/Makefile.docker
-include ${TARGETS}/Makefile.help
+include .repro/Makefile.setup
+include .repro/Makefile.jekyll
+include .repro/Makefile.image
+include .repro/Makefile.help
 
