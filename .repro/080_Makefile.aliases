@@ -3,9 +3,9 @@
 ## 
 
 # Define target aliases available both inside and outside a running REPRO
-clean: clean-site       ## Delete artifacts from previous builds
+clean: clean-site       ## Delete artifacts from previous builds.
 build: build-site       ## Build the site.
-serve: serve-site       ## Build and serve the site locally.
+serve: serve-site       ## Serve the site locally.
 
 ## 
 

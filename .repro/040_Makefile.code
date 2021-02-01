@@ -1,0 +1,9 @@
+## 
+## # Targets for building the Jekyll site in this REPRO.
+## 
+
+clean-site:             ## Delete artifacts from previous builds.
+	$(RUN_IN_REPRO) 'bundle exec jekyll clean'
+	
+build-site:             ## Build the site.
+	$(RUN_IN_REPRO) 'bundle exec jekyll build'
