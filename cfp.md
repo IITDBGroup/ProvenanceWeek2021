@@ -128,29 +128,29 @@ Important Dates:
 {% endfor %}
 
 
-## Proposals for Workshops and Co-located Events
+<!-- ## Proposals for Workshops and Co-located Events -->
 
-We are looking for a small number of original and high-quality events, which
-focus on novel and visionary directions for provenance. Such events should seek
-to welcome work in progress that is not prime for proper refereed publications.
+<!-- We are looking for a small number of original and high-quality events, which -->
+<!-- focus on novel and visionary directions for provenance. Such events should seek -->
+<!-- to welcome work in progress that is not prime for proper refereed publications. -->
 
-Events that help broaden the community and increase its impact are particularly
-welcome. Examples of co-located events include tutorials, challenges, and
-discussions on specific topics. Co-located events should not issue formal calls
-for papers and should not have formal proceedings (since papers should be sent
-to IPAW or TAPP). Co-located events can be half a day or a full day.
+<!-- Events that help broaden the community and increase its impact are particularly -->
+<!-- welcome. Examples of co-located events include tutorials, challenges, and -->
+<!-- discussions on specific topics. Co-located events should not issue formal calls -->
+<!-- for papers and should not have formal proceedings (since papers should be sent -->
+<!-- to IPAW or TAPP). Co-located events can be half a day or a full day. -->
 
-If you are interested in organizing a co-located event at Provenance Week,
-please send an email to <a href="mailto:%62%67%6C%61%76%69%63@%69%69%74.%65%64%75">[bglavic] at [iit] o [edu]</a> with:
-- event title
-- event aims
-- organizers
-- proposed format
-- duration
-- how it helps broaden community and increase impact
+<!-- If you are interested in organizing a co-located event at Provenance Week, -->
+<!-- please send an email to <a href="mailto:%62%67%6C%61%76%69%63@%69%69%74.%65%64%75">[bglavic] at [iit] o [edu]</a> with: -->
+<!-- - event title -->
+<!-- - event aims -->
+<!-- - organizers -->
+<!-- - proposed format -->
+<!-- - duration -->
+<!-- - how it helps broaden community and increase impact -->
 
-Important Dates:
-{% assign deadlines = site.data.dates.paper_types | where:"name","Workshop and Co-located Event Proposals" | first %}
-{% for d in deadlines.dates %}
-- **{{ d.event }}**: {{ d.date }}
-{% endfor %}
+<!-- Important Dates: -->
+<!-- {% assign deadlines = site.data.dates.paper_types | where:"name","Workshop and Co-located Event Proposals" | first %} -->
+<!-- {% for d in deadlines.dates %} -->
+<!-- - **{{ d.event }}**: {{ d.date }} -->
+<!-- {% endfor %} -->
