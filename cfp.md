@@ -9,6 +9,12 @@ Papers can be submitted to one of three tracks ([IPAW](#ipaw), [TaPP](#tapp), [d
 Furthermore, the [Workshop on Provenance and Visualization ](#provviz) solicits one-page abstracts that propose a topic or research question to be discussed at the workshop.
 <!-- we are soliciting proposals for [co-located events and workshops](#proposals-for-workshops-and-co-located-events). -->
 
+## Submission Site
+
+Papers are submitted using EasyChair.
+
+- **Submission site**: [{{ site.data.conference.submission_site }}]({{ site.data.conference.submission_site }})
+
 ## Topics
 
 - Provenance visualization, and human interaction with provenance
@@ -120,16 +126,6 @@ Important Dates:
 {% for d in deadlines.dates %}
 - **{{ d.event }}**: {{ d.date }}
 {% endfor %}
-
-
-
-## Submission Site
-
-Papers are submitted using EasyChair.
-
-- **Submission site**: [{{ site.data.conference.submission_site }}]({{ site.data.conference.submission_site }})
-
-
 
 
 ## Proposals for Workshops and Co-located Events
