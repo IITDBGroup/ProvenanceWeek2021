@@ -39,9 +39,7 @@ Papers are submitted using EasyChair.
 
 Authors are invited to submit original research work the IPAW track. This track
 solicits full research papers that describe mature, high-quality research on the
-topics of interest of the Provenance Week. Papers submitted to IPAW are expected
-to have some form of initial validation, such as a case study or preliminary
-experiments showing the feasibility of the proposed approach.
+topics of interest of the Provenance Week. 
 
 Papers must be:
 - not published or under review elsewhere
