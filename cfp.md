@@ -128,13 +128,17 @@ Important Dates:
 
 ### [T7 Workshop on Provenance for Transparent Research]({{ site.baseurl }}/t7.html)
 
-This workshop aims to engage Provenance Week attendees in a focused conversation about how methods for automated provenance capture, storage, query, inference, and visualization can make research more transparent and the trustworthiness of results easier to evaluate, both by other researchers and by the public. In brief presentations speakers will propose actionable definitions of terms such as *transparent*, *trustworthy*, and *traceable*; identify needs of particular research communities and other stakeholders; prioritize desiderata for real-world system implementations; and highlight remaining research and engineering challenges. All workshop participants will be invited to comment and contribute their own definitions, priorities, and user requirements in real time via shared documents. The suggestions will be ranked by priority and degree of consensus during a final discussion, and the resulting recommendations and rankings included in a workshop report.
+This workshop aims to engage Provenance Week attendees in a focused conversation about how methods for automated provenance capture, storage, query, inference, and visualization can make research more transparent and the trustworthiness of results easier to evaluate, both by other researchers and by the public. In brief presentations speakers will propose actionable definitions of terms such as *transparent*, *trustworthy*, and *traceable*; identify needs of particular research communities and other stakeholders; prioritize desiderata for real-world system implementations; and highlight remaining research and engineering challenges. All workshop participants will be invited to comment and contribute their own definitions, priorities, and user requirements in real time via shared documents. The suggestions will be ranked by priority and degree of consensus during a final discussion, and the resulting recommendations and rankings included in a workshop report. 
+
+We invite submissions of 1-page abstracts on topics relevant to the workshop.  To submit an abstract please select the **Workshop on Provenance for Transparent Research** track in [EasyChair](https://easychair.org/conferences/?conf=pw2021). 
 
 Important Dates:
 {% assign deadlines = site.data.dates.paper_types | where:"name","T7 Workshop" | first %}
 {% for d in deadlines.dates %}
 - **{{ d.event }}**: {{ d.date }}
 {% endfor %}
+
+Please see the [T7 Workshop]({{site.baseurl}}/t7.html) page for additional details.
 
 
 <!-- ## Proposals for Workshops and Co-located Events -->
