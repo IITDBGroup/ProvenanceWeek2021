@@ -5,8 +5,8 @@ title: Submissions
 
 ## Tracks
 
-Papers can be submitted to one of three tracks ([IPAW](#ipaw), [TaPP](#tapp), [demonstration and poster](#demonstrations-and-posters)) at [https://easychair.org/conferences/?conf=pw2021](https://easychair.org/conferences/?conf=pw2021). <!-- Boris: check first. All papers will be published as [LIPIcs proceedings](https://www.dagstuhl.de/en/publications/lipics/). -->
-Furthermore, the [Workshop on Provenance and Visualization ](#provviz) solicits one-page abstracts that propose a topic or research question to be discussed at the workshop.
+Papers can be submitted to one of three tracks ([IPAW](#ipaw), [TaPP](#tapp), [demonstration and poster](#demonstrations-and-posters)) at [https://easychair.org/conferences/?conf=pw2021](https://easychair.org/conferences/?conf=pw2021). <!-- Boris: check first. All papers will be published as [LIPIcs proceedings](https://www.dagstuhl.de/en/publications/lipics/). -->  Furthermore, the [Workshop on Provenance and Visualization ](#workshop-on-provenance-and-visualization) solicits one-page abstracts that propose a topic or research question to be discussed at the workshop. The [T7 Workshop on Provenance for Transparent Research](#t7-workshop-on-provenance-for-transparent-research) similarly invites submissions of 1-page abstracts. 
+
 <!-- we are soliciting proposals for [co-located events and workshops](#proposals-for-workshops-and-co-located-events). -->
 
 ## Submission Site
@@ -130,7 +130,7 @@ Important Dates:
 
 This workshop aims to engage Provenance Week attendees in a focused conversation about how methods for automated provenance capture, storage, query, inference, and visualization can make research more transparent and the trustworthiness of results easier to evaluate, both by other researchers and by the public. In brief presentations speakers will propose actionable definitions of terms such as *transparent*, *trustworthy*, and *traceable*; identify needs of particular research communities and other stakeholders; prioritize desiderata for real-world system implementations; and highlight remaining research and engineering challenges. All workshop participants will be invited to comment and contribute their own definitions, priorities, and user requirements in real time via shared documents. The suggestions will be ranked by priority and degree of consensus during a final discussion, and the resulting recommendations and rankings included in a workshop report. 
 
-We invite submissions of 1-page abstracts on topics relevant to the workshop.  To submit an abstract please select the **Workshop on Provenance for Transparent Research** track in [EasyChair](https://easychair.org/conferences/?conf=pw2021). 
+We invite submissions of 1-page abstracts on topics relevant to the workshop.  To submit an abstract please select the *Workshop on Provenance for Transparent Research* track in [EasyChair](https://easychair.org/conferences/?conf=pw2021). 
 
 Important Dates:
 {% assign deadlines = site.data.dates.paper_types | where:"name","T7 Workshop" | first %}
