@@ -31,8 +31,8 @@ paper_types:
         date: "May 1st, 2021"
       - event: "Author Notification"
         date: "May 17th, 2021"
-#      - event: "Camera Ready"
-#        date: "2020-05-23"
+      - event: "Workshop Convenes"
+        date: "July 22nd, 2021"
   - name: "Workshop and Co-located Event Proposals"
     dates:
       - event: "Proposal Submission"

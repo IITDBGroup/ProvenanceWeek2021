@@ -126,6 +126,17 @@ Important Dates:
 {% endfor %}
 
 
+### [T7 Workshop on Provenance for Transparent Research]({{ site.baseurl }}/t7.html)
+
+This workshop aims to engage Provenance Week attendees in a focused conversation about how methods for automated provenance capture, storage, query, inference, and visualization can make research more transparent and the trustworthiness of results easier to evaluate, both by other researchers and by the public. In brief presentations speakers will propose actionable definitions of terms such as *transparent*, *trustworthy*, and *traceable*; identify needs of particular research communities and other stakeholders; prioritize desiderata for real-world system implementations; and highlight remaining research and engineering challenges. All workshop participants will be invited to comment and contribute their own definitions, priorities, and user requirements in real time via shared documents. The suggestions will be ranked by priority and degree of consensus during a final discussion, and the resulting recommendations and rankings included in a workshop report.
+
+Important Dates:
+{% assign deadlines = site.data.dates.paper_types | where:"name","T7 Workshop" | first %}
+{% for d in deadlines.dates %}
+- **{{ d.event }}**: {{ d.date }}
+{% endfor %}
+
+
 <!-- ## Proposals for Workshops and Co-located Events -->
 
 <!-- We are looking for a small number of original and high-quality events, which -->
