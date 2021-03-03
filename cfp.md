@@ -138,7 +138,7 @@ Important Dates:
 - **{{ d.event }}**: {{ d.date }}
 {% endfor %}
 
-Please see the [T7 Workshop]({{site.baseurl}}/t7.html) page for additional details.
+Please see the [T7 Workshop]({{site.baseurl}}/t7.html) page for complete details.
 
 
 <!-- ## Proposals for Workshops and Co-located Events -->
