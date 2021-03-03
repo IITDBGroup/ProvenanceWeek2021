@@ -33,9 +33,9 @@ paper_types:
         date: "May 17th, 2021"
       - event: "Workshop Convenes"
         date: "July 22nd, 2021"
-  - name: "Workshop and Co-located Event Proposals"
-    dates:
-      - event: "Proposal Submission"
-        date: "February 1st, 2021"
-      - event: "Notification of Acceptance"
-        date: "February 15th, 2021"
+  # - name: "Workshop and Co-located Event Proposals"
+  #   dates:
+  #     - event: "Proposal Submission"
+  #       date: "February 1st, 2021"
+  #     - event: "Notification of Acceptance"
+  #       date: "February 15th, 2021"
