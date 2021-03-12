@@ -2,9 +2,9 @@ paper_types:
   - name: "Papers (IPAW and TaPP tracks)"
     dates:
       - event: "Abstract Submission"
-        date: "March 8th, 2021"
-      - event: "Paper Submission"
         date: "March 15th, 2021"
+      - event: "Paper Submission"
+        date: "March 22th, 2021"
       - event: "Author Notification"
         date: "June 1st, 2021"
 #      - event: "Camera Ready"
