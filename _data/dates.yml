@@ -6,9 +6,9 @@ paper_types:
       - event: "Paper Submission"
         date: "March 22th, 2021"
       - event: "Author Notification"
+        date: "May 21st, 2021"
+      - event: "Camera Ready"
         date: "June 1st, 2021"
-#      - event: "Camera Ready"
-#        date: "June 4th, 2020"
   - name: "Demos and Posters"
     dates:
       - event: "Paper Submission"
