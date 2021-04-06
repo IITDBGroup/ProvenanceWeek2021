@@ -14,9 +14,9 @@ paper_types:
       - event: "Paper Submission"
         date: "April 23rd, 2021"
       - event: "Author Notification"
+        date: "May 24th, 2021"
+      - event: "Camera Ready"
         date: "June 1st, 2021"
-#      - event: "Camera Ready"
-#        date: "2020-05-23"
   - name: "ProvViz Workshop"
     dates:
       - event: "Abstract Submission"
