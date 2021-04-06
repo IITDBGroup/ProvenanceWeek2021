@@ -97,8 +97,8 @@ ProvenanceWeek encourages the presentation of posters and demonstrations. Propos
 
 Demo and poster proposals must be:
 
-+ no longer than 2 pages
-+ formatted according to the USENIX instructions: https://www.usenix.org/conferences/author-resources/paper-templates
++ **(Updated)** no longer than 6 pages (including references)
+- **(Updated)** formatted according to the [LNCS guidelines](https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines)
 - submitted as PDF files to the demo/poster track at:
   - [submission site]({{ site.data.conference.submission_site }})
 
