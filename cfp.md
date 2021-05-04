@@ -115,9 +115,9 @@ Important Dates:
 
 The aim of the workshop is to encourage exchange between the provenance and visualization communities. During the workshop, we will introduce the latest developments in provenance analysis from the visualization community, and try to address research challenges that are relevant for both communities.
 
-All Provenance Week 2021 participants are welcome to join. There is an option to submit a one-page abstract before the workshop if you would like to propose a topic or research question to be discussed at the workshop.
+All Provenance Week 2021 participants are welcome to join. There is an option to submit a one-page abstract before the workshop if you would like to propose a topic or research question to be discussed at the workshop.  The LNCS format is preferred but not compulsory for the abstract.  The submission track for ProvViz will appear soon.
 
-The workshop lasts half a day, and will start with a keynote by an invited speaker (to be confirmed). After that, participants will form groups to discuss a particular area or research question based on their shared interest. Finally, each group will report back their discussion results and collaboration plan after the workshop.
+The workshop lasts half a day, and will start with a keynote by Bill Howe. After that, participants will form groups to discuss a particular area or research question based on their shared interest. Finally, each group will report back their discussion results and collaboration plan after the workshop.
 
 Important Dates:
 {% assign deadlines = site.data.dates.paper_types | where:"name","ProvViz Workshop" | first %}
