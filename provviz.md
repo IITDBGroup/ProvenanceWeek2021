@@ -7,7 +7,7 @@ title: ProvViz
 
 All Provenance Week 2021 participants are welcome to join the Workshop on Provenance and Visualization (ProvViz).  The aim of this workshop is to encourage exachange between the provenance and visualization communities.  During the workshop, we will introduce the latest developments in provenance analysis from the visualization community, and try to address research challenges that are relevant for both communities.
 
-This event will occur fully online, as with the rest of ProvenanceWeek.
+Due to COVID, this event will occur fully online, as with the rest of ProvenanceWeek.
 
 ### Keynote from Bill Howe, University of Washington
 
