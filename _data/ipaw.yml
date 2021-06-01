@@ -65,11 +65,58 @@ pc:
     affiliation: University of Virginia, USA
   - name: Vasa Curcin
     affiliation: King's College London, UK
-#accepted_papers:
-#  - title: "Efficient Computation of Provenance for Query Result Exploration"
-#    authors:
-#      - name: M. Mani
-#      - name: N. Singaraj
-#      - name: Z. Liu
+accepted_papers:
+  - title: "A Delayed Instantiation Approach to Template-driven Provenance for Electronic Health Record Phenotyping"
+    authors:
+      - name: Elliot Fairweather
+      - name: Martin Chapman
+      - name: Vasa Curcin
+#    preprint: https://arxiv.org/abs/1905.09251
+#    video: https://drive.google.com/file/d/1ZK3eq4kfr9RDLTcAOV4EO5wZzRiTF6vI/view?usp=sharing
+  - title: "Capturing Provenance Data to Support Hyperparameter Analysis in Deep Neural Networks: a Practical Approach"
+    authors:
+      - name: Débora Pina
+      - name: Liliane Kunstmann
+      - name: Daniel de Oliveira
+      - name: Patrick Valduriez
+      - name: Marta Mattoso
+#    preprint: https://arxiv.org/abs/1905.09251
+#    video: https://drive.google.com/file/d/1ZK3eq4kfr9RDLTcAOV4EO5wZzRiTF6vI/view?usp=sharing
+  - title: "Evidence Graphs: Supporting Transparent and FAIR Computation, with Defeasible Reasoning on Data, Methods and Results"
+    authors:
+      - name: Sadnan Al Manir
+      - name: Justin Niestroy
+      - name: Maxwell Levinson
+      - name: Timothy Clark
+#    preprint: https://arxiv.org/abs/1905.09251
+#    video: https://drive.google.com/file/d/1ZK3eq4kfr9RDLTcAOV4EO5wZzRiTF6vI/view?usp=sharing
+  - title: "Proactive Provenance Policies for Automatic Cryptographic Data Centric Security"
+    authors:
+      - name: Shamaria Engram
+      - name: Tyler Kaczmarek
+      - name: Alice Lee
+      - name: David Bigelow
+#    preprint: https://arxiv.org/abs/1905.09251
+#    video: https://drive.google.com/file/d/1ZK3eq4kfr9RDLTcAOV4EO5wZzRiTF6vI/view?usp=sharing
+  - title: "Provenance-based Security Audits and its Application to COVID-19 Contact Tracing Apps"
+    authors:
+      - name: Andreas Schreiber
+      - name: Tim Sonnekalb
+      - name: Thomas Heinze
+      - name: Lynn von Kurnatowski
+      - name: Jesus M. Gonzalez-Barahona 
+      - name: Heather Packer
+#    preprint: https://arxiv.org/abs/1905.09251
+#    video: https://drive.google.com/file/d/1ZK3eq4kfr9RDLTcAOV4EO5wZzRiTF6vI/view?usp=sharing
+  - title: "Notebook Archaeology: Inferring Provenance from Computational Notebooks"
+    authors:
+      - name: David Koop
+#    preprint: https://arxiv.org/abs/1905.09251
+#    video: https://drive.google.com/file/d/1ZK3eq4kfr9RDLTcAOV4EO5wZzRiTF6vI/view?usp=sharing
+  - title: "A Model and System for Querying Provenance from Data Cleaning Workflows"
+    authors:
+      - name: Nikolaus N. Parulian
+      - name: Bertram Ludaescher
+      - name: Timothy McPhillips
 #    preprint: https://arxiv.org/abs/1905.09251
 #    video: https://drive.google.com/file/d/1ZK3eq4kfr9RDLTcAOV4EO5wZzRiTF6vI/view?usp=sharing
