@@ -73,7 +73,7 @@ accepted_papers:
       - name: Vasa Curcin
 #    preprint: https://arxiv.org/abs/1905.09251
 #    video: https://drive.google.com/file/d/1ZK3eq4kfr9RDLTcAOV4EO5wZzRiTF6vI/view?usp=sharing
-  - title: "Capturing Provenance Data to Support Hyperparameter Analysis in Deep Neural Networks: a Practical Approach"
+  - title: "Provenance Supporting Hyperparameter Analysis in Deep Neural Networks"
     authors:
       - name: Débora Pina
       - name: Liliane Kunstmann
