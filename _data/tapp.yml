@@ -58,7 +58,8 @@ pc:
 #    affiliation: Harvard University, USA
   - name: Yulai Xie
     affiliation: Huazhong University of Science and Technology, China
- accepted_papers:
+ 
+accepted_papers:
    - title: "Provenance expressiveness benchmarking on non-deterministic executions"
    authors: 
     - name: Sheung Chi Chan
