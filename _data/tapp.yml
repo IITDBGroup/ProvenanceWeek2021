@@ -59,12 +59,6 @@ pc:
   - name: Yulai Xie
     affiliation: Huazhong University of Science and Technology, China
  accepted_papers:
-   - title: "A Delayed Instantiation Approach to Template-driven Provenance for Electronic Health Record Phenotyping"
-     authors:
-       - name: Elliot Fairweather
-       - name: Martin Chapman
-       - name: Vasa Curcin
-
    - title: "Provenance expressiveness benchmarking on non-deterministic executions"
    authors: 
     - name: Sheung Chi Chan
