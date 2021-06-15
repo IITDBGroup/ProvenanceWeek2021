@@ -101,7 +101,7 @@ We are using Zoom. The zoom link will be send to all registered participants.
 #### 12:45 pm - 2:45 pm - Poster and Demo Session with Breakout Rooms
 {% for p in site.data.posterdemo.accepted_papers %}
 {% assign authors = p.authors | map: 'name' %}
-    - {{ p.title }} (*{{ authors | join: ', ' }}*) {% if p.link %} [Materials]({{ p.link }}){% endif %} {% if p.breakout %} -- [Breakout Room]({{ p.breakout }}){% endif %}
+- {{ p.title }} (*{{ authors | join: ', ' }}*) {% if p.link %} [Materials]({{ p.link }}){% endif %} {% if p.breakout %} -- [Breakout Room]({{ p.breakout }}){% endif %}
 {% endfor %}
 
 
@@ -113,7 +113,7 @@ We are using Zoom. The zoom link will be send to all registered participants.
 #### 12:45 pm - 2:45 pm - Poster and Demo Session with Breakout Rooms
 {% for p in site.data.posterdemo.accepted_papers %}
 {% assign authors = p.authors | map: 'name' %}
-    - {{ p.title }} (*{{ authors | join: ', ' }}*) {% if p.link %} [Materials]({{ p.link }}){% endif %} {% if p.breakout %} -- [Breakout Room]({{ p.breakout }}){% endif %}
+- {{ p.title }} (*{{ authors | join: ', ' }}*) {% if p.link %} [Materials]({{ p.link }}){% endif %} {% if p.breakout %} -- [Breakout Room]({{ p.breakout }}){% endif %}
 {% endfor %}
 
 #### 2:45 pm - Provenance Week Townhall
