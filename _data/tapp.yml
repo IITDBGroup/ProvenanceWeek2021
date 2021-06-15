@@ -132,74 +132,84 @@ accepted_papers:
       - name: Matthew Allen (Raytheon BBN Technologies)
       - name: Kyle Tunis (Raytheon BBN Technologies)
     paper: TBD
-   - title: "Provenance expressiveness benchmarking on non-deterministic executions"
-   authors:
-    - name: Sheung Chi Chan
-    - name: James Cheney
-    - name: Pramod Bhatotia
-
-   - title: "A declarative query language for Data Provenance"
-   authors:
-    - name: Argyro Avgoustaki
-    - name: Giorgos Flouris
-    - name: Dimitris Plexousakis
-
-    - title: "Observed vs Possible Provenance"
+  - title: "Provenance expressiveness benchmarking on non-deterministic executions"
+    year: 2021
+    session: 1
     authors:
-    - name: Tom Blount
-    - name: Adriane Chapman
-    - name: Michael Johnson
-    - name: Bertram Ludascher
-
-    - title: "GitLab2PROV—Provenance of Software Projects hosted on GitLab"
-    - authors:
-    - name: Andreas Schreiber
-    - name: Claas de Boer
-    - name: Lynn von Kurnatowski.
-
-    - title: "Detailed Provenance Metadata from Statistical Analysis Software"
-    - authors:
-    - name: George Alter
-    - name: Jack Gager
-    - name: Pascal Heus
-    - name: Carson Hunter
-    - name: Sanda Ionescu
-    - name: Jeremy Iverson
-    - name: H V Jagadish
-    - name: Jared Lyle
-    - name: Alexander Mueller
-    - name: Sigve Nordgaard
-    - name: Ørnulf Risnes
-    - name: Dan Smith
-    - name: Jie Song
-    - name: Bertram Ludaescher
-    - name: Timothy McPhillips
-    - name: Thomas Thelen.
-
-    title: "Provenance-integrated parameter selection and optimization in numerical simulations"
+      - name: Sheung Chi Chan
+      - name: James Cheney
+      - name: Pramod Bhatotia
+  - title: "A declarative query language for Data Provenance"
+    year: 2021
+    session: 1
     authors:
-    - name: Julia Kühnert
-    - name: Dominik Göddeke
-    - name: Melanie Herschel.
-
-    title: "Astronomical Pipeline Provenance: A Use Case Evaluation"
+      - name: Argyro Avgoustaki
+      - name: Giorgos Flouris
+      - name: Dimitris Plexousakis
+  - title: "Observed vs Possible Provenance"
+    year: 2021
+    session: 1
     authors:
-    - name: Michael Johnson
-    - name: Kristen Lackeos
-    - name: Hans-Rainer Klöckner
-    - name: Sirko Schindler
-    - name: Marcus Paradies
-    - name: David Champion
-    - name: Marta Dembska
-
-    title: "Using Provenance to Evaluate Risk and Benefit of Data Sharing"
+      - name: Tom Blount
+      - name: Adriane Chapman
+      - name: Michael Johnson
+      - name: Bertram Ludascher
+  - title: "GitLab2PROV—Provenance of Software Projects hosted on GitLab"
+    year: 2021
+    session: 1
     authors:
-    - name: Taeho Jung
-    - name: Seokki Lee
-    - name: Wenyi Tang
-
-    title: "Practical Provenance Privacy Protection"
+      - name: Andreas Schreiber
+      - name: Claas de Boer
+      - name: Lynn von Kurnatowski
+  - title: "Detailed Provenance Metadata from Statistical Analysis Software"
+    year: 2021
+    session: 1
     authors:
-    - name: Ashish Gehani
-    - name: Raza Ahmad
-    - name: Hassaan Irshad
+      - name: George Alter
+      - name: Jack Gager
+      - name: Pascal Heus
+      - name: Carson Hunter
+      - name: Sanda Ionescu
+      - name: Jeremy Iverson
+      - name: H V Jagadish
+      - name: Jared Lyle
+      - name: Alexander Mueller
+      - name: Sigve Nordgaard
+      - name: Ørnulf Risnes
+      - name: Dan Smith
+      - name: Jie Song
+      - name: Bertram Ludaescher
+      - name: Timothy McPhillips
+      - name: Thomas Thelen.
+  - title: "Provenance-integrated parameter selection and optimization in numerical simulations"
+    year: 2021
+    session: 1
+    authors:
+      - name: Julia Kühnert
+      - name: Dominik Göddeke
+      - name: Melanie Herschel
+  - title: "Astronomical Pipeline Provenance: A Use Case Evaluation"
+    year: 2021
+    session: 1
+    authors:
+      - name: Michael Johnson
+      - name: Kristen Lackeos
+      - name: Hans-Rainer Klöckner
+      - name: Sirko Schindler
+      - name: Marcus Paradies
+      - name: David Champion
+      - name: Marta Dembska
+  - title: "Using Provenance to Evaluate Risk and Benefit of Data Sharing"
+    year: 2021
+    session: 1
+    authors:
+      - name: Taeho Jung
+      - name: Seokki Lee
+      - name: Wenyi Tang
+  - title: "Practical Provenance Privacy Protection"
+    year: 2021
+    session: 1
+    authors:
+      - name: Ashish Gehani
+      - name: Raza Ahmad
+      - name: Hassaan Irshad
