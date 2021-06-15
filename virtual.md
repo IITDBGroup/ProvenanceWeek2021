@@ -14,9 +14,11 @@ We are using Zoom. The zoom link will be send to all registered participants.
 ### Monday - July 19th
 
 ####  8:45 am - 9:00 am - Introduction by the Chairs
-#### 9:00 am - 10:00 am - IPAW Keynote: Paolo Missier
+#### 9:00 am - 10:00 am - IPAW Keynote: Paolo Missier - "Quo vadis, provenancer?  Cui prodest?  (our own trajectory: provenance of data science pipelines)"
 
-**Bio**: [Paolo Missier](http://tinyurl.com/paolomissier/) is a Reader (Associate Professor) in Large-scale Information Management with the School of Computing, Newcastle University, UK, and a Fellow of the Alan Turing Institute for Data Science and AI. He joined academia in 2011, after a prior career as a Research Scientist at Bell Communications Research, USA (1994-2001), and as a Research Fellow at the University of Manchester, School of Computer Science (2004-2011) where he also obtained his PhD in 2008. Most of his research contributions have been in the area of scientific workflows for e-science and on data provenance, including contributions to the W3C PROV Working group (2011-2013). He has recently launched new research efforts in two new areas: the study of fairness in Machine Learning, and applications of (Scalable) Data Science to enable preventive, predictive, and personalised healthcare. In Newcastle, Paolo leads the School's post-graduate module on scalable technologies for Big Data Analytics.
+**Bio**: [Paolo Missier](http://tinyurl.com/paolomissier/) Paolo Missier is Professor of Scalable Data Analytics with the School of Computing at Newcastle University and currently a Fellow (2018-2020) of the Alan Turing Institute, UK's National Institute for Data Science and Artificial Intelligence. With a background in traditional databases and data management, since around 2000 his research has touched on Data and Information Quality, web semantics, workflow-based infrastructure for e-science, and data provenance. He has been actively involved in the specification of the W3C PROV data model for provenance (2011-2013). His recent work in this area includes an exploration into the management and exploitation of fine-grained provenance of data science pipelines, and into the connection between data pre-processing and the fairness of the resulting machine learning models.
+
+Paolo leads the School of Computing's post-graduate academic teaching on Big Data Analytics, and he is Sr. Associate Editor for the ACM Journal on Data and Information Quality (JDIQ).
 
 **Abstract**:
 
