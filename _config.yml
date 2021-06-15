@@ -33,6 +33,7 @@ plugins:
 
 # A list of the pages to display in the navigation bar
 header_pages:
+  - registration.md
   - virtual.md
   - tapp.md
   - ipaw.md
@@ -40,15 +41,15 @@ header_pages:
   - t7.md
   - important_dates.md
   - cfp.md
-  - location.md
+#  - location.md
   - news.html
 #  - workshops
-#  - registration
 #  - schedule.md
 
 # virtual_event: "June 22nd 9:00am - 3:30pm (eastern)"
 long_dates: "July 19-22 2021"
 short_dates: "07/19-07/22"
+virtual_event: "July 19th - July 22nd, 2021"
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

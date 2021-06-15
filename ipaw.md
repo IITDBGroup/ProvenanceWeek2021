@@ -14,14 +14,26 @@ The proceedings for IPAW have been published by Springer since 2008. You can fin
 * **{{ pcchair.name }}** ({{ pcchair.affiliation }}) - PC Chair
 
 {% if site.data.ipaw.accepted_papers.size > 0 %}
+
 ### Accepted Papers
 
 2021 IPAW papers will be published together with 2020 papers in the 2021 Springer proceedings. For now preprints of accepted papers, if provided by the authors, are linked below.
 
-{% for p in site.data.ipaw.accepted_papers %}
-{% assign authors = p.authors | map: 'name' %}
+#### 2021
+
+    {% assign papers = site.data.ipaw.accepted_papers | where: "year","2021" %}
+    {% for p in papers %}
+        {% assign authors = p.authors | map: 'name' %}
 * **{{ p.title }}** (*{{ authors | join: ', ' }}*) {% if p.preprint %}**preprint**: [{{ p.preprint }}]({{ p.preprint }}){% endif %}
-{% endfor %}
+    {% endfor %}
+
+#### 2020
+
+    {% assign papers = site.data.ipaw.accepted_papers | where: "year","2020" %}
+    {% for p in papers %}
+        {% assign authors = p.authors | map: 'name' %}
+* **{{ p.title }}** (*{{ authors | join: ', ' }}*) {% if p.preprint %}**preprint**: [{{ p.preprint }}]({{ p.preprint }}){% endif %}
+    {% endfor %}
 {% endif %}
 
 ### Program Committee

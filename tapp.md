@@ -14,12 +14,27 @@ Industry and academic participants interested in provenance in any setting are w
 * **{{ pcchair.name }}** (*{{ pcchair.affiliation }}*)
 {% endfor %}
 
+{% if site.data.tapp.accepted_papers.size > 0 %}
+
 ### Accepted Papers
 
-{% for p in site.data.tapp.accepted_papers %}
-{% assign authors = p.authors | map: 'name' %}
+#### 2021
+
+    {% assign papers = site.data.tapp.accepted_papers | where: "year","2021" %}
+    {% for p in papers %}
+        {% assign authors = p.authors | map: 'name' %}
 * **{{ p.title }}** (*{{ authors | join: ', ' }}*) {% if p.paper %}**pdf**: [{{ p.paper }}]({{ p.paper }}){% endif %}
-{% endfor %}
+    {% endfor %}
+
+#### 2020
+
+    {% assign papers = site.data.tapp.accepted_papers | where: "year","2020" %}
+    {% for p in papers %}
+        {% assign authors = p.authors | map: 'name' %}
+* **{{ p.title }}** (*{{ authors | join: ', ' }}*) {% if p.paper %}**pdf**: [{{ p.paper }}]({{ p.paper }}){% endif %}
+    {% endfor %}
+
+{% endif %}
 
 ### Program Committee
 
