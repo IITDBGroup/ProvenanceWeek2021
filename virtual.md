@@ -9,7 +9,7 @@ The  virtual 2021 provenance week event will be held on **{{ site.virtual_event 
 
 We are using Zoom. The zoom link will be send to all registered participants.
 
-## Schedule
+## Schedule (Draft Version)
 
 ### Monday - July 19th
 
