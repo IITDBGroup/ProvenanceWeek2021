@@ -67,11 +67,12 @@ Paolo leads the School of Computing's post-graduate academic teaching on Big Dat
 
 #### 10:15 am - 11:30 am - TaPP Keynote: Hazeline Asunction- "Finding Connections: Software Traceability & Data Provenance"
 
+**Abstract**:
+Software and data are increasingly at the heart of virtually every scientific and engineering discipline.  In software engineering, the ability to efficiently connect related data is crucial for large projects.  In scientific research, the ability to collect, retrieve, and understand both raw and processed data is necessary to advance research.  This talk discusses our research investigations in connecting related data in software engineering, referred to as software traceability, and in eScience, referred to as data provenance.  We discuss challenges encountered and our contributions thus far in both domains.
+
 **Bio**:
 Hazeline Asuncion is an Associate Professor at the University of Washington Bothell. Her research focuses on traceability of data that may be found in different file types, locations, and owner groups. In the domain of software engineering, software traceability aids in various development tasks, such as system comprehension, system debugging, and communication between various stakeholders. In the domain of eScience, tracing how a dataset arrived at its current state, referred to as data provenance, is necessary in assessing a dataset’s integrity and in supporting repeatability of analyses or experiments. She has published over 30 peer-reviewed papers spanning these two topics. Her work has been funded by the National Science Foundation, including NSF REUs and an NSF Career. She received her Ph.D., M.S., and B.S., in Information and Computer Science from the University of California, Irvine.
 
-**Abstract**:
-Software and data are increasingly at the heart of virtually every scientific and engineering discipline.  In software engineering, the ability to efficiently connect related data is crucial for large projects.  In scientific research, the ability to collect, retrieve, and understand both raw and processed data is necessary to advance research.  This talk discusses our research investigations in connecting related data in software engineering, referred to as software traceability, and in eScience, referred to as data provenance.  We discuss challenges encountered and our contributions thus far in both domains.
 
 
 #### 11:30 am - 12:45 pm - TaPP Session 3
