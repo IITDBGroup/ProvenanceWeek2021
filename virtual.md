@@ -24,6 +24,7 @@ Paolo leads the School of Computing's post-graduate academic teaching on Big Dat
 
 {% assign session = site.data.ipaw.sessions | where: "number","1" | first %}
 #### 10:15 am - 11:50 am - IPAW - Session {{ session.number }} - {{ session.title }}
+{% if session.chair %}**Session chair**: {{ session.chair }}{% endif %}
 {% assign papers = site.data.ipaw.accepted_papers  | where: "session","1" %}
 {% for p in papers %}
 {% assign authors = p.authors | map: 'name' %}
@@ -32,6 +33,7 @@ Paolo leads the School of Computing's post-graduate academic teaching on Big Dat
 
 {% assign session = site.data.ipaw.sessions | where: "number","2" | first %}
 #### 11:50 am - 1:25 pm - IPAW - Session {{ session.number }} - {{ session.title }}
+{% if session.chair %}**Session chair**: {{ session.chair }}{% endif %}
 {% assign papers = site.data.ipaw.accepted_papers  | where: "session","2" %}
 {% for p in papers %}
 {% assign authors = p.authors | map: 'name' %}
@@ -43,6 +45,7 @@ Paolo leads the School of Computing's post-graduate academic teaching on Big Dat
 
 {% assign session = site.data.ipaw.sessions | where: "number","3" | first %}
 #### 2:45 pm - 4:00 pm - IPAW - Session {{ session.number }} - {{ session.title }}
+{% if session.chair %}**Session chair**: {{ session.chair }}{% endif %}
 {% assign papers = site.data.ipaw.accepted_papers  | where: "session","3" %}
 {% for p in papers %}
 {% assign authors = p.authors | map: 'name' %}
@@ -53,6 +56,7 @@ Paolo leads the School of Computing's post-graduate academic teaching on Big Dat
 
 {% assign session = site.data.tapp.sessions | where: "number","1" | first %}
 #### 9:00 am - 10:15 am - TaPP - Session {{ session.number }} - {{ session.title }}
+{% if session.chair %}**Session chair**: {{ session.chair }}{% endif %}
 {% assign papers = site.data.tapp.accepted_papers  | where: "session","1" %}
 {% for p in papers %}
 {% assign authors = p.authors | map: 'name' %}
@@ -69,6 +73,7 @@ Hazeline Asuncion is an Associate Professor at the University of Washington Both
 
 {% assign session = site.data.tapp.sessions | where: "number","2" | first %}
 #### 11:30 am - 12:45 pm - TaPP - Session {{ session.number }} - {{ session.title }}
+{% if session.chair %}**Session chair**: {{ session.chair }}{% endif %}
 {% assign papers = site.data.tapp.accepted_papers  | where: "session","2" %}
 {% for p in papers %}
 {% assign authors = p.authors | map: 'name' %}
@@ -76,10 +81,10 @@ Hazeline Asuncion is an Associate Professor at the University of Washington Both
 {% endfor %}
 
 #### 12:45 pm - 1:30 pm - Lunch break
-- [https://gather.town/z9CZIkuky8LIQDoX/PW2020](https://gather.town/z9CZIkuky8LIQDoX/PW2020)
 
 {% assign session = site.data.tapp.sessions | where: "number","3" | first %}
 #### 1:45 pm - 2:30 pm - TaPP - Session {{ session.number }} - {{ session.title }}
+{% if session.chair %}**Session chair**: {{ session.chair }}{% endif %}
 {% assign papers = site.data.tapp.accepted_papers  | where: "session","3" %}
 {% for p in papers %}
 {% assign authors = p.authors | map: 'name' %}
@@ -88,6 +93,7 @@ Hazeline Asuncion is an Associate Professor at the University of Washington Both
 
 {% assign session = site.data.tapp.sessions | where: "number","4" | first %}
 #### 2:45 pm - 4:00 pm - TaPP - Session {{ session.number }} - {{ session.title }}
+{% if session.chair %}**Session chair**: {{ session.chair }}{% endif %}
 {% assign papers = site.data.tapp.accepted_papers  | where: "session","4" %}
 {% for p in papers %}
 {% assign authors = p.authors | map: 'name' %}
@@ -107,6 +113,7 @@ Hazeline Asuncion is an Associate Professor at the University of Washington Both
 
 {% assign session = site.data.tapp.sessions | where: "number","5" | first %}
 #### 2:45 pm - 4:00 pm - TaPP - Session {{ session.number }} - {{ session.title }}
+{% if session.chair %}**Session chair**: {{ session.chair }}{% endif %}
 {% assign papers = site.data.tapp.accepted_papers  | where: "session","5" %}
 {% for p in papers %}
 {% assign authors = p.authors | map: 'name' %}

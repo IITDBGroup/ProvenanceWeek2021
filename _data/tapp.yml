@@ -216,11 +216,16 @@ accepted_papers:
 sessions:
   - number: 1
     title: "XXX"
+    chair: "TEST"
   - number: 2
     title: "YYY"
+    chair: "TEST"
   - number: 3
     title: "ZZZ"
+    chair: "TEST"
   - number: 4
     title: "AAA"
+    chair: "TEST"
   - number: 5
     title: "BBB"
+    chair: "TEST"
