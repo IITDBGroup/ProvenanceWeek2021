@@ -9,7 +9,7 @@ The  virtual 2021 provenance week event will be held on **{{ site.virtual_event 
 
 We are using Zoom. The zoom link will be send to all registered participants.
 
-## Schedule 
+## Schedule
 
 ### Monday - July 19th
 
@@ -22,47 +22,38 @@ Paolo leads the School of Computing's post-graduate academic teaching on Big Dat
 
 **Abstract**:
 
-{% assign session = site.data.ipaw.sessions | where: "session","1" %}
-#### 10:15 am - 11:30 am - IPAW - Session 1 - {{ session.title }}
+{% assign session = site.data.ipaw.sessions | where: "number","1" | first %}
+#### 10:15 am - 11:50 am - IPAW - Session {{ session.number }} - {{ session.title }}
 {% assign papers = site.data.ipaw.accepted_papers  | where: "session","1" %}
 {% for p in papers %}
 {% assign authors = p.authors | map: 'name' %}
 - **{{ p.title }}** (*{{ authors | join: ', ' }}*) {% if p.preprint %}preprint: [{{ p.preprint }}]({{ p.preprint }}){% endif %} {% if p.video %}video: [{{ p.video }}]({{ p.video }}){% endif %}
 {% endfor %}
 
-{% assign session = site.data.ipaw.sessions | where: "session","2" %}
-#### 11:30 am - 12:45 pm - IPAW - Session 2 - {{ session.title }}
+{% assign session = site.data.ipaw.sessions | where: "number","2" | first %}
+#### 11:50 am - 1:25 pm - IPAW - Session {{ session.number }} - {{ session.title }}
 {% assign papers = site.data.ipaw.accepted_papers  | where: "session","2" %}
 {% for p in papers %}
 {% assign authors = p.authors | map: 'name' %}
 - **{{ p.title }}** (*{{ authors | join: ', ' }}*) {% if p.preprint %}preprint: [{{ p.preprint }}]({{ p.preprint }}){% endif %} {% if p.video %}video: [{{ p.video }}]({{ p.video }}){% endif %}
 {% endfor %}
 
-{% assign session = site.data.ipaw.sessions | where: "session","2" %}
-#### 12:45 pm - 1:30 pm - Lunch break
-- [https://gather.town/z9CZIkuky8LIQDoX/PW2020](https://gather.town/z9CZIkuky8LIQDoX/PW2020)
 
-#### 1:45 pm - 2:30 pm - IPAW Session 3 - {{ session.title }}
+#### 1:25 pm - 2:45 pm - Lunch break
+
+{% assign session = site.data.ipaw.sessions | where: "number","3" | first %}
+#### 2:45 pm - 4:00 pm - IPAW - Session {{ session.number }} - {{ session.title }}
 {% assign papers = site.data.ipaw.accepted_papers  | where: "session","3" %}
 {% for p in papers %}
 {% assign authors = p.authors | map: 'name' %}
 - **{{ p.title }}** (*{{ authors | join: ', ' }}*) {% if p.preprint %}preprint: [{{ p.preprint }}]({{ p.preprint }}){% endif %} {% if p.video %}video: [{{ p.video }}]({{ p.video }}){% endif %}
 {% endfor %}
 
-#### 2:45 pm - 4:00 pm - TaPP Session 1
-
-{% assign papers = site.data.tapp.accepted_papers  | where: "session","1" %}
-{% for p in papers %}
-{% assign authors = p.authors | map: 'name' %}
-- **{{ p.title }}** (*{{ authors | join: ', ' }}*) {% if p.preprint %}preprint: [{{ p.preprint }}]({{ p.preprint }}){% endif %} {% if p.video %}video: [{{ p.video }}]({{ p.video }}){% endif %}
-{% endfor %}
-
-
 ### Tuesday - July 20th
 
-
-#### 9:00 am - 10:00 am - TaPP - Session 2
-{% assign papers = site.data.tapp.accepted_papers  | where: "session","2" %}
+{% assign session = site.data.tapp.sessions | where: "number","1" | first %}
+#### 9:00 am - 10:15 am - TaPP - Session {{ session.number }} - {{ session.title }}
+{% assign papers = site.data.tapp.accepted_papers  | where: "session","1" %}
 {% for p in papers %}
 {% assign authors = p.authors | map: 'name' %}
 - **{{ p.title }}** (*{{ authors | join: ', ' }}*) {% if p.preprint %}preprint: [{{ p.preprint }}]({{ p.preprint }}){% endif %} {% if p.video %}video: [{{ p.video }}]({{ p.video }}){% endif %}
@@ -76,10 +67,9 @@ Software and data are increasingly at the heart of virtually every scientific an
 **Bio**:
 Hazeline Asuncion is an Associate Professor at the University of Washington Bothell. Her research focuses on traceability of data that may be found in different file types, locations, and owner groups. In the domain of software engineering, software traceability aids in various development tasks, such as system comprehension, system debugging, and communication between various stakeholders. In the domain of eScience, tracing how a dataset arrived at its current state, referred to as data provenance, is necessary in assessing a dataset’s integrity and in supporting repeatability of analyses or experiments. She has published over 30 peer-reviewed papers spanning these two topics. Her work has been funded by the National Science Foundation, including NSF REUs and an NSF Career. She received her Ph.D., M.S., and B.S., in Information and Computer Science from the University of California, Irvine.
 
-
-
-#### 11:30 am - 12:45 pm - TaPP Session 3
-{% assign papers = site.data.tapp.accepted_papers  | where: "session","3" %}
+{% assign session = site.data.tapp.sessions | where: "number","2" | first %}
+#### 11:30 am - 12:45 pm - TaPP - Session {{ session.number }} - {{ session.title }}
+{% assign papers = site.data.tapp.accepted_papers  | where: "session","2" %}
 {% for p in papers %}
 {% assign authors = p.authors | map: 'name' %}
 - **{{ p.title }}** (*{{ authors | join: ', ' }}*) {% if p.preprint %}preprint: [{{ p.preprint }}]({{ p.preprint }}){% endif %} {% if p.video %}video: [{{ p.video }}]({{ p.video }}){% endif %}
@@ -88,15 +78,17 @@ Hazeline Asuncion is an Associate Professor at the University of Washington Both
 #### 12:45 pm - 1:30 pm - Lunch break
 - [https://gather.town/z9CZIkuky8LIQDoX/PW2020](https://gather.town/z9CZIkuky8LIQDoX/PW2020)
 
-#### 1:45 pm - 2:30 pm - TaPP Session 4
-{% assign papers = site.data.tapp.accepted_papers  | where: "session","4" %}
+{% assign session = site.data.tapp.sessions | where: "number","3" | first %}
+#### 1:45 pm - 2:30 pm - TaPP - Session {{ session.number }} - {{ session.title }}
+{% assign papers = site.data.tapp.accepted_papers  | where: "session","3" %}
 {% for p in papers %}
 {% assign authors = p.authors | map: 'name' %}
 - **{{ p.title }}** (*{{ authors | join: ', ' }}*) {% if p.preprint %}preprint: [{{ p.preprint }}]({{ p.preprint }}){% endif %} {% if p.video %}video: [{{ p.video }}]({{ p.video }}){% endif %}
 {% endfor %}
 
-#### 2:45 pm - 4:00 pm - TaPP Session 5
-{% assign papers = site.data.tapp.accepted_papers  | where: "session","5" %}
+{% assign session = site.data.tapp.sessions | where: "number","4" | first %}
+#### 2:45 pm - 4:00 pm - TaPP - Session {{ session.number }} - {{ session.title }}
+{% assign papers = site.data.tapp.accepted_papers  | where: "session","4" %}
 {% for p in papers %}
 {% assign authors = p.authors | map: 'name' %}
 - **{{ p.title }}** (*{{ authors | join: ', ' }}*) {% if p.preprint %}preprint: [{{ p.preprint }}]({{ p.preprint }}){% endif %} {% if p.video %}video: [{{ p.video }}]({{ p.video }}){% endif %}
@@ -112,6 +104,15 @@ Hazeline Asuncion is an Associate Professor at the University of Washington Both
 {% assign authors = p.authors | map: 'name' %}
 - {{ p.title }} (*{{ authors | join: ', ' }}*) {% if p.link %} [Materials]({{ p.link }}){% endif %} {% if p.breakout %} -- [Breakout Room]({{ p.breakout }}){% endif %}
 {% endfor %}
+
+{% assign session = site.data.tapp.sessions | where: "number","5" | first %}
+#### 2:45 pm - 4:00 pm - TaPP - Session {{ session.number }} - {{ session.title }}
+{% assign papers = site.data.tapp.accepted_papers  | where: "session","5" %}
+{% for p in papers %}
+{% assign authors = p.authors | map: 'name' %}
+- **{{ p.title }}** (*{{ authors | join: ', ' }}*) {% if p.preprint %}preprint: [{{ p.preprint }}]({{ p.preprint }}){% endif %} {% if p.video %}video: [{{ p.video }}]({{ p.video }}){% endif %}
+{% endfor %}
+
 
 
 
