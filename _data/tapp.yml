@@ -213,3 +213,14 @@ accepted_papers:
       - name: Ashish Gehani
       - name: Raza Ahmad
       - name: Hassaan Irshad
+sessions:
+  - number: 1
+    title: "XXX"
+  - number: 2
+    title: "YYY"
+  - number: 3
+    title: "ZZZ"
+  - number: 4
+    title: "AAA"
+  - number: 5
+    title: "BBB"

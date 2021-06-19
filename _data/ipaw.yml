@@ -163,3 +163,10 @@ accepted_papers:
       - name: David Kohan Marzago
       - name: Trung Dong Huynh
       - name: Luc Moreau
+sessions:
+  - number: 1
+    title: "XXX"
+  - number: 2
+    title: "YYY"
+  - number: 3
+    title: "ZZZ"

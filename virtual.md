@@ -20,24 +20,27 @@ We are using Zoom. The zoom link will be send to all registered participants.
 
 **Abstract**:
 
-#### 10:15 am - 11:30 am - IPAW - Session 1
+{% assign session = site.data.ipaw.sessions | where: "session","1" %}
+#### 10:15 am - 11:30 am - IPAW - Session 1 - {{ session.title }}
 {% assign papers = site.data.ipaw.accepted_papers  | where: "session","1" %}
 {% for p in papers %}
 {% assign authors = p.authors | map: 'name' %}
 - **{{ p.title }}** (*{{ authors | join: ', ' }}*) {% if p.preprint %}preprint: [{{ p.preprint }}]({{ p.preprint }}){% endif %} {% if p.video %}video: [{{ p.video }}]({{ p.video }}){% endif %}
 {% endfor %}
 
-#### 11:30 am - 12:45 pm - IPAW - Session 2
+{% assign session = site.data.ipaw.sessions | where: "session","2" %}
+#### 11:30 am - 12:45 pm - IPAW - Session 2 - {{ session.title }}
 {% assign papers = site.data.ipaw.accepted_papers  | where: "session","2" %}
 {% for p in papers %}
 {% assign authors = p.authors | map: 'name' %}
 - **{{ p.title }}** (*{{ authors | join: ', ' }}*) {% if p.preprint %}preprint: [{{ p.preprint }}]({{ p.preprint }}){% endif %} {% if p.video %}video: [{{ p.video }}]({{ p.video }}){% endif %}
 {% endfor %}
 
+{% assign session = site.data.ipaw.sessions | where: "session","2" %}
 #### 12:45 pm - 1:30 pm - Lunch break
 - [https://gather.town/z9CZIkuky8LIQDoX/PW2020](https://gather.town/z9CZIkuky8LIQDoX/PW2020)
 
-#### 1:45 pm - 2:30 pm - IPAW Session 3
+#### 1:45 pm - 2:30 pm - IPAW Session 3 - {{ session.title }}
 {% assign papers = site.data.ipaw.accepted_papers  | where: "session","3" %}
 {% for p in papers %}
 {% assign authors = p.authors | map: 'name' %}
