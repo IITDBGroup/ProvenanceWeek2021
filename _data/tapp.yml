@@ -63,7 +63,7 @@ pc:
 accepted_papers:
   - title: "An Event-based Data Model for Granular Information Flow Tracking"
     year: 2020
-    session: 1
+    session: 3
     authors:
       - name: Joud Khoury (Raytheon BBN Technologies)
       - name: Timothy Upthegrove (Raytheon BBN Technologies)
@@ -73,7 +73,7 @@ accepted_papers:
     paper: TBD
   - title: "Integrity checking and abnormality detection of provenance records"
     year: 2020
-    session: 1
+    session: 4
     authors:
       - name: Sheung Chi Chan (University of Edinburgh)
       - name: James Cheney (University of Edinburgh)
@@ -82,7 +82,7 @@ accepted_papers:
     paper: TBD
   - title: "A first-principles algebraic approach to data transformations in data cleaning: understanding provenance from the ground up"
     year: 2020
-    session: 1
+    session: 2
     authors:
       - name: Santiago Núñez-Corrales (iSchool and NCSA, UIUC)
       - name: Lan Li (iSchool, UIUC)
@@ -90,7 +90,7 @@ accepted_papers:
     paper: TBD
   - title: "Data Provenance for Attributes: Attribute Lineage"
     year: 2020
-    session: 1
+    session: 3
     authors:
       - name: Dennis Dosso (University of Padua)
       - name: Susan B. Davidson (University of Pennsylvania)
@@ -108,7 +108,7 @@ accepted_papers:
     paper: TBD
   - title: "Efficient Provenance Alignment in Reproduced Executions"
     year: 2020
-    session: 1
+    session: 2
     authors:
       - name: Tanu Malik (DePaul University)
       - name: Yuta Nakamura (DePaul University)
@@ -116,14 +116,14 @@ accepted_papers:
     paper: TBD
   - title: "A Generic Explainability Framework for Function Circuits"
     year: 2020
-    session: 1
+    session: 2
     authors:
       - name: Sylvain Hallé (Université du Québec à Chicoutimi)
       - name: Hugo Tremblay (Université du Québec à Chicoutimi)
     paper: TBD
   - title: "Provenance-Based Interpretation of Multi-Agent Information Analysis"
     year: 2020
-    session: 1
+    session: 5
     authors:
       - name: Scott Friedman (SIFT)
       - name: Jeff Rye (SIFT)
@@ -141,7 +141,7 @@ accepted_papers:
       - name: Pramod Bhatotia
   - title: "A declarative query language for Data Provenance"
     year: 2021
-    session: 1
+    session: 3
     authors:
       - name: Argyro Avgoustaki
       - name: Giorgos Flouris
@@ -156,14 +156,14 @@ accepted_papers:
       - name: Bertram Ludascher
   - title: "GitLab2PROV—Provenance of Software Projects hosted on GitLab"
     year: 2021
-    session: 1
+    session: 6
     authors:
       - name: Andreas Schreiber
       - name: Claas de Boer
       - name: Lynn von Kurnatowski
   - title: "Detailed Provenance Metadata from Statistical Analysis Software"
     year: 2021
-    session: 1
+    session: 6
     authors:
       - name: George Alter
       - name: Jack Gager
@@ -183,14 +183,14 @@ accepted_papers:
       - name: Thomas Thelen.
   - title: "Provenance-integrated parameter selection and optimization in numerical simulations"
     year: 2021
-    session: 1
+    session: 6
     authors:
       - name: Julia Kühnert
       - name: Dominik Göddeke
       - name: Melanie Herschel
   - title: "Astronomical Pipeline Provenance: A Use Case Evaluation"
     year: 2021
-    session: 1
+    session: 5
     authors:
       - name: Michael Johnson
       - name: Kristen Lackeos
@@ -201,14 +201,14 @@ accepted_papers:
       - name: Marta Dembska
   - title: "Using Provenance to Evaluate Risk and Benefit of Data Sharing"
     year: 2021
-    session: 1
+    session: 4
     authors:
       - name: Taeho Jung
       - name: Seokki Lee
       - name: Wenyi Tang
   - title: "Practical Provenance Privacy Protection"
     year: 2021
-    session: 1
+    session: 4
     authors:
       - name: Ashish Gehani
       - name: Raza Ahmad

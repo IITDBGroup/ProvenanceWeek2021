@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Schedule
+title: Schedule (Draft Version)
 ---
 
 The  virtual 2021 provenance week event will be held on **{{ site.virtual_event }}**. Authors of accepted TaPP and IPAW papers will be given a full presentation slot. There will be two poster / demo sessions with break-out rooms for each poster and demo where participants can interact with the presenter. **All times are in central time**.
@@ -9,14 +9,16 @@ The  virtual 2021 provenance week event will be held on **{{ site.virtual_event 
 
 We are using Zoom. The zoom link will be send to all registered participants.
 
-## Schedule
+## Schedule 
 
 ### Monday - July 19th
 
 ####  8:45 am - 9:00 am - Introduction by the Chairs
-#### 9:00 am - 10:00 am - IPAW Keynote: Paolo Missier
+#### 9:00 am - 10:00 am - IPAW Keynote: Paolo Missier - "Quo vadis, provenancer?  Cui prodest?  (our own trajectory: provenance of data science pipelines)"
 
-**Bio**: [Paolo Missier](http://tinyurl.com/paolomissier/) is a Reader (Associate Professor) in Large-scale Information Management with the School of Computing, Newcastle University, UK, and a Fellow of the Alan Turing Institute for Data Science and AI. He joined academia in 2011, after a prior career as a Research Scientist at Bell Communications Research, USA (1994-2001), and as a Research Fellow at the University of Manchester, School of Computer Science (2004-2011) where he also obtained his PhD in 2008. Most of his research contributions have been in the area of scientific workflows for e-science and on data provenance, including contributions to the W3C PROV Working group (2011-2013). He has recently launched new research efforts in two new areas: the study of fairness in Machine Learning, and applications of (Scalable) Data Science to enable preventive, predictive, and personalised healthcare. In Newcastle, Paolo leads the School's post-graduate module on scalable technologies for Big Data Analytics.
+**Bio**: [Paolo Missier](http://tinyurl.com/paolomissier/) is Professor of Scalable Data Analytics with the School of Computing at Newcastle University and currently a Fellow (2018-2020) of the Alan Turing Institute, UK's National Institute for Data Science and Artificial Intelligence. With a background in traditional databases and data management, since around 2000 his research has touched on Data and Information Quality, web semantics, workflow-based infrastructure for e-science, and data provenance. He has been actively involved in the specification of the W3C PROV data model for provenance (2011-2013). His recent work in this area includes an exploration into the management and exploitation of fine-grained provenance of data science pipelines, and into the connection between data pre-processing and the fairness of the resulting machine learning models.
+
+Paolo leads the School of Computing's post-graduate academic teaching on Big Data Analytics, and he is Sr. Associate Editor for the ACM Journal on Data and Information Quality (JDIQ).
 
 **Abstract**:
 
@@ -66,11 +68,15 @@ We are using Zoom. The zoom link will be send to all registered participants.
 - **{{ p.title }}** (*{{ authors | join: ', ' }}*) {% if p.preprint %}preprint: [{{ p.preprint }}]({{ p.preprint }}){% endif %} {% if p.video %}video: [{{ p.video }}]({{ p.video }}){% endif %}
 {% endfor %}
 
-#### 10:15 am - 11:30 am - TaPP Keynote: Hazeline Asunction
-
-**Bio**:
+#### 10:15 am - 11:30 am - TaPP Keynote: Hazeline Asunction- "Finding Connections: Software Traceability & Data Provenance"
 
 **Abstract**:
+Software and data are increasingly at the heart of virtually every scientific and engineering discipline.  In software engineering, the ability to efficiently connect related data is crucial for large projects.  In scientific research, the ability to collect, retrieve, and understand both raw and processed data is necessary to advance research.  This talk discusses our research investigations in connecting related data in software engineering, referred to as software traceability, and in eScience, referred to as data provenance.  We discuss challenges encountered and our contributions thus far in both domains.
+
+**Bio**:
+Hazeline Asuncion is an Associate Professor at the University of Washington Bothell. Her research focuses on traceability of data that may be found in different file types, locations, and owner groups. In the domain of software engineering, software traceability aids in various development tasks, such as system comprehension, system debugging, and communication between various stakeholders. In the domain of eScience, tracing how a dataset arrived at its current state, referred to as data provenance, is necessary in assessing a dataset’s integrity and in supporting repeatability of analyses or experiments. She has published over 30 peer-reviewed papers spanning these two topics. Her work has been funded by the National Science Foundation, including NSF REUs and an NSF Career. She received her Ph.D., M.S., and B.S., in Information and Computer Science from the University of California, Irvine.
+
+
 
 #### 11:30 am - 12:45 pm - TaPP Session 3
 {% assign papers = site.data.tapp.accepted_papers  | where: "session","3" %}
