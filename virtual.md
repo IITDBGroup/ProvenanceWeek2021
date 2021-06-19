@@ -102,7 +102,7 @@ Hazeline Asuncion is an Associate Professor at the University of Washington Both
 #### 12:45 pm - 2:45 pm - Poster and Demo Session with Breakout Rooms
 {% for p in site.data.posterdemo.accepted_papers %}
 {% assign authors = p.authors | map: 'name' %}
-- {{ p.title }} (*{{ authors | join: ', ' }}*) {% if p.link %} [Materials]({{ p.link }}){% endif %} {% if p.breakout %} -- [Breakout Room]({{ p.breakout }}){% endif %}
+- **{{ p.title }}** (*{{ authors | join: ', ' }}*) {% if p.link %} [Materials]({{ p.link }}){% endif %} {% if p.breakout %} -- [Breakout Room]({{ p.breakout }}){% endif %}
 {% endfor %}
 
 {% assign session = site.data.tapp.sessions | where: "number","5" | first %}
@@ -114,8 +114,6 @@ Hazeline Asuncion is an Associate Professor at the University of Washington Both
 {% endfor %}
 
 
-
-
 ### Thursday - July 22nd
 
 #### 9:00 am - 12:45 am - T7 Workshop
@@ -123,7 +121,7 @@ Hazeline Asuncion is an Associate Professor at the University of Washington Both
 #### 12:45 pm - 2:45 pm - Poster and Demo Session with Breakout Rooms
 {% for p in site.data.posterdemo.accepted_papers %}
 {% assign authors = p.authors | map: 'name' %}
-- {{ p.title }} (*{{ authors | join: ', ' }}*) {% if p.link %} [Materials]({{ p.link }}){% endif %} {% if p.breakout %} -- [Breakout Room]({{ p.breakout }}){% endif %}
+- **{{ p.title }}** (*{{ authors | join: ', ' }}*) {% if p.link %} [Materials]({{ p.link }}){% endif %} {% if p.breakout %} -- [Breakout Room]({{ p.breakout }}){% endif %}
 {% endfor %}
 
 #### 2:45 pm - Provenance Week Townhall
