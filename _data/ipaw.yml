@@ -165,8 +165,8 @@ accepted_papers:
       - name: Luc Moreau
 sessions:
   - number: 1
-    title: "XXX"
+    title: "Provenance Representation"
   - number: 2
-    title: "YYY"
+    title: "Security, Reliability and Trusteworthiness"
   - number: 3
-    title: "ZZZ"
+    title: "Provenance Types, Inference, Queries and Summarization"
