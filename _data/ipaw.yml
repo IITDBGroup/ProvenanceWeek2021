@@ -166,6 +166,7 @@ accepted_papers:
 sessions:
   - number: 1
     title: "Provenance Representation"
+    chair: "Seokki Lee"
   - number: 2
     title: "Security, Reliability and Trusteworthiness"
   - number: 3
