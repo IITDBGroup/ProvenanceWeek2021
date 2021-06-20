@@ -55,7 +55,7 @@ Paolo leads the School of Computing's post-graduate academic teaching on Big Dat
 ### Tuesday - July 20th
 
 {% assign session = site.data.tapp.sessions | where: "number","1" | first %}
-#### 9:00 am - 10:15 am - TaPP - Session {{ session.number }} - {{ session.title }}
+#### 9:15 am - 10:15 am - TaPP - Session {{ session.number }} - {{ session.title }}
 {% if session.chair %}**Session chair**: {{ session.chair }}{% endif %}
 {% assign papers = site.data.tapp.accepted_papers  | where: "session","1" %}
 {% for p in papers %}
@@ -83,7 +83,7 @@ Hazeline Asuncion is an Associate Professor at the University of Washington Both
 #### 12:45 pm - 1:30 pm - Lunch break
 
 {% assign session = site.data.tapp.sessions | where: "number","3" | first %}
-#### 1:45 pm - 2:30 pm - TaPP - Session {{ session.number }} - {{ session.title }}
+#### 1:30 pm - 2:30 pm - TaPP - Session {{ session.number }} - {{ session.title }}
 {% if session.chair %}**Session chair**: {{ session.chair }}{% endif %}
 {% assign papers = site.data.tapp.accepted_papers  | where: "session","3" %}
 {% for p in papers %}
@@ -119,6 +119,7 @@ Hazeline Asuncion is an Associate Professor at the University of Washington Both
 {% assign authors = p.authors | map: 'name' %}
 - **{{ p.title }}** (*{{ authors | join: ', ' }}*) {% if p.preprint %}preprint: [{{ p.preprint }}]({{ p.preprint }}){% endif %} {% if p.video %}video: [{{ p.video }}]({{ p.video }}){% endif %}
 {% endfor %}
+
 
 
 ### Thursday - July 22nd
