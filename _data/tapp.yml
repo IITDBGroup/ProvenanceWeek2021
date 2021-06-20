@@ -229,3 +229,6 @@ sessions:
   - number: 5
     title: "BBB"
     chair: "TEST"
+  - number: 6
+    title: "CCC"
+    chair: "TEST"
