@@ -156,14 +156,14 @@ accepted_papers:
       - name: Bertram Ludascher
   - title: "GitLab2PROV—Provenance of Software Projects hosted on GitLab"
     year: 2021
-    session: 6
+    session: 5
     authors:
       - name: Andreas Schreiber
       - name: Claas de Boer
       - name: Lynn von Kurnatowski
   - title: "Detailed Provenance Metadata from Statistical Analysis Software"
     year: 2021
-    session: 6
+    session: 5
     authors:
       - name: George Alter
       - name: Jack Gager
@@ -183,7 +183,7 @@ accepted_papers:
       - name: Thomas Thelen.
   - title: "Provenance-integrated parameter selection and optimization in numerical simulations"
     year: 2021
-    session: 6
+    session: 2
     authors:
       - name: Julia Kühnert
       - name: Dominik Göddeke
@@ -228,7 +228,4 @@ sessions:
     chair: "TEST"
   - number: 5
     title: "BBB"
-    chair: "TEST"
-  - number: 6
-    title: "CCC"
     chair: "TEST"
