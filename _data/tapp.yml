@@ -215,17 +215,17 @@ accepted_papers:
       - name: Hassaan Irshad
 sessions:
   - number: 1
-    title: "XXX"
+    title: "Performance and Scalability of Provenance Systems"
     chair: "TEST"
   - number: 2
-    title: "YYY"
+    title: "Provenance Analytics"
     chair: "TEST"
   - number: 3
-    title: "ZZZ"
+    title: "Provenance Data Model and Queries"
     chair: "TEST"
   - number: 4
-    title: "AAA"
+    title: "Security"
     chair: "TEST"
   - number: 5
-    title: "BBB"
+    title: "Applications of Provenance"
     chair: "TEST"
