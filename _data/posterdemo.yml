@@ -3,81 +3,111 @@ accepted_papers:
     year: 2020
     category: poster
     authors:
-      - name: S. Samuel
-      - name: B. König-Ries
+      - name: Sheeba Samuel
+      - name: Birgitta König-Ries
     link: https://doi.org/10.6084/m9.figshare.12529604.v1
-    breakout: https://meet.google.com/xfj-fsdk-pju
     video:  https://youtu.be/rOza4dIFWaI
     preprint: https://fusion.cs.uni-jena.de/fusion/wp-content/uploads/2020/06/ReproduceMeGit_Samuel.pdf
-    slides: https://doi.org/10.6084/m9.figshare.12529604.v1
-  - title: "Machine Learning Pipelines: Provenance, Reproducibility and FAIR Data Principles"
+    slides: https://doi.org/10.6084/m9.figshare.12529604.v1      
+  - title: "Mapping Trusted Paths to VGI"
     year: 2020
     category: poster
     authors:
-      - name: S. Samuel
-      - name: F. Löffler
-      - name: B. König-Ries
-    link: https://doi.org/10.6084/m9.figshare.12529634.v1
-    breakout: https://meet.google.com/xfj-fsdk-pju
-    preprint: https://fusion.cs.uni-jena.de/fusion/wp-content/uploads/2020/06/FAIRMLpipelines.pdf
-    slides: https://doi.org/10.6084/m9.figshare.12529634.v1
-    video: https://youtu.be/QVPqg5MGAew
+      - name: Bernard Roper
+      - name: Adriane Chapman
+      - name: David Martin
+      - name: Stefano Cavazzi
+    link: assets/poster05.pptx      
+  - title: "Querying Data Preparation Modules Using Data Examples"
+    year: 2020
+    category: poster
+    authors:
+      - name: Khalid Belhajjame
+      - name: Mahmoud Barhamgi
+    link: assets/poster16.pdf      
   - title: "Privacy Aspects of Provenance Queries"
     year: 2020
     category: poster
     authors:
-      - name: T. Auge
-      - name: N. Scharlau
-      - name: A. Heuer
-    link: assets/poster35.pdf
-    breakout: https://meet.google.com/uky-frcb-qgi
+      - name: Tanja Auge
+      - name: Nic Scharlau
+      - name: Andreas Heuer
+    link: assets/poster35.pdf      
   - title: "ISO 23494: Biotechnology – Provenance Information Model for Biological Specimen and Data"
     year: 2020
     category: poster
     authors:
-      - name: R. Wittner
-      - name: P. Holub
-      - name: J. Geiger
-      - name: C. Goble
-      - name: H. Müller
-      - name: S. Soiland-Reyes
-      - name: E. Fairweather
-      - name: L. Pirredu
-      - name: F. Frexia
-      - name: C. Mascia
-      - name: G. Zanetti
-      - name: H. Nakae
-      - name: C. Strambio
-      - name: J. Moore
-      - name: D. Grunwald
-      - name: J. Swedlow
-    link: https://zenodo.org/record/3901011#.XvCuSC2z1Bz
-    breakout: https://meet.google.com/ycn-oouk-ojw
-  - title: "Explaining and Replaying Containers Using Provenance"
+      - name: Rudolf Wittner
+      - name: Petr Holub
+      - name: Heimo Müller
+      - name: Joerg Geiger
+      - name: Carole Goble
+      - name: Stian Soiland-Reyes
+      - name: Luca Pireddu
+      - name: Francesca Frexia
+      - name: Cecilia Mascia
+      - name: Elliot Fairweather
+      - name: Jason R. Swedlow
+      - name: Josh Moore
+      - name: Caterina Strambio
+      - name: David Grunwald
+      - name: Hiroki Nakae
+    link: https://zenodo.org/record/3901011#.XvCuSC2z1Bz      
+  - title: "Machine Learning Pipelines: Provenance, Reproducibility and FAIR Data Principles"
     year: 2020
     category: poster
     authors:
-      - name: R. Ahmad
-      - name: M. Deeds
-      - name: Y. Nakamura
-      - name: T. Hai
-      - name: T. Malik
-    link: https://bitbucket.org/depauldbgroup/pw20-sciunitdemo/
-    breakout: https://meet.google.com/wua-brdf-zyc
-  - title: "Mapping a Trusted Path for the Use of VGI"
-    year: 2020
+      - name: Sheeba Samuel
+      - name: Frank Löffler
+      - name: Birgitta König-Ries
+    link: https://doi.org/10.6084/m9.figshare.12529634.v1
+    preprint: https://fusion.cs.uni-jena.de/fusion/wp-content/uploads/2020/06/FAIRMLpipelines.pdf
+    slides: https://doi.org/10.6084/m9.figshare.12529634.v1
+    video: https://youtu.be/QVPqg5MGAew      
+  - title: "ProvViz: An Intuitive Prov Editor and Visualiser"
+    year: 2021
     category: poster
     authors:
-      - name: B. Roper
-      - name: A. Chapman
-      - name: D. Martin
-      - name: S. Cavazzi
-    link: assets/poster05.pptx
-    breakout: https://meet.google.com/qxc-iajm-aah
-  - title: "On Discovering Data Preparation Modules Using Examples"
-    year: 2020
+      - name: Ben Werner
+      - name: Luc Moreau
+  - title: "Curating Covid-19 data in Links"
+    year: 2021
     category: poster
     authors:
-      - name: K. Belhajjame
-    link: assets/poster16.pdf
-    breakout: https://meet.google.com/pjg-xsdk-xxe
+      - name: Vashti Galpin
+      - name: James Cheney
+  - title: "Towards a provenance management system for astronomical observatories"
+    year: 2021
+    category: poster
+    authors:
+      - name: Mathieu Servillat
+      - name: François Bonnarel
+      - name: Catherine Boisson
+      - name: Mireille Louys
+      - name: Jose Enrique Ruiz
+      - name: Michèle Sanguillon
+  - title: "Towards Provenance Integration for Field Devices in Industrial IoT systems"
+    year: 2021
+    category: poster
+    authors:
+      - name: Iori Mizutani
+      - name: Jonas Brütsch
+      - name: Simon Mayer
+  - title: "COVID-19 Analytics in Jupyter: Intuitive Provenance Integration using ProvIt"
+    year: 2021
+    category: poster
+    authors:
+      - name: Martin Chapman
+      - name: Elliot Fairweather
+      - name: Asfand Khan
+      - name: Vasa Curcin
+  - title: "CPR - A Comprehensible Provenance Record for Verification Workflows in Whole Tale"
+    year: 2021
+    category: poster
+    authors:
+      - name: Timothy M. McPhillips
+      - name: Thomas Thelen
+      - name: Craig Willis
+      - name: Kacper Kowalik
+      - name: Matthew Jones
+      - name: Bertram Ludäscher
