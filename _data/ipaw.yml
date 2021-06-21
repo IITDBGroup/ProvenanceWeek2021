@@ -169,5 +169,6 @@ sessions:
     chair: "Seokki Lee"
   - number: 2
     title: "Security, Reliability and Trusteworthiness"
+    chair: "Paolo Missier"
   - number: 3
     title: "Provenance Types, Inference, Queries and Summarization"
