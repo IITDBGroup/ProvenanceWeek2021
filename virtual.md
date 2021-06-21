@@ -106,7 +106,8 @@ Hazeline Asuncion is an Associate Professor at the University of Washington Both
 #### 9:00 am - 12:45 am - ProvViz Workshop
 
 #### 12:45 pm - 2:45 pm - Poster and Demo Session with Breakout Rooms
-{% for p in site.data.posterdemo.accepted_papers %}
+{% assign posters =  site.data.posterdemo.accepted_papers | where: "year","2021" %}
+{% for p in posters %}
 {% assign authors = p.authors | map: 'name' %}
 - **{{ p.title }}** (*{{ authors | join: ', ' }}*) {% if p.link %} [Materials]({{ p.link }}){% endif %} {% if p.breakout %} -- [Breakout Room]({{ p.breakout }}){% endif %}
 {% endfor %}
@@ -127,7 +128,8 @@ Hazeline Asuncion is an Associate Professor at the University of Washington Both
 #### 9:00 am - 12:45 am - T7 Workshop
 
 #### 12:45 pm - 2:45 pm - Poster and Demo Session with Breakout Rooms
-{% for p in site.data.posterdemo.accepted_papers %}
+{% assign posters =  site.data.posterdemo.accepted_papers | where: "year","2020" %}
+{% for p in posters %}
 {% assign authors = p.authors | map: 'name' %}
 - **{{ p.title }}** (*{{ authors | join: ', ' }}*) {% if p.link %} [Materials]({{ p.link }}){% endif %} {% if p.breakout %} -- [Breakout Room]({{ p.breakout }}){% endif %}
 {% endfor %}
