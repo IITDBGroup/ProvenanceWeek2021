@@ -122,10 +122,14 @@ Hazeline Asuncion is an Associate Professor at the University of Washington Both
 {% endfor %}
 
 
-
 ### Thursday - July 22nd
 
 #### 9:00 am - 12:45 am - T7 Workshop
+{% for p in site.data.t7.accepted_papers %}
+{% assign authors = p.authors | map: 'name' %}
+- **{{ p.title }}** (*{{ authors | join: ', ' }}*)
+{% endfor %}
+
 
 #### 12:45 pm - 2:45 pm - Poster and Demo Session with Breakout Rooms
 {% assign posters =  site.data.posterdemo.accepted_papers | where: "year","2020" %}

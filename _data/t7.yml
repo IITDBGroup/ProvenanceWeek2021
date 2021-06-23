@@ -23,3 +23,44 @@ chairs:
     role: T7 chair
     affiliation: UIUC
     email: "willis8@illinois.edu" 
+
+accepted_papers:
+
+  - title: "Principles of Transparent Research: Implementation Challenges"
+    authors:
+      - name: Lars Vilhuber
+
+  - title: "Evidence Graphs: Supporting Transparent and FAIR Computation, with Defeasible Reasoning on Data, Methods and Results"
+    authors:
+      - name: Sadnan Al Manir
+      - name: Justin	Niestroy
+      - name: Maxwell Adam	Levinson
+      - name: Timothy	Clark
+
+  - title: "Enabling Trustworthy and Tracable Research by Non-repudiable Opaque Provenance in a Distributed Environment"
+    authors:
+      - name: Rudolf Wittner
+      - name: Jörg Geiger
+      - name: Cecilia	Mascia
+      - name: Francesca	Frexia
+      - name: Heimo	Muller
+      - name: Petr	Holub
+
+  - title: "Contemporary and Established Provenance Issues in Natural History Collections"
+    authors:
+      - name: Laurence Livermore
+      - name: Ben Scott
+      - name: Mathias	Dillen
+
+  - title: "Improving the traceability of (meta)data through semantically enriched nanopublications"
+    authors:
+      - name: Matheus Pedra Puime Feijoó
+      - name: Rodrigo Jardim
+      - name: Sergio Manuel Serra da Cruz
+      - name: Maria Luiza	Campos
+    
+  - title: "Auditable spreadsheets"
+    authors:
+      - name: Laura Waltersdorfer
+      - name: Fajar Ekaputra
+      - name: Tomasz Miksa
