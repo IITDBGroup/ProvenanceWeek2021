@@ -5,9 +5,9 @@ title: Instructions for T7 Workshop Participants
 
 The following are instructions for participants of the *[T7 Workshop on Provenance for Transparent Research]({{ site.baseurl }}/t7)*.
 
-## Please note that this workshop is actually going to be a little different
+## Please note that this workshop is actually going to be a little bit different
 
-It is easy to read through a description of yet another call for abstracts and expect an advertised workshop to be like others.  No matter how a workshop is described, we generally assume that, in the end, a workshop will in fact comprise a series of presentations, with time allocated--sometimes--for a few questions between each talk. 
+It is easy to read through a description of yet another call for abstracts and expect an advertised workshop to be like all the others.  No matter how a workshop is described, we generally assume that a workshop will comprise a series of presentations, with time for just a few questions between each talk. 
 
 This workshop aims to be different. Here is how:
 
@@ -23,11 +23,41 @@ This workshop aims to be different. Here is how:
 
 * **We are not seeking consensus**. Diverse research communities stand to gain from better approaches to transparency, provenance management, and research quality. We do not expect all of the communities represented at the workshop to have the same needs. Claims that yield bimodal distributions in the levels of agreement are welcomed--and possibly the most useful outcome of this workshop.  We will highlight these divergent viewpoints and priorities in the workshop report.
 
+## Here is what we are looking for from *everyone*
+
+The following are examples of the kinds of statements we hope to collect, discuss, and assess during the workshop. We suggest that presenters include a small number of similarly phrased statements on otherwise blank slides in their talks.  
+
+Please remember that __all__ workshop attendees will be invited to submit their own statements for discussion and assessment, as well as to indicate the extent to which they agree with those of others.
+
+##### *Examples of observations*
+
+* Correct metadata makes __data__ transparent.  Correct provenance makes __results__ transparent.
+* A completely invalid computation can be exactly repeatable.
+* __Timeliness__ of research results is important. The Greenland ice sheet is not going to wait for us to get our climate models right.
+
+##### *Examples of definitions*
+
+* __Transparency__ is that which enables the quality of research to be evaluated __without__ repeating it.
+* __Traceability__ is what enables one to distinguish the computational steps and data leading to one product but not to another in the same study.
+
+##### *Examples of "insights"*
+
+* Computational reproducibility does not imply trustworthiness.
+* Successfully repeating another researcher's computation demonstrates not validity but transparency; it shows that the *description* of the computation you were provided is complete and correct.
+* The point of code reuse in research is not efficiency. The point is transparency and trust.
+
+##### *Examples of priorities*
+
+* Research communities need ways to extend provenance vocabularies to represent domain-specific concepts important to them.
+* It should be easy to plug effective, correct provenance management capabilities into new frameworks without tool developers becoming experts in the provenance research field.
+
+**Do you disagree with any of the above?  Great. Let us hear *your* thoughts at the T7 workshop!**
+
 ## Instructions for presenters
 
-* **Organize presentations around your claims**.  Participants *do* want to hear about your latest results. However, they are even more interested in how your results can help them and their research communities. Please use the content that would normally form the core of your presentation as supporting material for the definitions, insights, and arguments you are sharing. 
+* **Organize presentations around your claims**.  Participants *do* want to hear about your latest results. However, they are even more interested in how your insights can help them and their research communities. Please use the content that would normally form the core of your presentation as supporting material for the definitions, insights, and arguments you are sharing. 
 
-* **Phrase your insights to invite assessment**.  We want to find out what workshop participants think about the insights you share with them. We will employ simple polling approaches to do this in real time. Please consider how best to phrase your insights so that they can easily be assessed, e.g. on a five-level [Likert-type scale](https://en.wikipedia.org/wiki/Likert_scale).
+* **Phrase your insights to invite assessment**.  We want to find out what workshop participants think about the insights you share with them. We will employ simple polling approaches to do this in real time. Please consider how best to phrase your statements so that they can easily be assessed, e.g. on a five-level [Likert-type scale](https://en.wikipedia.org/wiki/Likert_scale).
 
 * **Be ready to hear alternative viewpoints**. Our audience response system will enable workshop participant to suggest alternatives to the insights that you share. For example, if a speaker asserts that "*We must ensure that researchers provide complete metadata for all data sets*", an audience member may counter (anonymously) with the claim *"Incomplete metadata is preferable to incorrect metadata"*.  The audience would then assess the value of both claims, possibly after a discussion that considers the assumptions, implications and limitations of each point of view.
 
