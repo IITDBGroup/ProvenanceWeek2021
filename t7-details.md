@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Instructions for T7 Workshop Participants
+title: Instructions for All T7 Workshop Participants
 ---
 
-The following are instructions for participants of the *[T7 Workshop on Provenance for Transparent Research]({{ site.baseurl }}/t7)*.
+The following are instructions for __all__ participants of the *[T7 Workshop on Provenance for Transparent Research]({{ site.baseurl }}/t7)*--not just speakers.  If you attend you are a participant (even if anonymous).
 
 ## Please note that this workshop is actually going to be a little bit different
 
@@ -27,7 +27,7 @@ This workshop aims to be different. Here is how:
 
 The following are examples of the kinds of statements we hope to collect, discuss, and assess during the workshop. We suggest that presenters include a small number of similarly phrased statements on otherwise blank slides in their talks.  
 
-Please remember that __all__ workshop attendees will be invited to submit their own statements for discussion and assessment, as well as to indicate the extent to which they agree with those of others.
+__Please remember that *all* workshop attendees will be invited to submit their own statements for discussion and assessment, as well as to indicate the extent to which they agree with those of others.__
 
 ##### *Examples of observations*
 
