@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Instructions for All T7 Workshop Participants
+title: Instructions for all T7 Workshop Participants
 ---
 
-The following are instructions for __all__ participants of the *[T7 Workshop on Provenance for Transparent Research]({{ site.baseurl }}/t7)*--not just speakers.  If you attend you are a participant (even if anonymous).
+The following are instructions for __all__ participants of the [T7 Workshop on Provenance for Transparent Research]({{ site.baseurl }}/t7)--not just speakers.  If you attend you are a participant (even if anonymous).
 
 ## Please note that this workshop is actually going to be a little bit different
 
@@ -63,6 +63,6 @@ __Please remember that *all* workshop attendees will be invited to submit their 
 
 ### More Information
 
-See the description of the *[T7 Workshop on Provenance for Transparent Research]({{ site.baseurl }}/t7)* for an overview of the workshop topics and format.
+See the description of the [T7 Workshop on Provenance for Transparent Research]({{ site.baseurl }}/t7) for an overview of the workshop topics and format.  We encourage everyone to subscribe to the [T7 Workshop Newsletter](https://t7.tmcphillips.dev/) to learn when registration opens and to receive other updates by email.
 
 Please contact [Tim McPhillips](mailto:tmcphill@illinois.edu) with any questions.
