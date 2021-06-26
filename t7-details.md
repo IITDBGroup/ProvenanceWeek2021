@@ -63,6 +63,6 @@ __Please remember that *all* workshop attendees will be invited to submit their 
 
 ### More Information
 
-See the description of the [T7 Workshop on Provenance for Transparent Research]({{ site.baseurl }}/t7) for an overview of the workshop topics and format.  We encourage everyone to subscribe to the [T7 Workshop Newsletter](https://t7.tmcphillips.dev/) to learn when registration opens and to receive other updates by email.
+See the description of the [T7 Workshop on Provenance for Transparent Research]({{ site.baseurl }}/t7) for an overview of the workshop topics and format.  We encourage everyone to subscribe to the [T7 mailing list](https://t7.tmcphillips.dev/) to learn when registration opens and to receive other updates by email.
 
 Please contact [Tim McPhillips](mailto:tmcphill@illinois.edu) with any questions.
