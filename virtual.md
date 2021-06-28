@@ -105,6 +105,16 @@ Hazeline Asuncion is an Associate Professor at the University of Washington Both
 
 #### 9:00 am - 12:45 am - ProvViz Workshop
 
+* 09:00 – Opening introduction
+* 09:15 – Keynote: [Bill Howe](https://iitdbgroup.github.io/ProvenanceWeek2021/provviz.html)
+* 10:15 – Discussion abstract presentations
+* 10:45 – Proposal of other topics from workshop attendees
+* 11:00 – Break and group selection
+* 11:15 – Discussion session 1
+* 11:45 – Discussion session 2 (changing groups is optional)
+* 12:15 – Report back and closing
+* 12:45 – Workshop end
+
 #### 12:45 pm - 2:45 pm - Poster and Demo Session with Breakout Rooms
 {% assign posters =  site.data.posterdemo.accepted_papers | where: "year","2021" %}
 {% for p in posters %}
