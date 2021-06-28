@@ -18,13 +18,21 @@ All Provenance Week 2021 participants are welcome to join.  Optionally, you may 
 The workshop is scheduled to be held in the morning of Wednesday, July 21.  All listed times are CDT (UTC-05:00).
 
 09:00 -- Opening introduction
+
 09:15 -- Keynote:  Bill Howe
+
 10:15 -- Discussion abstract presentations
+
 10:45 -- Proposal of other topics from workshop attendees
+
 11:00 -- Break and group selection
+
 11:15 -- Discussion session 1
+
 11:45 -- Discussion session 2 (changing groups is optional)
+
 12:15 -- Report back and closing
+
 12:45 -- Workshop end
 
 ### Keynote from Bill Howe, University of Washington
