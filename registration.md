@@ -5,7 +5,7 @@ title: Registration
 
 **ProvenanceWeek [registration](https://ecom.uncc.edu/C21561_ustores/web/store_main.jsp?STOREID=247&SINGLESTORE=true) is now open!**
 
-ProvenanceWeek registration is **free** for attendees. However, to cover the publication fees and other costs, **a fixed fee will be charged per IPAW / TaPP / demo / poster paper**. This fee is payed for by one author registering using payed registration.
+ProvenanceWeek registration is **free** for attendees. However, to cover the publication fees and other costs, **a fixed fee will be charged per IPAW / TaPP / demo / poster paper**. This fee is paid for by one author registering using paid registration.
 
 - $200 per full paper (TaPP / IPAW)
 - $50 per poster/demo paper
