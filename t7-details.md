@@ -72,3 +72,7 @@ We will assume that __every insight we evaluate is implicitly qualified with__ *
 See the description of the [T7 Workshop on Provenance for Transparent Research]({{ site.baseurl }}/t7) for an overview of the workshop topics and format.  We encourage everyone to [subscribe to the T7 mailing list](https://t7.tmcphillips.dev/) to learn when registration opens and to receive other updates by email.
 
 Please contact [Tim McPhillips](mailto:tmcphill@illinois.edu) with any questions.
+
+<div class="container">
+  <img src="assets/T7-Logo-resized-smaller.png" />
+</div>
