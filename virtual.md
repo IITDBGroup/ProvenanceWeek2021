@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Schedule (Draft Version)
+title: Schedule
 ---
 
 The  virtual 2021 provenance week event will be held on **{{ site.virtual_event }}**. Authors of accepted TaPP and IPAW papers will be given a full presentation slot. There will be two poster / demo sessions with break-out rooms for each poster and demo where participants can interact with the presenter. **All times are in central time**.
