@@ -134,7 +134,10 @@ Hazeline Asuncion is an Associate Professor at the University of Washington Both
 
 ### Thursday - July 22nd
 
-#### 9:00 am - 12:45 am - T7 Workshop
+#### 9:00 am - 12:45 am - T7 Workshop on Provenance for Transparent Research
+
+The <span style="text-decoration: underline">[T7 Workshop]({{ site.baseurl }}/t7)</span> will comprise the keynote presentation and lightning talks listed below. Faciliated discussion will follow each presentation. Please see the the <span style="text-decoration: underline">[Instructions for All T7 Workshop Participants]({{ site.baseurl }}/t7-details)</span> and <span style="text-decoration: underline">[T7 Workshop Agenda](https://t7.tmcphillips.dev/agenda)</span> for more details. 
+
 {% for p in site.data.t7.accepted_papers %}
 {% assign authors = p.authors | map: 'name' %}
 - **{{ p.title }}** (*{{ authors | join: ', ' }}*)

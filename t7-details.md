@@ -11,9 +11,9 @@ It is easy to read through a call for abstracts and expect an upcoming workshop 
 
 This workshop aims to be different. Here is how:
 
-* **Presentations will be brief.**  Presenters will be given five minutes to speak. The experience will be somewhere between a series of lightning talks and a panel discussion. The keynote will be the single exception.
+* **Presentations will be brief.**  Presenters will be given five minutes to speak. The experience will be somewhere between a series of lightning talks and a panel discussion. The keynote will be the single exception. Please see the <span style="text-decoration: underline">[T7 Workshop Agenda](https://t7.tmcphillips.dev/agenda)</span>. 
 
-* **Equal time will be reserved for discussion.** A five-minute discussion will follow each 5 minute presentation. The workshop will conclude with a longer discussion for a final group assessment of the material shared during the workshop.
+* **Time will be reserved for discussion.** A ten-minute discussion will follow each 5-minute presentation. The workshop will conclude with a longer discussion for a final group assessment of the material shared during the workshop. Please see the <span style="text-decoration: underline">[T7 Workshop Agenda](https://t7.tmcphillips.dev/agenda)</span>. 
 
 * **Presenters will explicitly identify their insights.** Speakers will summarize the insights and arguments they share during their presentations. These summaries will take the form of short assertions that can be assessed by the workshop participants and included in a workshop report with those assessments.
 
@@ -69,7 +69,9 @@ We will assume that __every insight we evaluate is implicitly qualified with__ *
 
 ### More Information
 
-See the description of the [T7 Workshop on Provenance for Transparent Research]({{ site.baseurl }}/t7) for an overview of the workshop topics and format.  We encourage everyone to [subscribe to the T7 mailing list](https://t7.tmcphillips.dev/) to learn when registration opens and to receive other updates by email.
+See the description of the [T7 Workshop on Provenance for Transparent Research]({{ site.baseurl }}/t7) for an overview of the workshop topics and format, and the <span style="text-decoration: underline">[T7 Workshop Agenda](https://t7.tmcphillips.dev/agenda)</span> for a detailed schedule.
+
+We encourage everyone to __<span style="text-decoration: underline">[subscribe to the T7 mailing list](https://t7.tmcphillips.dev/mailing-list)</span>__ to receive further updates about the workshop format, agenda, and schedule by email.
 
 Please contact [Tim McPhillips](mailto:tmcphill@illinois.edu) with any questions.
 

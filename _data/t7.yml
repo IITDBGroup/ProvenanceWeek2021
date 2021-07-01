@@ -28,7 +28,7 @@ accepted_papers:
 
   - title: "Principles of Transparent Research: Implementation Challenges"
     authors:
-      - name: Lars Vilhuber
+      - name: Keynote, Lars Vilhuber
 
   - title: "Evidence Graphs: Supporting Transparent and FAIR Computation, with Defeasible Reasoning on Data, Methods and Results"
     authors:
@@ -36,6 +36,13 @@ accepted_papers:
       - name: Justin	Niestroy
       - name: Maxwell Adam	Levinson
       - name: Timothy	Clark
+
+  - title: "Improving the traceability of (meta)data through semantically enriched nanopublications"
+    authors:
+      - name: Matheus Pedra Puime Feijoó
+      - name: Rodrigo Jardim
+      - name: Sergio Manuel Serra da Cruz
+      - name: Maria Luiza	Campos
 
   - title: "Enabling Trustworthy and Tracable Research by Non-repudiable Opaque Provenance in a Distributed Environment"
     authors:
@@ -51,13 +58,6 @@ accepted_papers:
       - name: Laurence Livermore
       - name: Ben Scott
       - name: Mathias	Dillen
-
-  - title: "Improving the traceability of (meta)data through semantically enriched nanopublications"
-    authors:
-      - name: Matheus Pedra Puime Feijoó
-      - name: Rodrigo Jardim
-      - name: Sergio Manuel Serra da Cruz
-      - name: Maria Luiza	Campos
     
   - title: "Auditable spreadsheets"
     authors:
