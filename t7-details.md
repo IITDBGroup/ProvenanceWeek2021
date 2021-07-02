@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Instructions for all T7 Workshop Participants
+title: T7 Workshop Format and Instructions for Participants
 ---
 
 The following are instructions for __all__ attendees of the [T7 Workshop on Provenance for Transparent Research]({{ site.baseurl }}/t7)--not just speakers.  If you attend you are a participant (even if anonymous).
