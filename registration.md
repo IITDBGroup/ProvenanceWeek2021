@@ -14,3 +14,5 @@ Please note that if you have more than one paper accepted (including papers of 2
 does not matter which author is paying the fees.
 
 Please proceed to the [Registration WebSite](https://ecom.uncc.edu/C21561_ustores/web/store_main.jsp?STOREID=247&SINGLESTORE=true)
+
+**Note that we do not require you to enter a valid phone number and state. However, we need your email address to send you the Zoom link for the event. We would have removed the phone and state questions, but because of limitations of the registration system this was not possible.**
