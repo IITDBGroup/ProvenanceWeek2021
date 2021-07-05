@@ -17,5 +17,5 @@ Please proceed to the [Registration WebSite](https://ecom.uncc.edu/C21561_ustore
 
 
 **Important notes:**
-- **We do not require you to enter a valid phone number and state.** However, **we need your email address** to send you the Zoom link for the event. We would have removed the phone and state questions, but because of limitations of the registration system this was not possible
-- For authors that want to **register for multiple papers**: you have to go through the registration process one per paper. Again, limitations of the registration system prevent us from fixing this.
+- **We do not require you to enter a valid phone number and state.** However, **we need your email address** to send you the Zoom link for the event. We would have removed the phone and state questions, but because of limitations of the registration system this was not possible.
+- For authors that want to **register for multiple papers**: you have to go through the registration process once per paper. Again, limitations of the registration system prevent us from fixing this.
