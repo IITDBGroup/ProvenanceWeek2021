@@ -30,12 +30,19 @@ accepted_papers:
     authors:
       - name: Keynote, Lars Vilhuber
 
+  - title: Automated screening of COVID-19 preprints - Are we helping authors improve transparency and reproducibility?
+    authors:
+      - name: Automated Screening Working Group
+      - name: Anita Bandrowski
+    abstract: https://t7.tmcphillips.dev/abstracts#bandrowski
+
   - title: "Evidence Graphs: Supporting Transparent and FAIR Computation, with Defeasible Reasoning on Data, Methods and Results"
     authors:
       - name: Sadnan Al Manir
       - name: Justin	Niestroy
       - name: Maxwell Adam	Levinson
       - name: Timothy	Clark
+    abstract: https://t7.tmcphillips.dev/abstracts#manir
 
   - title: "Improving the traceability of (meta)data through semantically enriched nanopublications"
     authors:
@@ -43,6 +50,7 @@ accepted_papers:
       - name: Rodrigo Jardim
       - name: Sergio Manuel Serra da Cruz
       - name: Maria Luiza	Campos
+    abstract: https://t7.tmcphillips.dev/abstracts#feijoo
 
   - title: "Enabling Trustworthy and Tracable Research by Non-repudiable Opaque Provenance in a Distributed Environment"
     authors:
@@ -52,15 +60,18 @@ accepted_papers:
       - name: Francesca	Frexia
       - name: Heimo	Muller
       - name: Petr	Holub
+    abstract: https://t7.tmcphillips.dev/abstracts#wittner
 
   - title: "Contemporary and Established Provenance Issues in Natural History Collections"
     authors:
       - name: Laurence Livermore
       - name: Ben Scott
       - name: Mathias	Dillen
-    
+    abstract: https://t7.tmcphillips.dev/abstracts#livermore
+  
   - title: "Auditable spreadsheets"
     authors:
       - name: Laura Waltersdorfer
       - name: Fajar Ekaputra
       - name: Tomasz Miksa
+    abstract: https://t7.tmcphillips.dev/abstracts#waltersdorfer
