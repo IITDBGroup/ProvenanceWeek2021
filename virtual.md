@@ -136,7 +136,11 @@ Hazeline Asuncion is an Associate Professor at the University of Washington Both
 
 #### 9:00 am - 12:45 am - T7 Workshop on Provenance for Transparent Research
 
-The <span style="text-decoration: underline">[T7 Workshop]({{ site.baseurl }}/t7)</span> will comprise the keynote presentation and lightning talks listed below. Faciliated discussion will follow each presentation. Please see the the <span style="text-decoration: underline">[Instructions for All T7 Workshop Participants]({{ site.baseurl }}/t7-details)</span> and <span style="text-decoration: underline">[T7 Workshop Agenda](https://t7.tmcphillips.dev/agenda)</span> for more details. 
+<span style="font-weight: bold">
+[About T7]({{ site.baseurl }}/t7) &nbsp;&nbsp; [Workshop Format]({{ site.baseurl }}/t7-details) &nbsp;&nbsp; [Detailed Schedule](https://t7.tmcphillips.dev/agenda) &nbsp;&nbsp; [Abstracts](https://t7.tmcphillips.dev/abstracts) &nbsp;&nbsp; [Mailing List](https://t7.tmcphillips.dev/mailing-list) &nbsp;&nbsp; [Register Now]({{ site.baseurl }}/registration) 
+</span>
+<!-- 
+The <span style="text-decoration: underline">[T7 Workshop]({{ site.baseurl }}/t7)</span> will comprise the keynote presentation and lightning talks listed below. Faciliated discussion will follow each presentation. Please see the the <span style="text-decoration: underline">[Instructions for All T7 Workshop Participants]({{ site.baseurl }}/t7-details)</span> and <span style="text-decoration: underline">[T7 Workshop Agenda](https://t7.tmcphillips.dev/agenda)</span> for more details.  -->
 
 {% for p in site.data.t7.accepted_papers %}
 {% assign authors = p.authors | map: 'name' %}
