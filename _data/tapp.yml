@@ -216,13 +216,13 @@ accepted_papers:
 sessions:
   - number: 1
     title: "Performance and Scalability of Provenance Systems"
-    chair: "TEST"
+    chair: "Peter Alvaro"
   - number: 2
     title: "Provenance Analytics"
-    chair: "TEST"
+    chair: "Khalid Belhajjame"
   - number: 3
     title: "Provenance Data Model and Queries"
-    chair: "TEST"
+    chair: "Ashish Gehani"
   - number: 4
     title: "Security"
     chair: "TEST"
