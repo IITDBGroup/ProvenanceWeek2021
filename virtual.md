@@ -5,19 +5,15 @@ title: Schedule
 
 The  virtual 2021 provenance week event will be held on **{{ site.virtual_event }}**. Authors of accepted TaPP and IPAW papers will be given a full presentation slot. There will be two poster / demo sessions with break-out rooms for each poster and demo where participants can interact with the presenter. **All times are in central time**.
 
-### Join the event
+#### Join the event
 
 We are using Zoom. The zoom link will be send to all registered participants.
 
-### Free Online Access to IPAW + Joint Posters and Demos LNCS Proceedings
+#### Free Online Access to IPAW + Joint Posters and Demos LNCS Proceedings
 
 Springer is providing free online access to the [IPAW LNCS proceedings](https://link.springer.com/book/10.1007/978-3-030-80960-7) for a period of 4 weeks. 
 
-<BR/><BR/>
-
-## Schedule
-
-<BR/><BR/>
+## Detailed Schedule
 
 ### Monday - July 19th
 
