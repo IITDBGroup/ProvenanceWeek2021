@@ -11,7 +11,7 @@ We are using Zoom. The zoom link will be send to all registered participants.
 
 #### Free Online Access to IPAW + Joint Posters and Demos LNCS Proceedings
 
-Springer is providing free online access to the [IPAW LNCS proceedings](https://link.springer.com/book/10.1007/978-3-030-80960-7) for a period of 4 weeks. 
+Springer is providing 4 weeks of free online access to the [IPAW LNCS proceedings](https://link.springer.com/book/10.1007/978-3-030-80960-7) for ProvenanceWeek participants. 
 
 ## Detailed Schedule
 
