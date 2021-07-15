@@ -20,6 +20,9 @@ The workshop is scheduled to be held in the morning of Wednesday, July 21.  All 
 * 09:00 -- Opening introduction
 * 09:15 -- Keynote:  Bill Howe
 * 10:15 -- Discussion abstract presentations
+  * Gadhave, "[Challenges in Implementing Provenance Tracking in Visualizations](https://iitdbgroup.github.io/ProvenanceWeek2021/provviz/gadhave_provenancetracking.pdf)"
+  * Ha & Ottley, "[The Role of Trust in Visual Analytic Provenance](https://iitdbgroup.github.io/ProvenanceWeek2021/provviz/ha_ottley_trust.pdf)"
+  * Nguyen, Shamsi, Wonsil, Khan, Seltzer, & Munzner, "[The Value of Data Abstraction and Transformation of Provenance Data for Visual Analysis](https://iitdbgroup.github.io/ProvenanceWeek2021/provviz/nguyen_et_al_abstraction.pdf)"
 * 10:45 -- Proposal of other topics from workshop attendees
 * 11:00 -- Break and group selection
 * 11:15 -- Discussion session 1
