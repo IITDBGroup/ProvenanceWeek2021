@@ -77,6 +77,7 @@ accepted_papers:
     authors:
       - name: Vashti Galpin
       - name: James Cheney
+    link: https://doi.org/10.5281/zenodo.5112160
   - title: "Towards a provenance management system for astronomical observatories"
     year: 2021
     category: poster
