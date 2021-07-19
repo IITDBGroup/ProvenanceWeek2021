@@ -4,7 +4,7 @@ title: T7 Workshop Format
 ---
 
 <span style="font-weight: bold">
-[About T7]({{ site.baseurl }}/t7) &nbsp;&nbsp; [Workshop Format]({{ site.baseurl }}/t7-details) &nbsp;&nbsp; [Detailed Schedule](https://t7.tmcphillips.dev/agenda) &nbsp;&nbsp; [Abstracts](https://t7.tmcphillips.dev/abstracts) &nbsp;&nbsp; [Mailing List](https://t7.tmcphillips.dev/mailing-list) &nbsp;&nbsp; [Register Now]({{ site.baseurl }}/registration) 
+[About T7]({{ site.baseurl }}/t7) &nbsp;&nbsp; [Workshop Format]({{ site.baseurl }}/t7-details) &nbsp;&nbsp; [Detailed Schedule](https://t7.tmcphillips.dev/agenda) &nbsp;&nbsp; [Abstracts](https://t7.tmcphillips.dev/abstracts) &nbsp;&nbsp; [Mailing List](https://t7.tmcphillips.dev/mailing-list) &nbsp;&nbsp; [Register Now](https://forms.gle/wsBbHkita4uSqDq56) 
 </span>
 
 The following are instructions for __all__ attendees of the [T7 Workshop on Provenance for Transparent Research]({{ site.baseurl }}/t7)--not just speakers.  If you attend you are a participant (even if anonymous).
