@@ -32,7 +32,7 @@ accepted_papers:
       - name: Tanja Auge
       - name: Nic Scharlau
       - name: Andreas Heuer
-    link: assets/poster35.pdf      
+    link: http://eprints.dbis.informatik.uni-rostock.de/1022/
   - title: "ISO 23494: Biotechnology – Provenance Information Model for Biological Specimen and Data"
     year: 2020
     category: poster
@@ -52,7 +52,7 @@ accepted_papers:
       - name: Caterina Strambio
       - name: David Grunwald
       - name: Hiroki Nakae
-    link: https://zenodo.org/record/3901011#.XvCuSC2z1Bz      
+    link: https://zenodo.org/record/5084574#.YOwF1-gzYuU
   - title: "Machine Learning Pipelines: Provenance, Reproducibility and FAIR Data Principles"
     year: 2020
     category: poster
@@ -70,6 +70,7 @@ accepted_papers:
     authors:
       - name: Ben Werner
       - name: Luc Moreau
+    link: https://provviz.com
   - title: "Curating Covid-19 data in Links"
     year: 2021
     category: poster
@@ -86,6 +87,7 @@ accepted_papers:
       - name: Mireille Louys
       - name: Jose Enrique Ruiz
       - name: Michèle Sanguillon
+    link: assets/poster-servillat.pdf
   - title: "Towards Provenance Integration for Field Devices in Industrial IoT systems"
     year: 2021
     category: poster
@@ -93,6 +95,7 @@ accepted_papers:
       - name: Iori Mizutani
       - name: Jonas Brütsch
       - name: Simon Mayer
+    link: assets/poster-mizutani.pdf
   - title: "COVID-19 Analytics in Jupyter: Intuitive Provenance Integration using ProvIt"
     year: 2021
     category: poster
@@ -101,6 +104,7 @@ accepted_papers:
       - name: Elliot Fairweather
       - name: Asfand Khan
       - name: Vasa Curcin
+    link: https://github.com/kclhi/provit-chapman-pw2021-37
   - title: "CPR - A Comprehensible Provenance Record for Verification Workflows in Whole Tale"
     year: 2021
     category: poster
