@@ -63,7 +63,17 @@ accepted_papers:
     link: https://doi.org/10.6084/m9.figshare.12529634.v1
     preprint: https://fusion.cs.uni-jena.de/fusion/wp-content/uploads/2020/06/FAIRMLpipelines.pdf
     slides: https://doi.org/10.6084/m9.figshare.12529634.v1
-    video: https://youtu.be/QVPqg5MGAew      
+    video: https://youtu.be/QVPqg5MGAew
+  - title: "Explaining and Replaying Containers Using Provenance"
+    year: 2020
+    category: poster
+    authors:
+      - name: R. Ahmad
+      - name: M. Deeds
+      - name: Y. Nakamura
+      - name: T. Hai
+      - name: T. Malik
+    link: https://bitbucket.org/depauldbgroup/pw20-sciunitdemo/    
   - title: "ProvViz: An Intuitive Prov Editor and Visualiser"
     year: 2021
     category: poster
