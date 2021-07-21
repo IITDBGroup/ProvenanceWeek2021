@@ -128,7 +128,7 @@ Hazeline Asuncion is an Associate Professor at the University of Washington Both
 {% assign posters =  site.data.posterdemo.accepted_papers | where: "year","2021" %}
 {% for p in posters %}
 {% assign authors = p.authors | map: 'name' %}
-- **{{ p.title }}** (*{{ authors | join: ', ' }}*) {% if p.link %} [Materials]({{ p.link }}){% endif %} {% if p.breakout %} -- [Breakout Room]({{ p.breakout }}){% endif %}
+- **{{ p.title }}** (*{{ authors | join: ', ' }}*) {% if p.link %} [Materials]({{ p.link }}){% endif %} {% if p.room %} -- Zoom Breakout Room #{{ p.room }}{% endif %}
 {% endfor %}
 
 {% assign session = site.data.tapp.sessions | where: "number","5" | first %}
