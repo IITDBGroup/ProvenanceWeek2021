@@ -36,7 +36,7 @@ accepted_papers:
       - name: Anita Bandrowski
     abstract: https://t7.tmcphillips.dev/abstracts#bandrowski
 
-  - title: "Evidence Graphs: Supporting Transparent and FAIR Computation, with Defeasible Reasoning on Data, Methods and Results"
+  - title: "Persistent IDs and W3C PROV, or, Is W3C PROV FAIR?"
     authors:
       - name: Sadnan Al Manir
       - name: Justin	Niestroy
@@ -75,3 +75,8 @@ accepted_papers:
       - name: Fajar Ekaputra
       - name: Tomasz Miksa
     abstract: https://t7.tmcphillips.dev/abstracts#waltersdorfer
+
+  - title: "From Traceability to Transparency of Bioinformatics Data Analyses: Round Trip?"
+    authors:
+      - name: Sarah Cohen-Boulakia
+    abstract: https://t7.tmcphillips.dev/abstracts#cohen-boulakia
