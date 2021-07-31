@@ -29,6 +29,7 @@ accepted_papers:
   - title: "Principles of Transparent Research: Implementation Challenges"
     authors:
       - name: Keynote, Lars Vilhuber
+    slides: https://doi.org/10.5281/zenodo.5129476
 
   - title: Automated screening of COVID-19 preprints - Are we helping authors improve transparency and reproducibility?
     authors:

@@ -153,7 +153,7 @@ The <span style="text-decoration: underline">[T7 Workshop]({{ site.baseurl }}/t7
 
 {% for p in site.data.t7.accepted_papers %}
 {% assign authors = p.authors | map: 'name' %}
-- **{{ p.title }}** (*{{ authors | join: ', ' }}*) {% if p.abstract %}[[abstract]]({{ p.abstract }}){% endif %}
+- **{{ p.title }}** (*{{ authors | join: ', ' }}*) {% if p.abstract %}[[abstract]]({{ p.abstract }}){% endif %} {% if p.slides %}[[slides]]({{ p.slides }}){% endif %}
 {% endfor %}
 
 
