@@ -8,7 +8,8 @@ accepted_papers:
     link: https://doi.org/10.6084/m9.figshare.12529604.v1
     video:  https://youtu.be/rOza4dIFWaI
     preprint: https://fusion.cs.uni-jena.de/fusion/wp-content/uploads/2020/06/ReproduceMeGit_Samuel.pdf
-    slides: https://doi.org/10.6084/m9.figshare.12529604.v1      
+    slides: https://doi.org/10.6084/m9.figshare.12529604.v1
+    room: 1
   - title: "Mapping Trusted Paths to VGI"
     year: 2020
     category: poster
@@ -17,14 +18,16 @@ accepted_papers:
       - name: Adriane Chapman
       - name: David Martin
       - name: Stefano Cavazzi
-    link: assets/poster05.pptx      
+    link: assets/poster05.pptx
+    room: 2
   - title: "Querying Data Preparation Modules Using Data Examples"
     year: 2020
     category: poster
     authors:
       - name: Khalid Belhajjame
       - name: Mahmoud Barhamgi
-    link: assets/poster16.pdf      
+    link: assets/poster16.pdf
+    room: 3
   - title: "Privacy Aspects of Provenance Queries"
     year: 2020
     category: poster
@@ -33,6 +36,7 @@ accepted_papers:
       - name: Nic Scharlau
       - name: Andreas Heuer
     link: http://eprints.dbis.informatik.uni-rostock.de/1022/
+    room: 4
   - title: "ISO 23494: Biotechnology – Provenance Information Model for Biological Specimen and Data"
     year: 2020
     category: poster
@@ -53,6 +57,7 @@ accepted_papers:
       - name: David Grunwald
       - name: Hiroki Nakae
     link: https://zenodo.org/record/5084574#.YOwF1-gzYuU
+    room: 5
   - title: "Machine Learning Pipelines: Provenance, Reproducibility and FAIR Data Principles"
     year: 2020
     category: poster
@@ -64,16 +69,18 @@ accepted_papers:
     preprint: https://fusion.cs.uni-jena.de/fusion/wp-content/uploads/2020/06/FAIRMLpipelines.pdf
     slides: https://doi.org/10.6084/m9.figshare.12529634.v1
     video: https://youtu.be/QVPqg5MGAew
+    room: 1
   - title: "Explaining and Replaying Containers Using Provenance"
     year: 2020
     category: poster
     authors:
-      - name: R. Ahmad
-      - name: M. Deeds
-      - name: Y. Nakamura
-      - name: T. Hai
-      - name: T. Malik
-    link: https://bitbucket.org/depauldbgroup/pw20-sciunitdemo/    
+      - name: Raza Ahmad
+      - name: Madeline Deeds
+      - name: Yuta Nakamura
+      - name: Naga Nithin Manne
+      - name: Tanu Malik
+    link: https://bitbucket.org/depauldbgroup/pw20-sciunitdemo/
+    room: 6
   - title: "ProvViz: An Intuitive Prov Editor and Visualiser"
     year: 2021
     category: poster
@@ -81,6 +88,7 @@ accepted_papers:
       - name: Ben Werner
       - name: Luc Moreau
     link: https://provviz.com
+    room: 1
   - title: "Curating Covid-19 data in Links"
     year: 2021
     category: poster
@@ -88,6 +96,7 @@ accepted_papers:
       - name: Vashti Galpin
       - name: James Cheney
     link: https://doi.org/10.5281/zenodo.5112160
+    room: 2
   - title: "Towards a provenance management system for astronomical observatories"
     year: 2021
     category: poster
@@ -99,6 +108,7 @@ accepted_papers:
       - name: Jose Enrique Ruiz
       - name: Michèle Sanguillon
     link: assets/poster-servillat.pdf
+    room: 3
   - title: "Towards Provenance Integration for Field Devices in Industrial IoT systems"
     year: 2021
     category: poster
@@ -107,6 +117,7 @@ accepted_papers:
       - name: Jonas Brütsch
       - name: Simon Mayer
     link: assets/poster-mizutani.pdf
+    room: 4
   - title: "COVID-19 Analytics in Jupyter: Intuitive Provenance Integration using ProvIt"
     year: 2021
     category: poster
@@ -116,6 +127,7 @@ accepted_papers:
       - name: Asfand Khan
       - name: Vasa Curcin
     link: https://github.com/kclhi/provit-chapman-pw2021-37
+    room: 5
   - title: "CPR - A Comprehensible Provenance Record for Verification Workflows in Whole Tale"
     year: 2021
     category: poster
@@ -126,3 +138,5 @@ accepted_papers:
       - name: Kacper Kowalik
       - name: Matthew Jones
       - name: Bertram Ludäscher
+    link: https://github.com/CIRSS/cpr-demo-2021
+    room: 6

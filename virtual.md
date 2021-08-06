@@ -128,7 +128,7 @@ Hazeline Asuncion is an Associate Professor at the University of Washington Both
 {% assign posters =  site.data.posterdemo.accepted_papers | where: "year","2021" %}
 {% for p in posters %}
 {% assign authors = p.authors | map: 'name' %}
-- **{{ p.title }}** (*{{ authors | join: ', ' }}*) {% if p.link %} [Materials]({{ p.link }}){% endif %} {% if p.breakout %} -- [Breakout Room]({{ p.breakout }}){% endif %}
+- **{{ p.title }}** (*{{ authors | join: ', ' }}*) {% if p.link %} [Materials]({{ p.link }}){% endif %} {% if p.room %} -- Zoom Breakout Room #{{ p.room }}{% endif %}
 {% endfor %}
 
 {% assign session = site.data.tapp.sessions | where: "number","5" | first %}
@@ -153,7 +153,7 @@ The <span style="text-decoration: underline">[T7 Workshop]({{ site.baseurl }}/t7
 
 {% for p in site.data.t7.accepted_papers %}
 {% assign authors = p.authors | map: 'name' %}
-- **{{ p.title }}** (*{{ authors | join: ', ' }}*) {% if p.abstract %}[[abstract]]({{ p.abstract }}){% endif %}
+- **{{ p.title }}** (*{{ authors | join: ', ' }}*) {% if p.abstract %}[[abstract]]({{ p.abstract }}){% endif %} {% if p.slides %}[[slides]]({{ p.slides }}){% endif %}
 {% endfor %}
 
 
@@ -161,7 +161,7 @@ The <span style="text-decoration: underline">[T7 Workshop]({{ site.baseurl }}/t7
 {% assign posters =  site.data.posterdemo.accepted_papers | where: "year","2020" %}
 {% for p in posters %}
 {% assign authors = p.authors | map: 'name' %}
-- **{{ p.title }}** (*{{ authors | join: ', ' }}*) {% if p.link %} [Materials]({{ p.link }}){% endif %} {% if p.breakout %} -- [Breakout Room]({{ p.breakout }}){% endif %}
+- **{{ p.title }}** (*{{ authors | join: ', ' }}*) {% if p.link %} [Materials]({{ p.link }}){% endif %} {% if p.room %} -- Zoom Breakout Room #{{ p.room }}{% endif %}
 {% endfor %}
 
 #### 2:45 pm - Provenance Week Townhall
